@@ -3,6 +3,7 @@
     "global",
     "core/color",
     "semantic/light",
-    "semantic/dark"
+    "semantic/dark",
+    "core/opacity"
   ]
 }
