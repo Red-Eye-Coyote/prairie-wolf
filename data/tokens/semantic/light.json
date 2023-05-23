@@ -33,7 +33,7 @@
       "type": "color"
     },
     "secondary": {
-      "value": "#006a6a",
+      "value": "{color.ref.secondary.400}",
       "type": "color"
     },
     "on-secondary": {
@@ -41,31 +41,31 @@
       "type": "color"
     },
     "secondary-container": {
-      "value": "#29fbfb",
+      "value": "{color.ref.secondary.900}",
       "type": "color"
     },
     "on-secondary-container": {
-      "value": "#002020",
+      "value": "{color.ref.secondary.100}",
       "type": "color"
     },
     "secondary-fixed": {
-      "value": "#29fbfb",
+      "value": "{color.ref.secondary.900}",
       "type": "color"
     },
     "on-secondary-fixed": {
-      "value": "#002020",
+      "value": "{color.ref.secondary.100}",
       "type": "color"
     },
     "secondary-fixed-dim": {
-      "value": "#00dddd",
+      "value": "{color.ref.secondary.800}",
       "type": "color"
     },
     "on-secondary-fixed-variant": {
-      "value": "#004f4f",
+      "value": "{color.ref.secondary.300}",
       "type": "color"
     },
     "tertiary": {
-      "value": "#705c2e",
+      "value": "{color.ref.tertiary.400}",
       "type": "color"
     },
     "on-tertiary": {
@@ -73,27 +73,27 @@
       "type": "color"
     },
     "tertiary-container": {
-      "value": "#fbdfa6",
+      "value": "{color.ref.tertiary.900}",
       "type": "color"
     },
     "on-tertiary-container": {
-      "value": "#251a00",
+      "value": "{color.ref.tertiary.100}",
       "type": "color"
     },
     "tertiary-fixed": {
-      "value": "#fbdfa6",
+      "value": "{color.ref.tertiary.900}",
       "type": "color"
     },
     "on-tertiary-fixed": {
-      "value": "#251a00",
+      "value": "{color.ref.tertiary.100}",
       "type": "color"
     },
     "tertiary-fixed-dim": {
-      "value": "#dec38c",
+      "value": "{color.ref.tertiary.800}",
       "type": "color"
     },
     "on-tertiary-fixed-variant": {
-      "value": "#564419",
+      "value": "{color.ref.tertiary.300}",
       "type": "color"
     },
     "error": {
@@ -113,39 +113,39 @@
       "type": "color"
     },
     "outline": {
-      "value": "#857370",
+      "value": "{color.ref.neutral-variant.500}",
       "type": "color"
     },
     "background": {
-      "value": "#fbfcfe",
+      "value": "{color.ref.neutral.990}",
       "type": "color"
     },
     "on-background": {
-      "value": "#191c1e",
+      "value": "{color.ref.neutral.100}",
       "type": "color"
     },
     "surface": {
-      "value": "#f8f9fb",
+      "value": "{color.ref.neutral.980}",
       "type": "color"
     },
     "on-surface": {
-      "value": "#191c1e",
+      "value": "{color.ref.neutral.100}",
       "type": "color"
     },
     "surface-variant": {
-      "value": "#f5ddda",
+      "value": "{color.ref.neutral-variant.900}",
       "type": "color"
     },
     "on-surface-variant": {
-      "value": "#534341",
+      "value": "{color.ref.neutral-variant.300}",
       "type": "color"
     },
     "inverse-surface": {
-      "value": "#2e3133",
+      "value": "{color.ref.neutral.200}",
       "type": "color"
     },
     "inverse-on-surface": {
-      "value": "#f0f1f3",
+      "value": "{color.ref.neutral.950}",
       "type": "color"
     },
     "inverse-primary": {
@@ -153,7 +153,7 @@
       "type": "color"
     },
     "shadow": {
-      "value": "#000000",
+      "value": "{color.black}",
       "type": "color"
     },
     "surface-tint": {
@@ -161,27 +161,27 @@
       "type": "color"
     },
     "outline-variant": {
-      "value": "#d8c2be",
+      "value": "{color.ref.neutral-variant.800}",
       "type": "color"
     },
     "scrim": {
-      "value": "#000000",
+      "value": "{color.black}",
       "type": "color"
     },
     "surface-container-highest": {
-      "value": "#e1e2e5",
+      "value": "{color.ref.neutral.900}",
       "type": "color"
     },
     "surface-container-high": {
-      "value": "#e7e8ea",
+      "value": "{color.ref.neutral.920}",
       "type": "color"
     },
     "surface-container": {
-      "value": "#edeef0",
+      "value": "{color.ref.neutral.940}",
       "type": "color"
     },
     "surface-container-low": {
-      "value": "#f2f4f6",
+      "value": "{color.ref.neutral.960}",
       "type": "color"
     },
     "surface-container-lowest": {
@@ -189,11 +189,11 @@
       "type": "color"
     },
     "surface-bright": {
-      "value": "#f8f9fb",
+      "value": "{color.ref.neutral.980}",
       "type": "color"
     },
     "surface-dim": {
-      "value": "#d9dadc",
+      "value": "{color.ref.neutral.870}",
       "type": "color"
     }
   },
