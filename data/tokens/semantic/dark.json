@@ -96,6 +96,38 @@
       "value": "{color.ref.tertiary.300}",
       "type": "color"
     },
+    "success": {
+      "value": "{color.ref.success.800}",
+      "type": "color"
+    },
+    "on-success": {
+      "value": "{color.ref.success.200}",
+      "type": "color"
+    },
+    "success-container": {
+      "value": "{color.ref.success.300}",
+      "type": "color"
+    },
+    "on-success-container": {
+      "value": "{color.ref.success.900}",
+      "type": "color"
+    },
+    "warning": {
+      "value": "{color.ref.warning.800}",
+      "type": "color"
+    },
+    "on-warning": {
+      "value": "{color.ref.warning.200}",
+      "type": "color"
+    },
+    "warning-container": {
+      "value": "{color.ref.warning.300}",
+      "type": "color"
+    },
+    "on-warning-container": {
+      "value": "{color.ref.warning.900}",
+      "type": "color"
+    },
     "error": {
       "value": "#ffb4a8",
       "type": "color"
