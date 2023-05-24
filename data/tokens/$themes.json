@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "id": "fa1ef13819e9d38f3b251e1a9df3cde91670e598",
+    "name": "RDM - Light",
+    "selectedTokenSets": {
+      "core/color": "enabled",
+      "semantic/light": "enabled",
+      "core/opacity": "source"
+    },
+    "$figmaStyleReferences": {}
+  },
+  {
+    "id": "60ae33ce92cdc275708f9bd68ce6d3eb41b2debb",
+    "name": "RDM - Dark",
+    "selectedTokenSets": {
+      "core/color": "enabled",
+      "semantic/light": "source",
+      "core/opacity": "source",
+      "semantic/dark": "enabled"
+    },
+    "$figmaStyleReferences": {}
+  }
+]
