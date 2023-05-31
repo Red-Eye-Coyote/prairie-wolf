@@ -5,6 +5,7 @@
     "core/opacity",
     "semantic/light",
     "semantic/dark",
-    "test/color"
+    "test/color",
+    "overrides/brands/RedDogMoped"
   ]
 }
