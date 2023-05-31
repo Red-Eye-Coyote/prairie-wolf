@@ -1,18 +1,30 @@
 [
   {
-    "id": "fa1ef13819e9d38f3b251e1a9df3cde91670e598",
+    "id": "46e7fc8596c7b0259684f7b8ffddaa8045a0a8c9",
     "name": "Light",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "core/color": "source",
+      "core/opacity": "source",
+      "semantic/light": "source",
+      "semantic/dark": "enabled"
+    },
+    "group": "Themes"
+  },
+  {
+    "id": "fa1ef13819e9d38f3b251e1a9df3cde91670e598",
+    "name": "RDM - Light",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "core/color": "source",
       "semantic/light": "enabled",
       "core/opacity": "source"
     },
-    "group": "RDM"
+    "group": "Brands"
   },
   {
     "id": "60ae33ce92cdc275708f9bd68ce6d3eb41b2debb",
-    "name": "Dark",
+    "name": "RDM - Dark",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "core/color": "source",
@@ -20,6 +32,49 @@
       "core/opacity": "source",
       "semantic/dark": "enabled"
     },
-    "group": "RDM"
+    "group": "Brands"
+  },
+  {
+    "id": "63b922c5f44b6843320bef5954b156ff7ab9a6f6",
+    "name": "Mobile",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {},
+    "group": "Platforms"
+  },
+  {
+    "id": "c2055a8e4b793fbe596266ace544cf763cbd0adb",
+    "name": "Tablet",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "core/color": "source",
+      "core/opacity": "source",
+      "semantic/light": "source",
+      "semantic/dark": "enabled"
+    },
+    "group": "Platforms"
+  },
+  {
+    "id": "bf004d032049b68f44a5baab33e81d0737ca98b0",
+    "name": "Desktop",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "core/color": "source",
+      "core/opacity": "source",
+      "semantic/light": "source",
+      "semantic/dark": "enabled"
+    },
+    "group": "Platforms"
+  },
+  {
+    "id": "ceb333ad9203eb6d585e52afadd397966acb03c9",
+    "name": "Dark",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "core/color": "source",
+      "core/opacity": "source",
+      "semantic/light": "source",
+      "semantic/dark": "enabled"
+    },
+    "group": "Themes"
   }
 ]
