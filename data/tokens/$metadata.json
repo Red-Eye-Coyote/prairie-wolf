@@ -4,6 +4,7 @@
     "core/color",
     "core/opacity",
     "semantic/light",
-    "semantic/dark"
+    "semantic/dark",
+    "test/color"
   ]
 }
