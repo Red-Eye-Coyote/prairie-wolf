@@ -1,6 +1,5 @@
 {
   "tokenSetOrder": [
-    "global",
     "core/color",
     "core/opacity",
     "semantic/light",

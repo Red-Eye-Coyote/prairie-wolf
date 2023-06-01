@@ -13,14 +13,6 @@
         "value": "#939597",
         "type": "color"
       },
-      "success": {
-        "value": "#198754",
-        "type": "color"
-      },
-      "warning": {
-        "value": "#ffc107",
-        "type": "color"
-      },
       "error": {
         "value": "#f20505",
         "type": "color"
