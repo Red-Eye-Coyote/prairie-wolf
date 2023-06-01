@@ -2,8 +2,9 @@
   "tokenSetOrder": [
     "core/color",
     "core/opacity",
-    "semantic/light",
-    "semantic/dark",
+    "light/primitives",
+    "dark/primitives",
+    "theme",
     "overrides/brands/RedDogMoped"
   ]
 }

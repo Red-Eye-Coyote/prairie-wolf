@@ -199,7 +199,9 @@
     "selectedTokenSets": {
       "core/color": "source",
       "core/opacity": "source",
-      "semantic/light": "enabled"
+      "theme": "disabled",
+      "light/primitives": "enabled",
+      "dark/primitives": "disabled"
     },
     "group": "Themes"
   },
@@ -209,19 +211,10 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "core/color": "source",
-      "overrides/brands/RedDogMoped": "enabled"
-    },
-    "group": "Brands"
-  },
-  {
-    "id": "60ae33ce92cdc275708f9bd68ce6d3eb41b2debb",
-    "name": "RDM - Dark",
-    "$figmaStyleReferences": {},
-    "selectedTokenSets": {
-      "core/color": "source",
-      "semantic/light": "source",
-      "core/opacity": "source",
-      "semantic/dark": "enabled"
+      "overrides/brands/RedDogMoped": "enabled",
+      "theme": "disabled",
+      "light/primitives": "disabled",
+      "dark/primitives": "disabled"
     },
     "group": "Brands"
   },
@@ -229,7 +222,11 @@
     "id": "63b922c5f44b6843320bef5954b156ff7ab9a6f6",
     "name": "Mobile",
     "$figmaStyleReferences": {},
-    "selectedTokenSets": {},
+    "selectedTokenSets": {
+      "theme": "disabled",
+      "light/primitives": "disabled",
+      "dark/primitives": "disabled"
+    },
     "group": "Platforms"
   },
   {
@@ -239,8 +236,9 @@
     "selectedTokenSets": {
       "core/color": "source",
       "core/opacity": "source",
-      "semantic/light": "source",
-      "semantic/dark": "enabled"
+      "theme": "disabled",
+      "light/primitives": "source",
+      "dark/primitives": "enabled"
     },
     "group": "Platforms"
   },
@@ -251,8 +249,9 @@
     "selectedTokenSets": {
       "core/color": "source",
       "core/opacity": "source",
-      "semantic/light": "source",
-      "semantic/dark": "enabled"
+      "theme": "disabled",
+      "light/primitives": "source",
+      "dark/primitives": "enabled"
     },
     "group": "Platforms"
   },
@@ -456,7 +455,9 @@
     "selectedTokenSets": {
       "core/color": "source",
       "core/opacity": "source",
-      "semantic/dark": "enabled"
+      "theme": "disabled",
+      "light/primitives": "disabled",
+      "dark/primitives": "enabled"
     },
     "group": "Themes"
   }
