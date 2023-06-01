@@ -10,11 +10,15 @@
     },
     "key": {
       "primary": {
-        "value": "#f20505",
+        "value": "#1B558C",
         "type": "color"
       },
       "secondary": {
-        "value": "#05f2f2",
+        "value": "#8C297A",
+        "type": "color"
+      },
+      "tertiary": {
+        "value": "#D9743F",
         "type": "color"
       },
       "neutral": {
