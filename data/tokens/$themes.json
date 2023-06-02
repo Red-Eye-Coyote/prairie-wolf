@@ -199,7 +199,9 @@
     "selectedTokenSets": {
       "core/color": "source",
       "core/opacity": "source",
-      "light/primitives": "enabled"
+      "light/primitives": "enabled",
+      "core/font": "source",
+      "theme": "enabled"
     },
     "group": "Themes"
   },
@@ -444,7 +446,9 @@
     "selectedTokenSets": {
       "core/color": "source",
       "core/opacity": "source",
-      "dark/primitives": "enabled"
+      "dark/primitives": "enabled",
+      "theme": "enabled",
+      "core/font": "source"
     },
     "group": "Themes"
   }

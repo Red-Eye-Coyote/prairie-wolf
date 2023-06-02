@@ -1,11 +1,23 @@
 {
   "fontFamilies": {
     "headline": {
-      "value": "IBM Plex Sans",
+      "value": "Roboto",
       "type": "fontFamilies"
     },
     "display": {
-      "value": "Prohibition",
+      "value": "Roboto",
+      "type": "fontFamilies"
+    },
+    "title": {
+      "value": "Roboto",
+      "type": "fontFamilies"
+    },
+    "label": {
+      "value": "Roboto",
+      "type": "fontFamilies"
+    },
+    "body": {
+      "value": "Roboto",
       "type": "fontFamilies"
     }
   },
@@ -141,6 +153,22 @@
       }
     },
     "title": {
+      "regular": {
+        "value": "Regular",
+        "type": "fontWeights"
+      },
+      "medium": {
+        "value": "Medium",
+        "type": "fontWeights"
+      }
+    },
+    "body": {
+      "regular": {
+        "value": "Regular",
+        "type": "fontWeights"
+      }
+    },
+    "label": {
       "medium": {
         "value": "Medium",
         "type": "fontWeights"

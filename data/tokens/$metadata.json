@@ -2,6 +2,7 @@
   "tokenSetOrder": [
     "core/color",
     "core/opacity",
+    "core/font",
     "light/primitives",
     "dark/primitives",
     "theme",
