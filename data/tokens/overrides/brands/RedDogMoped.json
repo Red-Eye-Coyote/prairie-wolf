@@ -662,5 +662,17 @@
         }
       }
     }
+  },
+  "fontFamilies": {
+    "display": {
+      "value": "Prohibition",
+      "type": "fontFamilies"
+    }
+  },
+  "nRatio": {
+    "display": {
+      "value": "1",
+      "type": "other"
+    }
   }
 }
