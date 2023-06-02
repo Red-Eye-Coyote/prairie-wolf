@@ -201,7 +201,8 @@
       "core/opacity": "source",
       "light/primitives": "enabled",
       "core/font": "source",
-      "theme": "enabled"
+      "theme": "enabled",
+      "core/effect": "disabled"
     },
     "group": "Themes"
   },
@@ -211,7 +212,8 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "core/color": "source",
-      "overrides/brands/RedDogMoped": "enabled"
+      "overrides/brands/RedDogMoped": "enabled",
+      "core/effect": "disabled"
     },
     "group": "Brands"
   },
@@ -219,7 +221,9 @@
     "id": "63b922c5f44b6843320bef5954b156ff7ab9a6f6",
     "name": "Mobile",
     "$figmaStyleReferences": {},
-    "selectedTokenSets": {},
+    "selectedTokenSets": {
+      "core/effect": "disabled"
+    },
     "group": "Platforms"
   },
   {
@@ -230,7 +234,8 @@
       "core/color": "source",
       "core/opacity": "source",
       "light/primitives": "source",
-      "dark/primitives": "enabled"
+      "dark/primitives": "enabled",
+      "core/effect": "disabled"
     },
     "group": "Platforms"
   },
@@ -242,7 +247,8 @@
       "core/color": "source",
       "core/opacity": "source",
       "light/primitives": "source",
-      "dark/primitives": "enabled"
+      "dark/primitives": "enabled",
+      "core/effect": "disabled"
     },
     "group": "Platforms"
   },
@@ -448,7 +454,8 @@
       "core/opacity": "source",
       "dark/primitives": "enabled",
       "theme": "enabled",
-      "core/font": "source"
+      "core/font": "source",
+      "core/effect": "disabled"
     },
     "group": "Themes"
   }
