@@ -194,7 +194,12 @@
       "state-layers.surface-dim.08": "S:dd746db605167a641c1e9fb926cc284d2a83aef6,",
       "state-layers.surface-bright.12": "S:fe8974f916713e4c79d0b6f593f18c1628c81925,",
       "state-layers.surface-bright.16": "S:5c375e3b4e27eb8d46d3fea46cde0f86681835a8,",
-      "state-layers.surface-bright.08": "S:3e0c1ffdf9ccbc6c94d82961846e0e8f9033c1a0,"
+      "state-layers.surface-bright.08": "S:3e0c1ffdf9ccbc6c94d82961846e0e8f9033c1a0,",
+      "elevations.1": "S:8f38dcf2689d670f383edf4bb8f04a4203853e17,",
+      "elevations.2": "S:81c827c68122609ed307e012353c653b76b393a0,",
+      "elevations.3": "S:482853c793a2fb2f8d8b6a6f7f076381e0801c4d,",
+      "elevations.4": "S:88dbd20e5fc989c142ea9290de2a21d0be5282ec,",
+      "elevations.5": "S:87c3062747846ba911a9a2c54a70d65f84ac405c,"
     },
     "selectedTokenSets": {
       "core/color": "source",
@@ -441,7 +446,12 @@
       "state-layers.surface-dim.08": "S:75b01367567266735063db6dbcd806c31f717fc8,",
       "state-layers.surface-bright.12": "S:a2df02b6a6bdbffbbeb95fcf665709e8ab0542a4,",
       "state-layers.surface-bright.16": "S:d796ce3573cfd33c580bbcbc556835869525220e,",
-      "state-layers.surface-bright.08": "S:d136143adb5c674ec473901b0504b9a489c2ef28,"
+      "state-layers.surface-bright.08": "S:d136143adb5c674ec473901b0504b9a489c2ef28,",
+      "elevations.1": "S:9f413cded1bfd629d89d1dc916d3d3f844c32277,",
+      "elevations.2": "S:f116ba08457433da08c629f955da1dcfb7a1b146,",
+      "elevations.3": "S:adf5e3362a11feb4d45f3dc361d2ffeab1fb4396,",
+      "elevations.4": "S:aca151d758f14887845d7fea448a354cccd31809,",
+      "elevations.5": "S:46d7b2d4f316f6ef8231334b6674468bc3358236,"
     },
     "selectedTokenSets": {
       "core/color": "source",
