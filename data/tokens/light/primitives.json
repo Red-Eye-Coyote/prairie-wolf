@@ -2139,5 +2139,33 @@
         }
       }
     }
+  },
+  "shadows": {
+    "15": {
+      "value": "{color.black}",
+      "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "alpha",
+            "value": "{opacity.15}",
+            "space": "lch"
+          }
+        }
+      }
+    },
+    "30": {
+      "value": "{color.black}",
+      "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "alpha",
+            "value": "{opacity.30}",
+            "space": "lch"
+          }
+        }
+      }
+    }
   }
 }

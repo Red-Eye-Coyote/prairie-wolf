@@ -3,7 +3,6 @@
     "core/color",
     "core/opacity",
     "core/font",
-    "core/effect",
     "light/primitives",
     "dark/primitives",
     "theme",
