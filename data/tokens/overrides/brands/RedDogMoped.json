@@ -148,6 +148,24 @@
         }
       }
     },
+    "key": {
+      "primary": {
+        "value": "#f20505",
+        "type": "color"
+      },
+      "secondary": {
+        "value": "#05f2f2",
+        "type": "color"
+      },
+      "neutral": {
+        "value": "#939597",
+        "type": "color"
+      },
+      "error": {
+        "value": "#f20505",
+        "type": "color"
+      }
+    },
     "generated": {
       "primary": {
         "40": {
@@ -658,24 +676,6 @@
           "value": "hsla( {color._base.hue.neutral-variant} , {color._base.saturation.neutral-variant} , {color._base.lightness.99} , 1)",
           "type": "color"
         }
-      }
-    },
-    "key": {
-      "primary": {
-        "value": "#f20505",
-        "type": "color"
-      },
-      "secondary": {
-        "value": "#05f2f2",
-        "type": "color"
-      },
-      "neutral": {
-        "value": "#939597",
-        "type": "color"
-      },
-      "error": {
-        "value": "#f20505",
-        "type": "color"
       }
     },
     "ref": {
