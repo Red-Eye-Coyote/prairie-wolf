@@ -681,45 +681,45 @@
   },
   "fontFamilies": {
     "display": {
-      "value": "Prohibition",
+      "value": "Red Hat Display",
       "type": "fontFamilies"
     },
     "headline": {
-      "value": "IBM Plex Sans",
+      "value": "Red Hat Text",
       "type": "fontFamilies"
     },
     "title": {
-      "value": "IBM Plex Sans",
+      "value": "Red Hat Text",
       "type": "fontFamilies"
     },
     "label": {
-      "value": "IBM Plex Sans",
+      "value": "Red Hat Text",
       "type": "fontFamilies"
     },
     "body": {
-      "value": "IBM Plex Sans",
+      "value": "Red Hat Text",
       "type": "fontFamilies"
     }
   },
   "nRatio": {
     "display": {
-      "value": "0.94",
+      "value": "1.02",
       "type": "other"
     },
     "headline": {
-      "value": "1.03",
+      "value": "1.02",
       "type": "other"
     },
     "title": {
-      "value": "1.03",
+      "value": "1.02",
       "type": "other"
     },
     "label": {
-      "value": "1.03",
+      "value": "1.02",
       "type": "other"
     },
     "body": {
-      "value": "1.03",
+      "value": "1.02",
       "type": "other"
     }
   }
