@@ -3,15 +3,15 @@
     "_base": {
       "hue": {
         "primary": {
-          "value": "0",
+          "value": "193.22",
           "type": "color"
         },
         "secondary": {
-          "value": "180",
+          "value": "72.65",
           "type": "color"
         },
         "tertiary": {
-          "value": "42",
+          "value": "155.77",
           "type": "color"
         },
         "neutral": {
@@ -25,15 +25,15 @@
       },
       "saturation": {
         "primary": {
-          "value": "96%",
+          "value": "78.67%",
           "type": "color"
         },
         "secondary": {
-          "value": "96%",
+          "value": "99.11%",
           "type": "color"
         },
         "tertiary": {
-          "value": "42%",
+          "value": "57.78%",
           "type": "color"
         },
         "neutral": {
@@ -150,11 +150,15 @@
     },
     "key": {
       "primary": {
-        "value": "#f20505",
+        "value": "#083643",
         "type": "color"
       },
       "secondary": {
-        "value": "#05f2f2",
+        "value": "#B1E001",
+        "type": "color"
+      },
+      "tertiary": {
+        "value": "#B8ECD7",
         "type": "color"
       },
       "neutral": {
@@ -680,47 +684,49 @@
     }
   },
   "fontFamilies": {
-    "display": {
-      "value": "Red Hat Display",
-      "type": "fontFamilies"
+    "base": {
+      "display": {
+        "value": "Roboto",
+        "type": "fontFamilies"
+      },
+      "headline": {
+        "value": "Roboto",
+        "type": "fontFamilies"
+      },
+      "title": {
+        "value": "Roboto",
+        "type": "fontFamilies"
+      },
+      "label": {
+        "value": "Roboto",
+        "type": "fontFamilies"
+      },
+      "body": {
+        "value": "Roboto",
+        "type": "fontFamilies"
+      }
     },
-    "headline": {
-      "value": "Red Hat Text",
-      "type": "fontFamilies"
-    },
-    "title": {
-      "value": "Red Hat Text",
-      "type": "fontFamilies"
-    },
-    "label": {
-      "value": "Red Hat Text",
-      "type": "fontFamilies"
-    },
-    "body": {
-      "value": "Red Hat Text",
-      "type": "fontFamilies"
-    }
-  },
-  "nRatio": {
-    "display": {
-      "value": "1.02",
-      "type": "other"
-    },
-    "headline": {
-      "value": "1.02",
-      "type": "other"
-    },
-    "title": {
-      "value": "1.02",
-      "type": "other"
-    },
-    "label": {
-      "value": "1.02",
-      "type": "other"
-    },
-    "body": {
-      "value": "1.02",
-      "type": "other"
+    "documentation": {
+      "display": {
+        "value": "Roboto",
+        "type": "fontFamilies"
+      },
+      "headline": {
+        "value": "Roboto",
+        "type": "fontFamilies"
+      },
+      "title": {
+        "value": "Roboto",
+        "type": "fontFamilies"
+      },
+      "label": {
+        "value": "Roboto",
+        "type": "fontFamilies"
+      },
+      "body": {
+        "value": "Roboto",
+        "type": "fontFamilies"
+      }
     }
   }
 }
