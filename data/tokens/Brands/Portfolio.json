@@ -3,7 +3,7 @@
     "_base": {
       "hue": {
         "primary": {
-          "value": "193.22",
+          "value": "52",
           "type": "color"
         },
         "secondary": {
@@ -25,7 +25,7 @@
       },
       "saturation": {
         "primary": {
-          "value": "78.67%",
+          "value": "89%",
           "type": "color"
         },
         "secondary": {
@@ -150,7 +150,7 @@
     },
     "key": {
       "primary": {
-        "value": "#083643",
+        "value": "#F5DF4D",
         "type": "color"
       },
       "secondary": {
@@ -680,52 +680,6 @@
           "value": "hsla( {color._base.hue.neutral-variant} , {color._base.saturation.neutral-variant} , {color._base.lightness.99} , 1)",
           "type": "color"
         }
-      }
-    }
-  },
-  "fontFamilies": {
-    "base": {
-      "display": {
-        "value": "Roboto",
-        "type": "fontFamilies"
-      },
-      "headline": {
-        "value": "Roboto",
-        "type": "fontFamilies"
-      },
-      "title": {
-        "value": "Roboto",
-        "type": "fontFamilies"
-      },
-      "label": {
-        "value": "Roboto",
-        "type": "fontFamilies"
-      },
-      "body": {
-        "value": "Roboto",
-        "type": "fontFamilies"
-      }
-    },
-    "documentation": {
-      "display": {
-        "value": "Roboto",
-        "type": "fontFamilies"
-      },
-      "headline": {
-        "value": "Roboto",
-        "type": "fontFamilies"
-      },
-      "title": {
-        "value": "Roboto",
-        "type": "fontFamilies"
-      },
-      "label": {
-        "value": "Roboto",
-        "type": "fontFamilies"
-      },
-      "body": {
-        "value": "Roboto",
-        "type": "fontFamilies"
       }
     }
   }

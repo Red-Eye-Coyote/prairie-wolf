@@ -495,15 +495,15 @@
     "group": "Brands"
   },
   {
-    "id": "19832d1d32bccb6008b8231a5ecbe2693011d6f0",
-    "name": "Brand B",
+    "id": "4cd2372cf9c7226fce1255eff9312fa1f4b904c1",
+    "name": "Portfolio",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "Core/color": "source",
       "Core/opacity": "source",
       "Core/font": "source",
       "Core/typography": "source",
-      "Brands/Brand B": "enabled"
+      "Brands/Portfolio": "enabled"
     },
     "group": "Brands"
   }
