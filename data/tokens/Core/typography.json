@@ -198,7 +198,7 @@
           "lineHeight": "{lineHeights.base.24}",
           "fontSize": "{fontSize.base.3} * {nRatio.base.body}",
           "letterSpacing": "{letterSpacing.0}",
-          "paragraphSpacing": "{paragraphSpacing.0}",
+          "paragraphSpacing": "24",
           "paragraphIndent": "{paragraphIndent.0}",
           "textCase": "{textCase.none}",
           "textDecoration": "{textDecoration.none}"
@@ -212,7 +212,7 @@
           "lineHeight": "{lineHeights.base.20}",
           "fontSize": "{fontSize.base.2} * {nRatio.base.body}",
           "letterSpacing": "{letterSpacing.0}",
-          "paragraphSpacing": "{paragraphSpacing.0}",
+          "paragraphSpacing": "20",
           "paragraphIndent": "{paragraphIndent.0}",
           "textCase": "{textCase.none}",
           "textDecoration": "{textDecoration.none}"
@@ -226,7 +226,7 @@
           "lineHeight": "{lineHeights.base.16}",
           "fontSize": "{fontSize.base.1} * {nRatio.base.body}",
           "letterSpacing": "{letterSpacing.0}",
-          "paragraphSpacing": "{paragraphSpacing.0}",
+          "paragraphSpacing": "16",
           "paragraphIndent": "{paragraphIndent.0}",
           "textCase": "{textCase.none}",
           "textDecoration": "{textDecoration.none}"
