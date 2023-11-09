@@ -38,8 +38,8 @@
         "type": "color"
       }
     },
-    "ref": {
-      "primary": {
+    "base": {
+      "blue": {
         "40": {
           "value": "#000F21",
           "type": "color"
@@ -141,7 +141,7 @@
           "type": "color"
         }
       },
-      "secondary": {
+      "purple": {
         "40": {
           "value": "#23001D",
           "type": "color"
@@ -345,7 +345,7 @@
           "type": "color"
         }
       },
-      "neutral": {
+      "grey": {
         "40": {
           "value": "#0c0f10",
           "type": "color"
