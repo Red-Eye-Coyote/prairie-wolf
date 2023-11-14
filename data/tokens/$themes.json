@@ -263,8 +263,8 @@
     "selectedTokenSets": {
       "Core/opacity": "source",
       "Core/font": "source",
-      "Colors/light": "enabled",
-      "Core/typography": "source"
+      "Core/typography": "source",
+      "Themes/base/light": "enabled"
     },
     "group": "Colors"
   },
@@ -473,8 +473,8 @@
     "selectedTokenSets": {
       "Core/opacity": "source",
       "Core/font": "source",
-      "Colors/dark": "enabled",
-      "Core/typography": "source"
+      "Core/typography": "source",
+      "Themes/base/dark": "enabled"
     },
     "group": "Colors"
   },

@@ -7,8 +7,12 @@
     "Core/opacity",
     "Core/font",
     "Core/typography",
-    "Colors/light",
-    "Colors/dark",
+    "Themes/base/light",
+    "Themes/base/dark",
+    "Themes/redeyecoyote/light",
+    "Themes/redeyecoyote/dark",
+    "Themes/portfolio/light",
+    "Themes/portfolio/dark",
     "Brands/Red Eye Coyote",
     "Brands/Portfolio"
   ]
