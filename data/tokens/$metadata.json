@@ -5,15 +5,17 @@
     "Core/color/redeyecoyote",
     "Core/color/portfolio",
     "Core/opacity",
-    "Core/font",
+    "Core/font/base",
+    "Core/font/documentation",
     "Core/typography",
     "Themes/base/light",
     "Themes/base/dark",
+    "Themes/base/typography",
+    "Themes/base/documentation",
     "Themes/redeyecoyote/light",
     "Themes/redeyecoyote/dark",
     "Themes/portfolio/light",
     "Themes/portfolio/dark",
-    "Brands/Red Eye Coyote",
-    "Brands/Portfolio"
+    "Components/button"
   ]
 }
