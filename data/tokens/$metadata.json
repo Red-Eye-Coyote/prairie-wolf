@@ -1,6 +1,5 @@
 {
   "tokenSetOrder": [
-    "Core/color",
     "Core/color/global",
     "Core/color/base",
     "Core/color/redeyecoyote",

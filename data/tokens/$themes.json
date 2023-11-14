@@ -37,7 +37,6 @@
       "documentation.body.small": "S:ee441dc42f895d1247b1d82e4778020f67b0c9c7,"
     },
     "selectedTokenSets": {
-      "Core/color": "source",
       "Core/opacity": "source",
       "Core/font": "source",
       "Core/typography": "enabled"
@@ -262,7 +261,6 @@
       "state-layers.surface-bright.08": "S:f40f2da1b1d0bc1219695ec0e402c6f0e5f7aa6a,"
     },
     "selectedTokenSets": {
-      "Core/color": "source",
       "Core/opacity": "source",
       "Core/font": "source",
       "Colors/light": "enabled",
@@ -473,7 +471,6 @@
       "state-layers.surface-bright.08": "S:a155a42feeae98dd70dc499e0021d04ef53863f5,"
     },
     "selectedTokenSets": {
-      "Core/color": "source",
       "Core/opacity": "source",
       "Core/font": "source",
       "Colors/dark": "enabled",
@@ -486,7 +483,6 @@
     "name": "Red Eye Coyote",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "Core/color": "source",
       "Core/opacity": "source",
       "Core/font": "source",
       "Core/typography": "source",
@@ -499,7 +495,6 @@
     "name": "Portfolio",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "Core/color": "source",
       "Core/opacity": "source",
       "Core/font": "source",
       "Core/typography": "source",
