@@ -38,15 +38,7 @@
     },
     "selectedTokenSets": {
       "Core/opacity": "source",
-      "Core/font/default": "source",
-      "Core/color/default": "disabled",
-      "Themes/default/light": "disabled",
-      "Themes/default/dark": "disabled",
-      "Themes/default/typography/base": "disabled",
-      "Themes/default/typography/documentation": "disabled",
-      "Core/font/redeyecoyote": "disabled",
-      "Themes/redeyecoyote/typography/base": "disabled",
-      "Themes/redeyecoyote/typography/documentation": "disabled"
+      "Core/font/default": "source"
     },
     "group": "Core"
   },
@@ -270,14 +262,7 @@
     "selectedTokenSets": {
       "Core/opacity": "source",
       "Core/font/default": "source",
-      "Core/color/default": "disabled",
-      "Themes/default/light": "enabled",
-      "Themes/default/dark": "disabled",
-      "Themes/default/typography/base": "disabled",
-      "Themes/default/typography/documentation": "disabled",
-      "Core/font/redeyecoyote": "disabled",
-      "Themes/redeyecoyote/typography/base": "disabled",
-      "Themes/redeyecoyote/typography/documentation": "disabled"
+      "Themes/default/light": "enabled"
     },
     "group": "Colors"
   },
@@ -486,14 +471,7 @@
     "selectedTokenSets": {
       "Core/opacity": "source",
       "Core/font/default": "source",
-      "Core/color/default": "disabled",
-      "Themes/default/light": "disabled",
-      "Themes/default/dark": "enabled",
-      "Themes/default/typography/base": "disabled",
-      "Themes/default/typography/documentation": "disabled",
-      "Core/font/redeyecoyote": "disabled",
-      "Themes/redeyecoyote/typography/base": "disabled",
-      "Themes/redeyecoyote/typography/documentation": "disabled"
+      "Themes/default/dark": "enabled"
     },
     "group": "Colors"
   },
@@ -503,15 +481,7 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "Core/opacity": "source",
-      "Core/font/default": "source",
-      "Core/color/default": "disabled",
-      "Themes/default/light": "disabled",
-      "Themes/default/dark": "disabled",
-      "Themes/default/typography/base": "disabled",
-      "Themes/default/typography/documentation": "disabled",
-      "Core/font/redeyecoyote": "disabled",
-      "Themes/redeyecoyote/typography/base": "disabled",
-      "Themes/redeyecoyote/typography/documentation": "disabled"
+      "Core/font/default": "source"
     },
     "group": "Brands"
   },
@@ -521,15 +491,7 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "Core/opacity": "source",
-      "Core/font/default": "source",
-      "Core/color/default": "disabled",
-      "Themes/default/light": "disabled",
-      "Themes/default/dark": "disabled",
-      "Themes/default/typography/base": "disabled",
-      "Themes/default/typography/documentation": "disabled",
-      "Core/font/redeyecoyote": "disabled",
-      "Themes/redeyecoyote/typography/base": "disabled",
-      "Themes/redeyecoyote/typography/documentation": "disabled"
+      "Core/font/default": "source"
     },
     "group": "Brands"
   }
