@@ -1,6 +1,168 @@
 {
   "color": {
     "_ref": {
+      "keys": {
+        "steelblue": {
+          "value": "#1B558C",
+          "type": "color"
+        },
+        "purple": {
+          "value": "#8C297A",
+          "type": "color"
+        },
+        "chocolate": {
+          "value": "#D9743F",
+          "type": "color"
+        },
+        "ultimategrey": {
+          "value": "#939597",
+          "type": "color"
+        },
+        "seagreen": {
+          "value": "#198754",
+          "type": "color"
+        },
+        "gold": {
+          "value": "#ffc107",
+          "type": "color"
+        },
+        "red": {
+          "value": "#f20505",
+          "type": "color"
+        }
+      },
+      "hsl": {
+        "hue": {
+          "seagreen": {
+            "value": "152",
+            "type": "color"
+          },
+          "gold": {
+            "value": "45",
+            "type": "color"
+          },
+          "red": {
+            "value": "0",
+            "type": "color"
+          }
+        },
+        "saturation": {
+          "seagreen": {
+            "value": "81%",
+            "type": "color"
+          },
+          "gold": {
+            "value": "97%",
+            "type": "color"
+          },
+          "red": {
+            "value": "98%",
+            "type": "color"
+          }
+        },
+        "lightness": {
+          "4": {
+            "value": "4%",
+            "type": "color"
+          },
+          "5": {
+            "value": "5%",
+            "type": "color"
+          },
+          "6": {
+            "value": "6%",
+            "type": "color"
+          },
+          "10": {
+            "value": "10%",
+            "type": "color"
+          },
+          "12": {
+            "value": "12%",
+            "type": "color"
+          },
+          "17": {
+            "value": "17%",
+            "type": "color"
+          },
+          "20": {
+            "value": "20%",
+            "type": "color"
+          },
+          "22": {
+            "value": "22%",
+            "type": "color"
+          },
+          "24": {
+            "value": "24%",
+            "type": "color"
+          },
+          "25": {
+            "value": "25%",
+            "type": "color"
+          },
+          "30": {
+            "value": "30%",
+            "type": "color"
+          },
+          "35": {
+            "value": "35%",
+            "type": "color"
+          },
+          "40": {
+            "value": "40%",
+            "type": "color"
+          },
+          "50": {
+            "value": "50%",
+            "type": "color"
+          },
+          "60": {
+            "value": "60%",
+            "type": "color"
+          },
+          "70": {
+            "value": "70%",
+            "type": "color"
+          },
+          "80": {
+            "value": "80%",
+            "type": "color"
+          },
+          "87": {
+            "value": "87%",
+            "type": "color"
+          },
+          "90": {
+            "value": "90%",
+            "type": "color"
+          },
+          "92": {
+            "value": "92%",
+            "type": "color"
+          },
+          "94": {
+            "value": "94%",
+            "type": "color"
+          },
+          "95": {
+            "value": "95%",
+            "type": "color"
+          },
+          "96": {
+            "value": "96%",
+            "type": "color"
+          },
+          "98": {
+            "value": "98%",
+            "type": "color"
+          },
+          "99": {
+            "value": "99%",
+            "type": "color"
+          }
+        }
+      },
       "steelblue": {
         "40": {
           "value": "#000F21",
@@ -511,138 +673,6 @@
           "type": "color"
         }
       },
-      "hsl": {
-        "hue": {
-          "seagreen": {
-            "value": "152",
-            "type": "color"
-          },
-          "gold": {
-            "value": "45",
-            "type": "color"
-          },
-          "red": {
-            "value": "0",
-            "type": "color"
-          }
-        },
-        "saturation": {
-          "seagreen": {
-            "value": "81%",
-            "type": "color"
-          },
-          "gold": {
-            "value": "97%",
-            "type": "color"
-          },
-          "red": {
-            "value": "98%",
-            "type": "color"
-          }
-        },
-        "lightness": {
-          "4": {
-            "value": "4%",
-            "type": "color"
-          },
-          "5": {
-            "value": "5%",
-            "type": "color"
-          },
-          "6": {
-            "value": "6%",
-            "type": "color"
-          },
-          "10": {
-            "value": "10%",
-            "type": "color"
-          },
-          "12": {
-            "value": "12%",
-            "type": "color"
-          },
-          "17": {
-            "value": "17%",
-            "type": "color"
-          },
-          "20": {
-            "value": "20%",
-            "type": "color"
-          },
-          "22": {
-            "value": "22%",
-            "type": "color"
-          },
-          "24": {
-            "value": "24%",
-            "type": "color"
-          },
-          "25": {
-            "value": "25%",
-            "type": "color"
-          },
-          "30": {
-            "value": "30%",
-            "type": "color"
-          },
-          "35": {
-            "value": "35%",
-            "type": "color"
-          },
-          "40": {
-            "value": "40%",
-            "type": "color"
-          },
-          "50": {
-            "value": "50%",
-            "type": "color"
-          },
-          "60": {
-            "value": "60%",
-            "type": "color"
-          },
-          "70": {
-            "value": "70%",
-            "type": "color"
-          },
-          "80": {
-            "value": "80%",
-            "type": "color"
-          },
-          "87": {
-            "value": "87%",
-            "type": "color"
-          },
-          "90": {
-            "value": "90%",
-            "type": "color"
-          },
-          "92": {
-            "value": "92%",
-            "type": "color"
-          },
-          "94": {
-            "value": "94%",
-            "type": "color"
-          },
-          "95": {
-            "value": "95%",
-            "type": "color"
-          },
-          "96": {
-            "value": "96%",
-            "type": "color"
-          },
-          "98": {
-            "value": "98%",
-            "type": "color"
-          },
-          "99": {
-            "value": "99%",
-            "type": "color"
-          }
-        }
-      },
       "seagreen": {
         "40": {
           "value": "hsla( {color._ref.hsl.hue.seagreen} , {color._ref.hsl.saturation.seagreen} , {color._ref.hsl.lightness.4} , 1)",
@@ -946,36 +976,6 @@
         },
         "990": {
           "value": "hsla( {color._ref.hsl.hue.red} , {color._ref.hsl.saturation.red} , {color._ref.hsl.lightness.99} , 1)",
-          "type": "color"
-        }
-      },
-      "keys": {
-        "steelblue": {
-          "value": "#1B558C",
-          "type": "color"
-        },
-        "purple": {
-          "value": "#8C297A",
-          "type": "color"
-        },
-        "chocolate": {
-          "value": "#D9743F",
-          "type": "color"
-        },
-        "ultimategrey": {
-          "value": "#939597",
-          "type": "color"
-        },
-        "seagreen": {
-          "value": "#198754",
-          "type": "color"
-        },
-        "gold": {
-          "value": "#ffc107",
-          "type": "color"
-        },
-        "red": {
-          "value": "#f20505",
           "type": "color"
         }
       }
