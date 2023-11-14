@@ -185,7 +185,7 @@
       "type": "color"
     },
     "shadow": {
-      "value": "{color._ref.black}",
+      "value": "{color.black}",
       "type": "color"
     },
     "surface-tint": {
@@ -197,7 +197,7 @@
       "type": "color"
     },
     "scrim": {
-      "value": "{color._ref.black}",
+      "value": "{color.black}",
       "type": "color"
     },
     "surface-container-highest": {
@@ -1526,7 +1526,7 @@
     },
     "shadow": {
       "12": {
-        "value": "{color._ref.black}",
+        "value": "{color.black}",
         "type": "color",
         "$extensions": {
           "studio.tokens": {
@@ -1539,7 +1539,7 @@
         }
       },
       "16": {
-        "value": "{color._ref.black}",
+        "value": "{color.black}",
         "type": "color",
         "$extensions": {
           "studio.tokens": {
@@ -1552,7 +1552,7 @@
         }
       },
       "08": {
-        "value": "{color._ref.black}",
+        "value": "{color.black}",
         "type": "color",
         "$extensions": {
           "studio.tokens": {
@@ -1649,7 +1649,7 @@
     },
     "scrim": {
       "12": {
-        "value": "{color._ref.white}",
+        "value": "{color.white}",
         "type": "color",
         "$extensions": {
           "studio.tokens": {
@@ -1662,7 +1662,7 @@
         }
       },
       "16": {
-        "value": "{color._ref.white}",
+        "value": "{color.white}",
         "type": "color",
         "$extensions": {
           "studio.tokens": {
@@ -1675,7 +1675,7 @@
         }
       },
       "08": {
-        "value": "{color._ref.white}",
+        "value": "{color.white}",
         "type": "color",
         "$extensions": {
           "studio.tokens": {
@@ -2142,7 +2142,7 @@
   },
   "shadows": {
     "15": {
-      "value": "{color._ref.black}",
+      "value": "{color.black}",
       "type": "color",
       "$extensions": {
         "studio.tokens": {
@@ -2155,7 +2155,7 @@
       }
     },
     "30": {
-      "value": "{color._ref.black}",
+      "value": "{color.black}",
       "type": "color",
       "$extensions": {
         "studio.tokens": {
