@@ -1,6 +1,6 @@
 {
   "color": {
-    "_ref": {
+    "_utils": {
       "keys": {
         "illuminating": {
           "value": "#F5DF4D",
@@ -126,106 +126,108 @@
             "type": "color"
           }
         }
-      },
+      }
+    },
+    "ref": {
       "illuminating": {
         "40": {
-          "value": "hsla( {color._ref.hsl.hue.illuminating} , {color._ref.hsl.saturation.illuminating} , {color._ref.hsl.lightness.4} , 1)",
+          "value": "hsla( {color._utils.hsl.hue.illuminating} , {color._utils.hsl.saturation.illuminating} , {color._utils.hsl.lightness.4} , 1)",
           "type": "color"
         },
         "50": {
-          "value": "hsla( {color._ref.hsl.hue.illuminating} , {color._ref.hsl.saturation.illuminating} , {color._ref.hsl.lightness.5} , 1)",
+          "value": "hsla( {color._utils.hsl.hue.illuminating} , {color._utils.hsl.saturation.illuminating} , {color._utils.hsl.lightness.5} , 1)",
           "type": "color"
         },
         "60": {
-          "value": "hsla( {color._ref.hsl.hue.illuminating} , {color._ref.hsl.saturation.illuminating} , {color._ref.hsl.lightness.6} , 1)",
+          "value": "hsla( {color._utils.hsl.hue.illuminating} , {color._utils.hsl.saturation.illuminating} , {color._utils.hsl.lightness.6} , 1)",
           "type": "color"
         },
         "100": {
-          "value": "hsla( {color._ref.hsl.hue.illuminating} , {color._ref.hsl.saturation.illuminating} , {color._ref.hsl.lightness.10} , 1)",
+          "value": "hsla( {color._utils.hsl.hue.illuminating} , {color._utils.hsl.saturation.illuminating} , {color._utils.hsl.lightness.10} , 1)",
           "type": "color"
         },
         "120": {
-          "value": "hsla( {color._ref.hsl.hue.illuminating} , {color._ref.hsl.saturation.illuminating} , {color._ref.hsl.lightness.12} , 1)",
+          "value": "hsla( {color._utils.hsl.hue.illuminating} , {color._utils.hsl.saturation.illuminating} , {color._utils.hsl.lightness.12} , 1)",
           "type": "color"
         },
         "170": {
-          "value": "hsla( {color._ref.hsl.hue.illuminating} , {color._ref.hsl.saturation.illuminating} , {color._ref.hsl.lightness.17} , 1)",
+          "value": "hsla( {color._utils.hsl.hue.illuminating} , {color._utils.hsl.saturation.illuminating} , {color._utils.hsl.lightness.17} , 1)",
           "type": "color"
         },
         "200": {
-          "value": "hsla( {color._ref.hsl.hue.illuminating} , {color._ref.hsl.saturation.illuminating} , {color._ref.hsl.lightness.20} , 1)",
+          "value": "hsla( {color._utils.hsl.hue.illuminating} , {color._utils.hsl.saturation.illuminating} , {color._utils.hsl.lightness.20} , 1)",
           "type": "color"
         },
         "220": {
-          "value": "hsla( {color._ref.hsl.hue.illuminating} , {color._ref.hsl.saturation.illuminating} , {color._ref.hsl.lightness.22} , 1)",
+          "value": "hsla( {color._utils.hsl.hue.illuminating} , {color._utils.hsl.saturation.illuminating} , {color._utils.hsl.lightness.22} , 1)",
           "type": "color"
         },
         "240": {
-          "value": "hsla( {color._ref.hsl.hue.illuminating} , {color._ref.hsl.saturation.illuminating} , {color._ref.hsl.lightness.24} , 1)",
+          "value": "hsla( {color._utils.hsl.hue.illuminating} , {color._utils.hsl.saturation.illuminating} , {color._utils.hsl.lightness.24} , 1)",
           "type": "color"
         },
         "250": {
-          "value": "hsla( {color._ref.hsl.hue.illuminating} , {color._ref.hsl.saturation.illuminating} , {color._ref.hsl.lightness.25} , 1)",
+          "value": "hsla( {color._utils.hsl.hue.illuminating} , {color._utils.hsl.saturation.illuminating} , {color._utils.hsl.lightness.25} , 1)",
           "type": "color"
         },
         "300": {
-          "value": "hsla( {color._ref.hsl.hue.illuminating} , {color._ref.hsl.saturation.illuminating} , {color._ref.hsl.lightness.30} , 1)",
+          "value": "hsla( {color._utils.hsl.hue.illuminating} , {color._utils.hsl.saturation.illuminating} , {color._utils.hsl.lightness.30} , 1)",
           "type": "color"
         },
         "350": {
-          "value": "hsla( {color._ref.hsl.hue.illuminating} , {color._ref.hsl.saturation.illuminating} , {color._ref.hsl.lightness.35} , 1)",
+          "value": "hsla( {color._utils.hsl.hue.illuminating} , {color._utils.hsl.saturation.illuminating} , {color._utils.hsl.lightness.35} , 1)",
           "type": "color"
         },
         "400": {
-          "value": "hsla( {color._ref.hsl.hue.illuminating} , {color._ref.hsl.saturation.illuminating} , {color._ref.hsl.lightness.40} , 1)",
+          "value": "hsla( {color._utils.hsl.hue.illuminating} , {color._utils.hsl.saturation.illuminating} , {color._utils.hsl.lightness.40} , 1)",
           "type": "color"
         },
         "500": {
-          "value": "hsla( {color._ref.hsl.hue.illuminating} , {color._ref.hsl.saturation.illuminating} , {color._ref.hsl.lightness.50} , 1)",
+          "value": "hsla( {color._utils.hsl.hue.illuminating} , {color._utils.hsl.saturation.illuminating} , {color._utils.hsl.lightness.50} , 1)",
           "type": "color"
         },
         "600": {
-          "value": "hsla( {color._ref.hsl.hue.illuminating} , {color._ref.hsl.saturation.illuminating} , {color._ref.hsl.lightness.60} , 1)",
+          "value": "hsla( {color._utils.hsl.hue.illuminating} , {color._utils.hsl.saturation.illuminating} , {color._utils.hsl.lightness.60} , 1)",
           "type": "color"
         },
         "700": {
-          "value": "hsla( {color._ref.hsl.hue.illuminating} , {color._ref.hsl.saturation.illuminating} , {color._ref.hsl.lightness.70} , 1)",
+          "value": "hsla( {color._utils.hsl.hue.illuminating} , {color._utils.hsl.saturation.illuminating} , {color._utils.hsl.lightness.70} , 1)",
           "type": "color"
         },
         "800": {
-          "value": "hsla( {color._ref.hsl.hue.illuminating} , {color._ref.hsl.saturation.illuminating} , {color._ref.hsl.lightness.80} , 1)",
+          "value": "hsla( {color._utils.hsl.hue.illuminating} , {color._utils.hsl.saturation.illuminating} , {color._utils.hsl.lightness.80} , 1)",
           "type": "color"
         },
         "870": {
-          "value": "hsla( {color._ref.hsl.hue.illuminating} , {color._ref.hsl.saturation.illuminating} , {color._ref.hsl.lightness.87} , 1)",
+          "value": "hsla( {color._utils.hsl.hue.illuminating} , {color._utils.hsl.saturation.illuminating} , {color._utils.hsl.lightness.87} , 1)",
           "type": "color"
         },
         "900": {
-          "value": "hsla( {color._ref.hsl.hue.illuminating} , {color._ref.hsl.saturation.illuminating} , {color._ref.hsl.lightness.90} , 1)",
+          "value": "hsla( {color._utils.hsl.hue.illuminating} , {color._utils.hsl.saturation.illuminating} , {color._utils.hsl.lightness.90} , 1)",
           "type": "color"
         },
         "920": {
-          "value": "hsla( {color._ref.hsl.hue.illuminating} , {color._ref.hsl.saturation.illuminating} , {color._ref.hsl.lightness.92} , 1)",
+          "value": "hsla( {color._utils.hsl.hue.illuminating} , {color._utils.hsl.saturation.illuminating} , {color._utils.hsl.lightness.92} , 1)",
           "type": "color"
         },
         "940": {
-          "value": "hsla( {color._ref.hsl.hue.illuminating} , {color._ref.hsl.saturation.illuminating} , {color._ref.hsl.lightness.94} , 1)",
+          "value": "hsla( {color._utils.hsl.hue.illuminating} , {color._utils.hsl.saturation.illuminating} , {color._utils.hsl.lightness.94} , 1)",
           "type": "color"
         },
         "950": {
-          "value": "hsla( {color._ref.hsl.hue.illuminating} , {color._ref.hsl.saturation.illuminating} , {color._ref.hsl.lightness.95} , 1)",
+          "value": "hsla( {color._utils.hsl.hue.illuminating} , {color._utils.hsl.saturation.illuminating} , {color._utils.hsl.lightness.95} , 1)",
           "type": "color"
         },
         "960": {
-          "value": "hsla( {color._ref.hsl.hue.illuminating} , {color._ref.hsl.saturation.illuminating} , {color._ref.hsl.lightness.96} , 1)",
+          "value": "hsla( {color._utils.hsl.hue.illuminating} , {color._utils.hsl.saturation.illuminating} , {color._utils.hsl.lightness.96} , 1)",
           "type": "color"
         },
         "980": {
-          "value": "hsla( {color._ref.hsl.hue.illuminating} , {color._ref.hsl.saturation.illuminating} , {color._ref.hsl.lightness.98} , 1)",
+          "value": "hsla( {color._utils.hsl.hue.illuminating} , {color._utils.hsl.saturation.illuminating} , {color._utils.hsl.lightness.98} , 1)",
           "type": "color"
         },
         "990": {
-          "value": "hsla( {color._ref.hsl.hue.illuminating} , {color._ref.hsl.saturation.illuminating} , {color._ref.hsl.lightness.99} , 1)",
+          "value": "hsla( {color._utils.hsl.hue.illuminating} , {color._utils.hsl.saturation.illuminating} , {color._utils.hsl.lightness.99} , 1)",
           "type": "color"
         }
       },
@@ -334,205 +336,205 @@
     },
     "primary": {
       "40": {
-        "value": "{color._ref.illuminating.40}",
+        "value": "{color.ref.illuminating.40}",
         "type": "color"
       },
       "50": {
-        "value": "{color._ref.illuminating.50}",
+        "value": "{color.ref.illuminating.50}",
         "type": "color"
       },
       "60": {
-        "value": "{color._ref.illuminating.60}",
+        "value": "{color.ref.illuminating.60}",
         "type": "color"
       },
       "100": {
-        "value": "{color._ref.illuminating.100}",
+        "value": "{color.ref.illuminating.100}",
         "type": "color"
       },
       "120": {
-        "value": "{color._ref.illuminating.120}",
+        "value": "{color.ref.illuminating.120}",
         "type": "color"
       },
       "170": {
-        "value": "{color._ref.illuminating.170}",
+        "value": "{color.ref.illuminating.170}",
         "type": "color"
       },
       "200": {
-        "value": "{color._ref.illuminating.200}",
+        "value": "{color.ref.illuminating.200}",
         "type": "color"
       },
       "220": {
-        "value": "{color._ref.illuminating.220}",
+        "value": "{color.ref.illuminating.220}",
         "type": "color"
       },
       "240": {
-        "value": "{color._ref.illuminating.240}",
+        "value": "{color.ref.illuminating.240}",
         "type": "color"
       },
       "250": {
-        "value": "{color._ref.illuminating.250}",
+        "value": "{color.ref.illuminating.250}",
         "type": "color"
       },
       "300": {
-        "value": "{color._ref.illuminating.300}",
+        "value": "{color.ref.illuminating.300}",
         "type": "color"
       },
       "350": {
-        "value": "{color._ref.illuminating.350}",
+        "value": "{color.ref.illuminating.350}",
         "type": "color"
       },
       "400": {
-        "value": "{color._ref.illuminating.400}",
+        "value": "{color.ref.illuminating.400}",
         "type": "color"
       },
       "500": {
-        "value": "{color._ref.illuminating.500}",
+        "value": "{color.ref.illuminating.500}",
         "type": "color"
       },
       "600": {
-        "value": "{color._ref.illuminating.600}",
+        "value": "{color.ref.illuminating.600}",
         "type": "color"
       },
       "700": {
-        "value": "{color._ref.illuminating.700}",
+        "value": "{color.ref.illuminating.700}",
         "type": "color"
       },
       "800": {
-        "value": "{color._ref.illuminating.800}",
+        "value": "{color.ref.illuminating.800}",
         "type": "color"
       },
       "870": {
-        "value": "{color._ref.illuminating.870}",
+        "value": "{color.ref.illuminating.870}",
         "type": "color"
       },
       "900": {
-        "value": "{color._ref.illuminating.900}",
+        "value": "{color.ref.illuminating.900}",
         "type": "color"
       },
       "920": {
-        "value": "{color._ref.illuminating.920}",
+        "value": "{color.ref.illuminating.920}",
         "type": "color"
       },
       "940": {
-        "value": "{color._ref.illuminating.940}",
+        "value": "{color.ref.illuminating.940}",
         "type": "color"
       },
       "950": {
-        "value": "{color._ref.illuminating.950}",
+        "value": "{color.ref.illuminating.950}",
         "type": "color"
       },
       "960": {
-        "value": "{color._ref.illuminating.960}",
+        "value": "{color.ref.illuminating.960}",
         "type": "color"
       },
       "980": {
-        "value": "{color._ref.illuminating.980}",
+        "value": "{color.ref.illuminating.980}",
         "type": "color"
       },
       "990": {
-        "value": "{color._ref.illuminating.990}",
+        "value": "{color.ref.illuminating.990}",
         "type": "color"
       }
     },
     "secondary": {
       "40": {
-        "value": "{color._ref.ultimategrey.40}",
+        "value": "{color.ref.ultimategrey.40}",
         "type": "color"
       },
       "50": {
-        "value": "{color._ref.ultimategrey.50}",
+        "value": "{color.ref.ultimategrey.50}",
         "type": "color"
       },
       "60": {
-        "value": "{color._ref.ultimategrey.60}",
+        "value": "{color.ref.ultimategrey.60}",
         "type": "color"
       },
       "100": {
-        "value": "{color._ref.ultimategrey.100}",
+        "value": "{color.ref.ultimategrey.100}",
         "type": "color"
       },
       "120": {
-        "value": "{color._ref.ultimategrey.120}",
+        "value": "{color.ref.ultimategrey.120}",
         "type": "color"
       },
       "170": {
-        "value": "{color._ref.ultimategrey.170}",
+        "value": "{color.ref.ultimategrey.170}",
         "type": "color"
       },
       "200": {
-        "value": "{color._ref.ultimategrey.200}",
+        "value": "{color.ref.ultimategrey.200}",
         "type": "color"
       },
       "220": {
-        "value": "{color._ref.ultimategrey.220}",
+        "value": "{color.ref.ultimategrey.220}",
         "type": "color"
       },
       "240": {
-        "value": "{color._ref.ultimategrey.240}",
+        "value": "{color.ref.ultimategrey.240}",
         "type": "color"
       },
       "250": {
-        "value": "{color._ref.ultimategrey.250}",
+        "value": "{color.ref.ultimategrey.250}",
         "type": "color"
       },
       "300": {
-        "value": "{color._ref.ultimategrey.300}",
+        "value": "{color.ref.ultimategrey.300}",
         "type": "color"
       },
       "350": {
-        "value": "{color._ref.ultimategrey.350}",
+        "value": "{color.ref.ultimategrey.350}",
         "type": "color"
       },
       "400": {
-        "value": "{color._ref.ultimategrey.400}",
+        "value": "{color.ref.ultimategrey.400}",
         "type": "color"
       },
       "500": {
-        "value": "{color._ref.ultimategrey.500}",
+        "value": "{color.ref.ultimategrey.500}",
         "type": "color"
       },
       "600": {
-        "value": "{color._ref.ultimategrey.600}",
+        "value": "{color.ref.ultimategrey.600}",
         "type": "color"
       },
       "700": {
-        "value": "{color._ref.ultimategrey.700}",
+        "value": "{color.ref.ultimategrey.700}",
         "type": "color"
       },
       "800": {
-        "value": "{color._ref.ultimategrey.800}",
+        "value": "{color.ref.ultimategrey.800}",
         "type": "color"
       },
       "870": {
-        "value": "{color._ref.ultimategrey.870}",
+        "value": "{color.ref.ultimategrey.870}",
         "type": "color"
       },
       "900": {
-        "value": "{color._ref.ultimategrey.900}",
+        "value": "{color.ref.ultimategrey.900}",
         "type": "color"
       },
       "920": {
-        "value": "{color._ref.ultimategrey.920}",
+        "value": "{color.ref.ultimategrey.920}",
         "type": "color"
       },
       "940": {
-        "value": "{color._ref.ultimategrey.940}",
+        "value": "{color.ref.ultimategrey.940}",
         "type": "color"
       },
       "950": {
-        "value": "{color._ref.ultimategrey.950}",
+        "value": "{color.ref.ultimategrey.950}",
         "type": "color"
       },
       "960": {
-        "value": "{color._ref.ultimategrey.960}",
+        "value": "{color.ref.ultimategrey.960}",
         "type": "color"
       },
       "980": {
-        "value": "{color._ref.ultimategrey.980}",
+        "value": "{color.ref.ultimategrey.980}",
         "type": "color"
       },
       "990": {
-        "value": "{color._ref.ultimategrey.990}",
+        "value": "{color.ref.ultimategrey.990}",
         "type": "color"
       }
     }
