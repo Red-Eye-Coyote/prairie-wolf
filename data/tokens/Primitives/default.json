@@ -1,5 +1,5 @@
 {
-  "color": {
+  "brand-colors": {
     "primary": {
       "40": {
         "value": "{color._ref.steelblue.40}",
