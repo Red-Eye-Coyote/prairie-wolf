@@ -88,6 +88,10 @@
       "redHatText": {
         "value": "Red Hat Text",
         "type": "fontFamilies"
+      },
+      "inter": {
+        "value": "Inter",
+        "type": "fontFamilies"
       }
     }
   },
@@ -115,6 +119,10 @@
       },
       "redHatText": {
         "value": "1.02",
+        "type": "other"
+      },
+      "inter": {
+        "value": "1",
         "type": "other"
       }
     }

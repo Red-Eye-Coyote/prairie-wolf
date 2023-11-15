@@ -8,8 +8,7 @@
     "Primitives/portfolio",
     "Themes/light",
     "Themes/dark",
-    "Themes/typography/base",
-    "Themes/typography/documentation",
+    "Themes/typography",
     "Components/button"
   ]
 }

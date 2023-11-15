@@ -712,45 +712,45 @@
   "fontFamilies": {
     "base": {
       "display": {
-        "value": "{fontFamilies._ref.redHatDisplay}",
+        "value": "{fontFamilies._ref.inter}",
         "type": "fontFamilies"
       },
       "headline": {
-        "value": "{fontFamilies._ref.redHatText}",
+        "value": "{fontFamilies._ref.inter}",
         "type": "fontFamilies"
       },
       "title": {
-        "value": "{fontFamilies._ref.redHatText}",
+        "value": "{fontFamilies._ref.inter}",
         "type": "fontFamilies"
       },
       "label": {
-        "value": "{fontFamilies._ref.redHatText}",
+        "value": "{fontFamilies._ref.inter}",
         "type": "fontFamilies"
       },
       "body": {
-        "value": "{fontFamilies._ref.redHatText}",
+        "value": "{fontFamilies._ref.inter}",
         "type": "fontFamilies"
       }
     },
     "documentation": {
       "display": {
-        "value": "{fontFamilies._ref.redHatDisplay}",
+        "value": "{fontFamilies._ref.inter}",
         "type": "fontFamilies"
       },
       "headline": {
-        "value": "{fontFamilies._ref.redHatText}",
+        "value": "{fontFamilies._ref.inter}",
         "type": "fontFamilies"
       },
       "title": {
-        "value": "{fontFamilies._ref.redHatText}",
+        "value": "{fontFamilies._ref.inter}",
         "type": "fontFamilies"
       },
       "label": {
-        "value": "{fontFamilies._ref.redHatText}",
+        "value": "{fontFamilies._ref.inter}",
         "type": "fontFamilies"
       },
       "body": {
-        "value": "{fontFamilies._ref.redHatText}",
+        "value": "{fontFamilies._ref.inter}",
         "type": "fontFamilies"
       }
     }
@@ -914,45 +914,45 @@
   "nRatio": {
     "base": {
       "display": {
-        "value": "{nRatio._ref.redHatDisplay}",
+        "value": "{nRatio._ref.inter}",
         "type": "other"
       },
       "headline": {
-        "value": "{nRatio._ref.redHatText}",
+        "value": "{nRatio._ref.inter}",
         "type": "other"
       },
       "title": {
-        "value": "{nRatio._ref.redHatText}",
+        "value": "{nRatio._ref.inter}",
         "type": "other"
       },
       "label": {
-        "value": "{nRatio._ref.redHatText}",
+        "value": "{nRatio._ref.inter}",
         "type": "other"
       },
       "body": {
-        "value": "{nRatio._ref.redHatText}",
+        "value": "{nRatio._ref.inter}",
         "type": "other"
       }
     },
     "documentation": {
       "display": {
-        "value": "{nRatio._ref.redHatDisplay}",
+        "value": "{nRatio._ref.inter}",
         "type": "other"
       },
       "headline": {
-        "value": "{nRatio._ref.redHatText}",
+        "value": "{nRatio._ref.inter}",
         "type": "other"
       },
       "title": {
-        "value": "{nRatio._ref.redHatText}",
+        "value": "{nRatio._ref.inter}",
         "type": "other"
       },
       "label": {
-        "value": "{nRatio._ref.redHatText}",
+        "value": "{nRatio._ref.inter}",
         "type": "other"
       },
       "body": {
-        "value": "{nRatio._ref.redHatText}",
+        "value": "{nRatio._ref.inter}",
         "type": "other"
       }
     }

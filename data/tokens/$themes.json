@@ -4,7 +4,8 @@
     "name": "Default",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "Core/color": "enabled"
+      "Core/color": "enabled",
+      "Themes/typography": "disabled"
     },
     "group": "Core",
     "$figmaCollectionId": "VariableCollectionId:55252:38817",
@@ -368,7 +369,8 @@
     "selectedTokenSets": {
       "Core/opacity": "source",
       "Primitives/default": "enabled",
-      "Core/color": "source"
+      "Core/color": "source",
+      "Themes/typography": "disabled"
     },
     "$figmaCollectionId": "VariableCollectionId:55252:39167",
     "$figmaModeId": "55252:46",
@@ -556,7 +558,8 @@
     "selectedTokenSets": {
       "Core/opacity": "source",
       "Primitives/redeyecoyote": "enabled",
-      "Core/color": "source"
+      "Core/color": "source",
+      "Themes/typography": "disabled"
     },
     "$figmaCollectionId": "VariableCollectionId:55252:39167",
     "$figmaModeId": "55252:47",
@@ -696,7 +699,8 @@
     "selectedTokenSets": {
       "Core/opacity": "source",
       "Primitives/portfolio": "enabled",
-      "Core/color": "source"
+      "Core/color": "source",
+      "Themes/typography": "disabled"
     },
     "$figmaCollectionId": "VariableCollectionId:55252:39167",
     "$figmaModeId": "55252:48",
@@ -795,10 +799,9 @@
       "Core/opacity": "source",
       "Primitives/default": "source",
       "Themes/light": "enabled",
-      "Themes/typography/base": "enabled",
-      "Themes/typography/documentation": "enabled",
       "Core/color": "source",
-      "Core/font": "source"
+      "Core/font": "source",
+      "Themes/typography": "enabled"
     },
     "$figmaVariableReferences": {
       "sys.primary": "b5b249059063127fb17f86150f67917619077aff",
@@ -1020,10 +1023,9 @@
       "Core/opacity": "source",
       "Primitives/default": "source",
       "Themes/dark": "enabled",
-      "Themes/typography/base": "enabled",
-      "Themes/typography/documentation": "enabled",
       "Core/color": "source",
-      "Core/font": "source"
+      "Core/font": "source",
+      "Themes/typography": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:55252:39341",
     "$figmaModeId": "55252:50",
