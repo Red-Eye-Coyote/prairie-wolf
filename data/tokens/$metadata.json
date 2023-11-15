@@ -8,16 +8,10 @@
     "Primitives/default",
     "Primitives/redeyecoyote",
     "Primitives/portfolio",
-    "Themes/default/light",
-    "Themes/default/dark",
-    "Themes/default/typography/base",
-    "Themes/default/typography/documentation",
-    "Themes/redeyecoyote/light",
-    "Themes/redeyecoyote/dark",
-    "Themes/redeyecoyote/typography/base",
-    "Themes/redeyecoyote/typography/documentation",
-    "Themes/portfolio/light",
-    "Themes/portfolio/dark",
+    "Themes/light",
+    "Themes/dark",
+    "Themes/typography/base",
+    "Themes/typography/documentation",
     "Components/button"
   ]
 }
