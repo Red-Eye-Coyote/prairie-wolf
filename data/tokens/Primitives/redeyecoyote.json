@@ -1,5 +1,5 @@
 {
-  "brand-colors": {
+  "color": {
     "primary": {
       "40": {
         "value": "{color._ref.red.40}",
