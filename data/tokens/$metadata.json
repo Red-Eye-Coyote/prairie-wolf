@@ -1,10 +1,8 @@
 {
   "tokenSetOrder": [
-    "Core/color/global",
+    "Core/color",
     "Core/opacity",
-    "Core/font/default",
-    "Core/font/redeyecoyote",
-    "Core/font/portfolio",
+    "Core/font",
     "Primitives/default",
     "Primitives/redeyecoyote",
     "Primitives/portfolio",

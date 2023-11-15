@@ -4,7 +4,7 @@
     "name": "Default",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "Core/color/global": "enabled"
+      "Core/color": "enabled"
     },
     "group": "Core",
     "$figmaCollectionId": "VariableCollectionId:55252:38817",
@@ -367,8 +367,8 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "Core/opacity": "source",
-      "Core/color/global": "source",
-      "Primitives/default": "enabled"
+      "Primitives/default": "enabled",
+      "Core/color": "source"
     },
     "$figmaCollectionId": "VariableCollectionId:55252:39167",
     "$figmaModeId": "55252:46",
@@ -554,9 +554,9 @@
     "name": "REC",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "Core/color/global": "source",
       "Core/opacity": "source",
-      "Primitives/redeyecoyote": "enabled"
+      "Primitives/redeyecoyote": "enabled",
+      "Core/color": "source"
     },
     "$figmaCollectionId": "VariableCollectionId:55252:39167",
     "$figmaModeId": "55252:47",
@@ -694,9 +694,9 @@
     "name": "Portfolio",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "Core/color/global": "source",
       "Core/opacity": "source",
-      "Primitives/portfolio": "enabled"
+      "Primitives/portfolio": "enabled",
+      "Core/color": "source"
     },
     "$figmaCollectionId": "VariableCollectionId:55252:39167",
     "$figmaModeId": "55252:48",
@@ -793,12 +793,12 @@
     },
     "selectedTokenSets": {
       "Core/opacity": "source",
-      "Core/font/default": "source",
-      "Core/color/global": "source",
       "Primitives/default": "source",
       "Themes/light": "enabled",
       "Themes/typography/base": "enabled",
-      "Themes/typography/documentation": "enabled"
+      "Themes/typography/documentation": "enabled",
+      "Core/color": "source",
+      "Core/font": "source"
     },
     "$figmaVariableReferences": {
       "sys.primary": "b5b249059063127fb17f86150f67917619077aff",
@@ -1018,12 +1018,12 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "Core/opacity": "source",
-      "Core/font/default": "source",
-      "Core/color/global": "source",
       "Primitives/default": "source",
       "Themes/dark": "enabled",
       "Themes/typography/base": "enabled",
-      "Themes/typography/documentation": "enabled"
+      "Themes/typography/documentation": "enabled",
+      "Core/color": "source",
+      "Core/font": "source"
     },
     "$figmaCollectionId": "VariableCollectionId:55252:39341",
     "$figmaModeId": "55252:50",

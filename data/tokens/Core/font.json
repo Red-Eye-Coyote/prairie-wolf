@@ -1,0 +1,122 @@
+{
+  "lineHeights": {
+    "base": {
+      "16": {
+        "value": "16",
+        "type": "lineHeights"
+      },
+      "20": {
+        "value": "20",
+        "type": "lineHeights"
+      },
+      "24": {
+        "value": "24",
+        "type": "lineHeights"
+      },
+      "28": {
+        "value": "28",
+        "type": "lineHeights"
+      },
+      "32": {
+        "value": "32",
+        "type": "lineHeights"
+      },
+      "36": {
+        "value": "36",
+        "type": "lineHeights"
+      },
+      "40": {
+        "value": "40",
+        "type": "lineHeights"
+      },
+      "44": {
+        "value": "44",
+        "type": "lineHeights"
+      },
+      "52": {
+        "value": "52",
+        "type": "lineHeights"
+      },
+      "64": {
+        "value": "64",
+        "type": "lineHeights"
+      }
+    },
+    "documentation": {
+      "default": {
+        "value": "120%",
+        "type": "lineHeights"
+      }
+    }
+  },
+  "letterSpacing": {
+    "0": {
+      "value": "0%",
+      "type": "letterSpacing"
+    }
+  },
+  "paragraphSpacing": {
+    "0": {
+      "value": "0",
+      "type": "paragraphSpacing"
+    }
+  },
+  "textCase": {
+    "none": {
+      "value": "none",
+      "type": "textCase"
+    }
+  },
+  "textDecoration": {
+    "none": {
+      "value": "none",
+      "type": "textDecoration"
+    }
+  },
+  "paragraphIndent": {
+    "0": {
+      "value": "0px",
+      "type": "dimension"
+    }
+  },
+  "fontFamilies": {
+    "_ref": {
+      "redHatDisplay": {
+        "value": "Red Hat Display",
+        "type": "fontFamilies"
+      },
+      "redHatText": {
+        "value": "Red Hat Text",
+        "type": "fontFamilies"
+      }
+    }
+  },
+  "fontWeights": {
+    "_ref": {
+      "bold": {
+        "value": "Bold",
+        "type": "fontWeights"
+      },
+      "medium": {
+        "value": "Medium",
+        "type": "fontWeights"
+      },
+      "regular": {
+        "value": "Regular",
+        "type": "fontWeights"
+      }
+    }
+  },
+  "nRatio": {
+    "_ref": {
+      "redHatDisplay": {
+        "value": "1.02",
+        "type": "other"
+      },
+      "redHatText": {
+        "value": "1.02",
+        "type": "other"
+      }
+    }
+  }
+}
