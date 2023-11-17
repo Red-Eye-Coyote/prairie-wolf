@@ -234,18 +234,15 @@
       "primary": {
         "12": {
           "value": "{opacities.primary.800.12}",
-          "type": "color",
-          "$extensions": {}
+          "type": "color"
         },
         "16": {
           "value": "{opacities.primary.800.16}",
-          "type": "color",
-          "$extensions": {}
+          "type": "color"
         },
         "08": {
           "value": "{opacities.primary.800.08}",
-          "type": "color",
-          "$extensions": {}
+          "type": "color"
         }
       },
       "on-primary": {
