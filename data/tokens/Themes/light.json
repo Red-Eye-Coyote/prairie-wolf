@@ -933,7 +933,7 @@
     "1": {
       "value": [
         {
-          "color": "{shadows.30}",
+          "color": "{theme-colors.shadows.30}",
           "type": "dropShadow",
           "x": "0",
           "y": "1",
@@ -941,7 +941,7 @@
           "spread": "0"
         },
         {
-          "color": "{shadows.15}",
+          "color": "{theme-colors.shadows.15}",
           "type": "dropShadow",
           "x": "0",
           "y": "1",
@@ -954,7 +954,7 @@
     "2": {
       "value": [
         {
-          "color": "{shadows.30}",
+          "color": "{theme-colors.shadows.30}",
           "type": "dropShadow",
           "x": "0",
           "y": "1",
@@ -962,7 +962,7 @@
           "spread": "0"
         },
         {
-          "color": "{shadows.15}",
+          "color": "{theme-colors.shadows.15}",
           "type": "dropShadow",
           "x": "0",
           "y": "2",
@@ -975,7 +975,7 @@
     "3": {
       "value": [
         {
-          "color": "{shadows.15}",
+          "color": "{theme-colors.shadows.15}",
           "type": "dropShadow",
           "x": "0",
           "y": "4",
@@ -983,7 +983,7 @@
           "spread": "3"
         },
         {
-          "color": "{shadows.30}",
+          "color": "{theme-colors.shadows.30}",
           "type": "dropShadow",
           "x": "0",
           "y": "1",
@@ -996,7 +996,7 @@
     "4": {
       "value": [
         {
-          "color": "{shadows.15}",
+          "color": "{theme-colors.shadows.15}",
           "type": "dropShadow",
           "x": "0",
           "y": "6",
@@ -1004,7 +1004,7 @@
           "spread": "4"
         },
         {
-          "color": "{shadows.30}",
+          "color": "{theme-colors.shadows.30}",
           "type": "dropShadow",
           "x": "0",
           "y": "2",
@@ -1017,7 +1017,7 @@
     "5": {
       "value": [
         {
-          "color": "{shadows.15}",
+          "color": "{theme-colors.shadows.15}",
           "type": "dropShadow",
           "x": "0",
           "y": "8",
@@ -1025,7 +1025,7 @@
           "spread": "6"
         },
         {
-          "color": "{shadows.30}",
+          "color": "{theme-colors.shadows.30}",
           "type": "dropShadow",
           "x": "0",
           "y": "4",
