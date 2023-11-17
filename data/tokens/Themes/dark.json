@@ -233,43 +233,19 @@
     "state-layers": {
       "primary": {
         "12": {
-          "value": "{color.primary.800}",
+          "value": "{opacities.primary.800.12}",
           "type": "color",
-          "$extensions": {
-            "studio.tokens": {
-              "modify": {
-                "type": "alpha",
-                "value": "{opacity.12}",
-                "space": "lch"
-              }
-            }
-          }
+          "$extensions": {}
         },
         "16": {
-          "value": "{color.primary.800}",
+          "value": "{opacities.primary.800.16}",
           "type": "color",
-          "$extensions": {
-            "studio.tokens": {
-              "modify": {
-                "type": "alpha",
-                "value": "{opacity.16}",
-                "space": "lch"
-              }
-            }
-          }
+          "$extensions": {}
         },
         "08": {
-          "value": "{color.primary.800}",
+          "value": "{opacities.primary.800.08}",
           "type": "color",
-          "$extensions": {
-            "studio.tokens": {
-              "modify": {
-                "type": "alpha",
-                "value": "{opacity.08}",
-                "space": "lch"
-              }
-            }
-          }
+          "$extensions": {}
         }
       },
       "on-primary": {
