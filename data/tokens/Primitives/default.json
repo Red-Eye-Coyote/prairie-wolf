@@ -754,7 +754,7 @@
     "primary": {
       "100": {
         "12": {
-          "value": "{color.primary.400}",
+          "value": "{color.primary.100}",
           "type": "color",
           "$extensions": {
             "studio.tokens": {
@@ -767,7 +767,7 @@
           }
         },
         "16": {
-          "value": "{color.primary.400}",
+          "value": "{color.primary.100}",
           "type": "color",
           "$extensions": {
             "studio.tokens": {
@@ -780,7 +780,7 @@
           }
         },
         "08": {
-          "value": "{color.primary.400}",
+          "value": "{color.primary.100}",
           "type": "color",
           "$extensions": {
             "studio.tokens": {
@@ -795,7 +795,7 @@
       },
       "200": {
         "12": {
-          "value": "{color.primary.400}",
+          "value": "{color.primary.200}",
           "type": "color",
           "$extensions": {
             "studio.tokens": {
@@ -808,7 +808,7 @@
           }
         },
         "16": {
-          "value": "{color.primary.400}",
+          "value": "{color.primary.200}",
           "type": "color",
           "$extensions": {
             "studio.tokens": {
@@ -821,7 +821,7 @@
           }
         },
         "08": {
-          "value": "{color.primary.400}",
+          "value": "{color.primary.200}",
           "type": "color",
           "$extensions": {
             "studio.tokens": {
@@ -836,7 +836,7 @@
       },
       "300": {
         "12": {
-          "value": "{color.primary.400}",
+          "value": "{color.primary.300}",
           "type": "color",
           "$extensions": {
             "studio.tokens": {
@@ -849,7 +849,7 @@
           }
         },
         "16": {
-          "value": "{color.primary.400}",
+          "value": "{color.primary.300}",
           "type": "color",
           "$extensions": {
             "studio.tokens": {
@@ -862,7 +862,7 @@
           }
         },
         "08": {
-          "value": "{color.primary.400}",
+          "value": "{color.primary.300}",
           "type": "color",
           "$extensions": {
             "studio.tokens": {
@@ -918,7 +918,7 @@
       },
       "500": {
         "12": {
-          "value": "{color.primary.400}",
+          "value": "{color.primary.500}",
           "type": "color",
           "$extensions": {
             "studio.tokens": {
@@ -931,7 +931,7 @@
           }
         },
         "16": {
-          "value": "{color.primary.400}",
+          "value": "{color.primary.500}",
           "type": "color",
           "$extensions": {
             "studio.tokens": {
@@ -944,7 +944,7 @@
           }
         },
         "08": {
-          "value": "{color.primary.400}",
+          "value": "{color.primary.500}",
           "type": "color",
           "$extensions": {
             "studio.tokens": {
@@ -959,7 +959,7 @@
       },
       "600": {
         "12": {
-          "value": "{color.primary.400}",
+          "value": "{color.primary.600}",
           "type": "color",
           "$extensions": {
             "studio.tokens": {
@@ -972,7 +972,7 @@
           }
         },
         "16": {
-          "value": "{color.primary.400}",
+          "value": "{color.primary.600}",
           "type": "color",
           "$extensions": {
             "studio.tokens": {
@@ -985,7 +985,7 @@
           }
         },
         "08": {
-          "value": "{color.primary.400}",
+          "value": "{color.primary.600}",
           "type": "color",
           "$extensions": {
             "studio.tokens": {
@@ -1000,7 +1000,7 @@
       },
       "700": {
         "12": {
-          "value": "{color.primary.400}",
+          "value": "{color.primary.700}",
           "type": "color",
           "$extensions": {
             "studio.tokens": {
@@ -1013,7 +1013,7 @@
           }
         },
         "16": {
-          "value": "{color.primary.400}",
+          "value": "{color.primary.700}",
           "type": "color",
           "$extensions": {
             "studio.tokens": {
@@ -1026,7 +1026,7 @@
           }
         },
         "08": {
-          "value": "{color.primary.400}",
+          "value": "{color.primary.700}",
           "type": "color",
           "$extensions": {
             "studio.tokens": {
