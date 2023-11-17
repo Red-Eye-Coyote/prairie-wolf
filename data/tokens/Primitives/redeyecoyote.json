@@ -2655,6 +2655,88 @@
           }
         }
       },
+      "920": {
+        "12": {
+          "value": "{color.neutral.920}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "alpha",
+                "value": "{opacity.12}",
+                "space": "lch"
+              }
+            }
+          }
+        },
+        "16": {
+          "value": "{color.neutral.920}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "alpha",
+                "value": "{opacity.16}",
+                "space": "lch"
+              }
+            }
+          }
+        },
+        "08": {
+          "value": "{color.neutral.920}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "alpha",
+                "value": "{opacity.08}",
+                "space": "lch"
+              }
+            }
+          }
+        }
+      },
+      "940": {
+        "12": {
+          "value": "{color.neutral.940}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "alpha",
+                "value": "{opacity.12}",
+                "space": "lch"
+              }
+            }
+          }
+        },
+        "16": {
+          "value": "{color.neutral.940}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "alpha",
+                "value": "{opacity.16}",
+                "space": "lch"
+              }
+            }
+          }
+        },
+        "08": {
+          "value": "{color.neutral.940}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "alpha",
+                "value": "{opacity.08}",
+                "space": "lch"
+              }
+            }
+          }
+        }
+      },
       "950": {
         "12": {
           "value": "{color.neutral.950}",
