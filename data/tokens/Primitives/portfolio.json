@@ -2308,47 +2308,6 @@
           }
         }
       },
-      "870": {
-        "12": {
-          "value": "{color.neutral.870}",
-          "type": "color",
-          "$extensions": {
-            "studio.tokens": {
-              "modify": {
-                "type": "alpha",
-                "value": "{opacity.12}",
-                "space": "lch"
-              }
-            }
-          }
-        },
-        "16": {
-          "value": "{color.neutral.870}",
-          "type": "color",
-          "$extensions": {
-            "studio.tokens": {
-              "modify": {
-                "type": "alpha",
-                "value": "{opacity.16}",
-                "space": "lch"
-              }
-            }
-          }
-        },
-        "08": {
-          "value": "{color.neutral.870}",
-          "type": "color",
-          "$extensions": {
-            "studio.tokens": {
-              "modify": {
-                "type": "alpha",
-                "value": "{opacity.08}",
-                "space": "lch"
-              }
-            }
-          }
-        }
-      },
       "900": {
         "12": {
           "value": "{color.neutral.900}",
@@ -2501,47 +2460,6 @@
         },
         "08": {
           "value": "{color.neutral.950}",
-          "type": "color",
-          "$extensions": {
-            "studio.tokens": {
-              "modify": {
-                "type": "alpha",
-                "value": "{opacity.08}",
-                "space": "lch"
-              }
-            }
-          }
-        }
-      },
-      "960": {
-        "12": {
-          "value": "{color.neutral.960}",
-          "type": "color",
-          "$extensions": {
-            "studio.tokens": {
-              "modify": {
-                "type": "alpha",
-                "value": "{opacity.12}",
-                "space": "lch"
-              }
-            }
-          }
-        },
-        "16": {
-          "value": "{color.neutral.960}",
-          "type": "color",
-          "$extensions": {
-            "studio.tokens": {
-              "modify": {
-                "type": "alpha",
-                "value": "{opacity.16}",
-                "space": "lch"
-              }
-            }
-          }
-        },
-        "08": {
-          "value": "{color.neutral.960}",
           "type": "color",
           "$extensions": {
             "studio.tokens": {
