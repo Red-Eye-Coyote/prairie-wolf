@@ -3,13 +3,14 @@
     "Core/color",
     "Core/opacity",
     "Core/font",
-    "Primitives/default",
-    "Primitives/redeyecoyote",
-    "Primitives/portfolio",
-    "Brands/redeyecoyote",
+    "Primitives/color",
+    "Primitives/opacity",
+    "Primitives/font",
     "Themes/light",
     "Themes/dark",
     "Themes/typography",
+    "Brands/redeyecoyote",
+    "Brands/portfolio",
     "Components/button"
   ]
 }
