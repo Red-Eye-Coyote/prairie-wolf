@@ -583,43 +583,43 @@
       },
       "error-container": {
         "12": {
-          "value": "{opacity.error.300.12",
+          "value": "{opacity.error.300.12}",
           "type": "color"
         },
         "16": {
-          "value": "{opacity.error.300.16",
+          "value": "{opacity.error.300.16}",
           "type": "color"
         },
         "08": {
-          "value": "{opacity.error.300.08",
+          "value": "{opacity.error.300.08}",
           "type": "color"
         }
       },
       "on-error": {
         "12": {
-          "value": "{opacity.error.200.12",
+          "value": "{opacity.error.200.12}",
           "type": "color"
         },
         "16": {
-          "value": "{opacity.error.200.16",
+          "value": "{opacity.error.200.16}",
           "type": "color"
         },
         "08": {
-          "value": "{opacity.error.200.08",
+          "value": "{opacity.error.200.08}",
           "type": "color"
         }
       },
       "on-error-container": {
         "12": {
-          "value": "{opacity.error.900.12",
+          "value": "{opacity.error.900.12}",
           "type": "color"
         },
         "16": {
-          "value": "{opacity.error.900.16",
+          "value": "{opacity.error.900.16}",
           "type": "color"
         },
         "08": {
-          "value": "{opacity.error.900.08",
+          "value": "{opacity.error.900.08}",
           "type": "color"
         }
       },
