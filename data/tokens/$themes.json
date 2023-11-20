@@ -1537,10 +1537,11 @@
       "Core/opacity": "source",
       "Themes/light": "enabled",
       "Core/color": "source",
-      "Core/font": "enabled",
+      "Core/font": "source",
       "Themes/typography": "enabled",
       "Primitives/color": "source",
-      "Primitives/opacity": "source"
+      "Primitives/opacity": "source",
+      "Primitives/font": "source"
     },
     "$figmaVariableReferences": {
       "theme-colors.sys.primary": "6605d7ffbcdc32a591a790a080dd602f2aa3a375",
@@ -1766,7 +1767,8 @@
       "Core/font": "source",
       "Themes/typography": "enabled",
       "Primitives/color": "source",
-      "Primitives/opacity": "source"
+      "Primitives/opacity": "source",
+      "Primitives/font": "source"
     },
     "$figmaCollectionId": "VariableCollectionId:55432:26539",
     "$figmaModeId": "55432:7",
@@ -1988,7 +1990,8 @@
       "Core/color": "source",
       "Core/opacity": "source",
       "Core/font": "source",
-      "Primitives/color": "enabled"
+      "Primitives/color": "enabled",
+      "Primitives/font": "source"
     },
     "$figmaCollectionId": "VariableCollectionId:55432:25920",
     "$figmaModeId": "55432:3",
@@ -2177,7 +2180,8 @@
       "Core/color": "source",
       "Core/opacity": "source",
       "Brands/redeyecoyote": "enabled",
-      "Primitives/color": "source"
+      "Primitives/color": "source",
+      "Primitives/font": "source"
     },
     "$figmaVariableReferences": {
       "color.primary.40": "9e653654f1fb97a9ec4f37e9fd7d307bd4c7e81f",
@@ -2319,7 +2323,8 @@
       "Core/opacity": "source",
       "Core/font": "source",
       "Brands/portfolio": "enabled",
-      "Primitives/color": "source"
+      "Primitives/color": "source",
+      "Primitives/font": "source"
     },
     "$figmaCollectionId": "VariableCollectionId:55432:25920",
     "$figmaModeId": "55432:5",
