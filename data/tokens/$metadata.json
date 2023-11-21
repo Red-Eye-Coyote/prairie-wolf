@@ -11,6 +11,9 @@
     "Themes/typography",
     "Brands/redeyecoyote",
     "Brands/portfolio",
-    "Components/button"
+    "Components/button",
+    "Breakpoints/mobile",
+    "Breakpoints/tablet",
+    "Breakpoints/desktop"
   ]
 }
