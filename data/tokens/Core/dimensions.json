@@ -1,0 +1,66 @@
+{
+  "dimension": {
+    "_ref": {
+      "absolute": {
+        "0": {
+          "value": "0px",
+          "type": "dimension"
+        },
+        "4": {
+          "value": "4px",
+          "type": "dimension"
+        },
+        "8": {
+          "value": "8px",
+          "type": "dimension"
+        },
+        "16": {
+          "value": "16px",
+          "type": "dimension"
+        },
+        "32": {
+          "value": "32px",
+          "type": "dimension"
+        },
+        "600": {
+          "value": "600px",
+          "type": "dimension"
+        },
+        "900": {
+          "value": "900px",
+          "type": "dimension"
+        },
+        "1200": {
+          "value": "1200px",
+          "type": "dimension"
+        },
+        "1600": {
+          "value": "1600px",
+          "type": "dimension"
+        }
+      },
+      "relative": {
+        "0": {
+          "value": "0rem",
+          "type": "dimension"
+        },
+        "1": {
+          "value": "1rem",
+          "type": "dimension"
+        },
+        "2": {
+          "value": "2rem",
+          "type": "dimension"
+        },
+        "3": {
+          "value": "3rem",
+          "type": "dimension"
+        },
+        "4": {
+          "value": "4rem",
+          "type": "dimension"
+        }
+      }
+    }
+  }
+}

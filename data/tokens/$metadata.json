@@ -3,6 +3,7 @@
     "Core/color",
     "Core/opacity",
     "Core/font",
+    "Core/dimensions",
     "Primitives/color",
     "Primitives/opacity",
     "Primitives/font",
