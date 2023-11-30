@@ -991,7 +991,21 @@
       "elevations.2": "S:abca5c0c7516a3b6824b9becbad53093b7e011a4,",
       "elevations.3": "S:ac7410b13462663f6e3e62cb331ab08c454481dc,",
       "elevations.4": "S:4e46031bb486a0ad7e44b6346a08da08d889ed17,",
-      "elevations.5": "S:e33b4922b710e9a6823d5d6f5d1fd5882bc785a0,"
+      "elevations.5": "S:e33b4922b710e9a6823d5d6f5d1fd5882bc785a0,",
+      "theme-colors.state-layers.error.12": "S:70552fd73292deffdf8a24123c9bba062aa58e10,",
+      "theme-colors.state-layers.error.16": "S:64a48f9079bcc5782b06f7ce104fdbac2dd22513,",
+      "theme-colors.state-layers.error.08": "S:b1669e275202a75fd5bbddf6cdb8b651b40fab0b,",
+      "theme-colors.state-layers.error-container.12": "S:b280cc76c16de7b13d2e6413941ea9c27be5fb93,",
+      "theme-colors.state-layers.error-container.16": "S:f9fbda43af75b1300edb54695873e3c72fd5c7d1,",
+      "theme-colors.state-layers.error-container.08": "S:246a1a499fe9439a26ce0d9717130e3b5f0d3bcd,",
+      "theme-colors.state-layers.on-error.12": "S:ce6c3e49010d63696a6603a68e7fb73f7235dfbf,",
+      "theme-colors.state-layers.on-error.16": "S:5007db614b0177327f173d9aecc8c3e5dea1826b,",
+      "theme-colors.state-layers.on-error.08": "S:4eac97f259119ef2142fe09bd24f01fcd6d3cd50,",
+      "theme-colors.state-layers.on-error-container.12": "S:d2b5fe251b311daafafd2b06929652117eb3ca48,",
+      "theme-colors.state-layers.on-error-container.16": "S:e80ce1860de7616803dc5951da00cd2aefaa0c8e,",
+      "theme-colors.state-layers.on-error-container.08": "S:7ca6d50fb9a8b1b4737fb01f8e15886d924f2219,",
+      "theme-colors.shadows.15": "S:37ff758f76ec6f92c29dc09833a15f1d32e67793,",
+      "theme-colors.shadows.30": "S:8a2de46e929876605dadcd6f6496948fe978c70b,"
     },
     "selectedTokenSets": {
       "Core/opacity": "source",
