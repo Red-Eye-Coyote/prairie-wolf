@@ -6,6 +6,10 @@
           "value": "0px",
           "type": "dimension"
         },
+        "1": {
+          "value": "1px",
+          "type": "dimension"
+        },
         "4": {
           "value": "4px",
           "type": "dimension"
@@ -14,8 +18,16 @@
           "value": "8px",
           "type": "dimension"
         },
+        "10": {
+          "value": "10px",
+          "type": "dimension"
+        },
         "16": {
           "value": "16px",
+          "type": "dimension"
+        },
+        "24": {
+          "value": "24px",
           "type": "dimension"
         },
         "32": {
@@ -34,6 +46,10 @@
           "value": "1200px",
           "type": "dimension"
         },
+        "1440": {
+          "value": "1440px",
+          "type": "dimension"
+        },
         "1600": {
           "value": "1600px",
           "type": "dimension"
@@ -44,20 +60,32 @@
           "value": "0rem",
           "type": "dimension"
         },
-        "1": {
+        "100": {
           "value": "1rem",
           "type": "dimension"
         },
-        "2": {
+        "200": {
           "value": "2rem",
           "type": "dimension"
         },
-        "3": {
+        "300": {
           "value": "3rem",
           "type": "dimension"
         },
-        "4": {
+        "400": {
           "value": "4rem",
+          "type": "dimension"
+        },
+        "025": {
+          "value": "0.25rem",
+          "type": "dimension"
+        },
+        "050": {
+          "value": "0.25rem",
+          "type": "dimension"
+        },
+        "075": {
+          "value": "0.75rem",
           "type": "dimension"
         }
       }
