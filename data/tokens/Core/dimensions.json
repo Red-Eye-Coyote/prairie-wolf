@@ -26,12 +26,20 @@
           "value": "16px",
           "type": "dimension"
         },
+        "18": {
+          "value": "18px",
+          "type": "dimension"
+        },
         "24": {
           "value": "24px",
           "type": "dimension"
         },
         "32": {
           "value": "32px",
+          "type": "dimension"
+        },
+        "100": {
+          "value": "100px",
           "type": "dimension"
         },
         "600": {
@@ -81,7 +89,7 @@
           "type": "dimension"
         },
         "050": {
-          "value": "0.25rem",
+          "value": "0.50rem",
           "type": "dimension"
         },
         "075": {

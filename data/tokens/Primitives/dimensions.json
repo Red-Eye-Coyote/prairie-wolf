@@ -1,0 +1,72 @@
+{
+  "spacing": {
+    "absolute": {
+      "4": {
+        "value": "{dimension._ref.absolute.4}",
+        "type": "spacing"
+      },
+      "8": {
+        "value": "{dimension._ref.absolute.8}",
+        "type": "spacing"
+      },
+      "10": {
+        "value": "{dimension._ref.absolute.10}",
+        "type": "spacing"
+      },
+      "16": {
+        "value": "{dimension._ref.absolute.16}",
+        "type": "spacing"
+      },
+      "24": {
+        "value": "{dimension._ref.absolute.24}",
+        "type": "spacing"
+      }
+    },
+    "relative": {
+      "100": {
+        "value": "{dimension._ref.relative.100}",
+        "type": "spacing"
+      },
+      "200": {
+        "value": "{dimension._ref.relative.200}",
+        "type": "spacing"
+      },
+      "050": {
+        "value": "{dimension._ref.relative.050}",
+        "type": "spacing"
+      },
+      "075": {
+        "value": "{dimension._ref.relative.075}",
+        "type": "spacing"
+      },
+      "025": {
+        "value": "{dimension._ref.relative.025}",
+        "type": "spacing"
+      }
+    }
+  },
+  "sizing": {
+    "absolute": {
+      "18": {
+        "value": "{dimension._ref.absolute.18}",
+        "type": "sizing"
+      }
+    }
+  },
+  "borderWidth": {
+    "absolute": {
+      "1": {
+        "value": "{dimension._ref.absolute.1}",
+        "type": "borderWidth"
+      }
+    }
+  },
+  "borderRadius": {
+    "absolute": {
+      "100": {
+        "value": "{dimension._ref.absolute.100}",
+        "type": "borderRadius"
+      }
+    }
+  }
+}

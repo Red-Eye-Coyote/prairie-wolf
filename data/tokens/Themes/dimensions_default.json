@@ -1,0 +1,42 @@
+{
+  "component": {
+    "padding": {
+      "absolute": {
+        "sm": {
+          "value": "{spacing.absolute.4}",
+          "type": "spacing"
+        },
+        "md": {
+          "value": "{spacing.absolute.8}",
+          "type": "spacing"
+        },
+        "lg": {
+          "value": "{spacing.absolute.16}",
+          "type": "spacing"
+        },
+        "xl": {
+          "value": "{spacing.absolute.24}",
+          "type": "spacing"
+        }
+      },
+      "relative": {
+        "sm": {
+          "value": "{spacing.relative.025}",
+          "type": "spacing"
+        },
+        "md": {
+          "value": "{spacing.relative.050}",
+          "type": "spacing"
+        },
+        "lg": {
+          "value": "{spacing.relative.100}",
+          "type": "spacing"
+        },
+        "xl": {
+          "value": "{spacing.relative.200}",
+          "type": "spacing"
+        }
+      }
+    }
+  }
+}
