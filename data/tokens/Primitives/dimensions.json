@@ -58,6 +58,14 @@
       "1": {
         "value": "{dimension._ref.absolute.1}",
         "type": "borderWidth"
+      },
+      "2": {
+        "value": "{dimension._ref.absolute.2}",
+        "type": "borderWidth"
+      },
+      "4": {
+        "value": "{dimension._ref.absolute.4}",
+        "type": "borderWidth"
       }
     }
   },

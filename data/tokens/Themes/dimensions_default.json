@@ -38,5 +38,19 @@
         }
       }
     }
+  },
+  "borderWidth": {
+    "sm": {
+      "value": "{borderWidth.absolute.1}",
+      "type": "borderWidth"
+    },
+    "md": {
+      "value": "{borderWidth.absolute.2}",
+      "type": "borderWidth"
+    },
+    "lg": {
+      "value": "{borderWidth.absolute.4}",
+      "type": "borderWidth"
+    }
   }
 }
