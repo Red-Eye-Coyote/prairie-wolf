@@ -37,6 +37,14 @@
           "type": "spacing"
         }
       }
+    },
+    "gap": {
+      "absolute": {
+        "md": {
+          "value": "{spacing.absolute.8}",
+          "type": "spacing"
+        }
+      }
     }
   },
   "borderWidth": {

@@ -119,6 +119,18 @@
         "disabled": {
           "value": "none",
           "type": "color"
+        },
+        "padding-x": {
+          "value": "{spacing.absolute.12}",
+          "type": "spacing"
+        },
+        "padding-y": {
+          "value": "{spacing.absolute.10}",
+          "type": "spacing"
+        },
+        "gap": {
+          "value": "{component.gap.absolute.md}",
+          "type": "spacing"
         }
       },
       "border": {
@@ -327,6 +339,22 @@
         "default": {
           "value": "none",
           "type": "color"
+        }
+      }
+    },
+    "default": {
+      "state-layer": {
+        "padding-x": {
+          "value": "{component.padding.absolute.xl}",
+          "type": "spacing"
+        },
+        "padding-y": {
+          "value": "{spacing.absolute.10}",
+          "type": "spacing"
+        },
+        "gap": {
+          "value": "{component.gap.absolute.md}",
+          "type": "spacing"
         }
       }
     }

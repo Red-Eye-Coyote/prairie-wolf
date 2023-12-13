@@ -13,6 +13,10 @@
         "value": "{dimension._ref.absolute.10}",
         "type": "spacing"
       },
+      "12": {
+        "value": "{dimension._ref.absolute.12}",
+        "type": "spacing"
+      },
       "16": {
         "value": "{dimension._ref.absolute.16}",
         "type": "spacing"

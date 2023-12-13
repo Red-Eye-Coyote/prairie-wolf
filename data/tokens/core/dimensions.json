@@ -26,6 +26,10 @@
           "value": "10px",
           "type": "dimension"
         },
+        "12": {
+          "value": "12px",
+          "type": "dimension"
+        },
         "16": {
           "value": "16px",
           "type": "dimension"
