@@ -4,6 +4,7 @@
     "core/opacity",
     "core/font",
     "core/dimensions",
+    "core/border",
     "primitive/color",
     "primitive/opacity",
     "primitive/font",

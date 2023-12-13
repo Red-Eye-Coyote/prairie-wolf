@@ -3,49 +3,49 @@
     "absolute": {
       "4": {
         "value": "{dimension._ref.absolute.4}",
-        "type": "spacing"
+        "type": "dimension"
       },
       "8": {
         "value": "{dimension._ref.absolute.8}",
-        "type": "spacing"
+        "type": "dimension"
       },
       "10": {
         "value": "{dimension._ref.absolute.10}",
-        "type": "spacing"
+        "type": "dimension"
       },
       "12": {
         "value": "{dimension._ref.absolute.12}",
-        "type": "spacing"
+        "type": "dimension"
       },
       "16": {
         "value": "{dimension._ref.absolute.16}",
-        "type": "spacing"
+        "type": "dimension"
       },
       "24": {
         "value": "{dimension._ref.absolute.24}",
-        "type": "spacing"
+        "type": "dimension"
       }
     },
     "relative": {
       "100": {
         "value": "{dimension._ref.relative.100}",
-        "type": "spacing"
+        "type": "dimension"
       },
       "200": {
         "value": "{dimension._ref.relative.200}",
-        "type": "spacing"
+        "type": "dimension"
       },
       "050": {
         "value": "{dimension._ref.relative.050}",
-        "type": "spacing"
+        "type": "dimension"
       },
       "075": {
         "value": "{dimension._ref.relative.075}",
-        "type": "spacing"
+        "type": "dimension"
       },
       "025": {
         "value": "{dimension._ref.relative.025}",
-        "type": "spacing"
+        "type": "dimension"
       }
     }
   },
@@ -53,31 +53,7 @@
     "absolute": {
       "18": {
         "value": "{dimension._ref.absolute.18}",
-        "type": "sizing"
-      }
-    }
-  },
-  "borderWidth": {
-    "absolute": {
-      "1": {
-        "value": "{dimension._ref.absolute.1}",
-        "type": "borderWidth"
-      },
-      "2": {
-        "value": "{dimension._ref.absolute.2}",
-        "type": "borderWidth"
-      },
-      "4": {
-        "value": "{dimension._ref.absolute.4}",
-        "type": "borderWidth"
-      }
-    }
-  },
-  "borderRadius": {
-    "absolute": {
-      "100": {
-        "value": "{dimension._ref.absolute.100}",
-        "type": "borderRadius"
+        "type": "dimension"
       }
     }
   }

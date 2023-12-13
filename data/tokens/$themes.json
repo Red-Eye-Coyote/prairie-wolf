@@ -4,7 +4,8 @@
     "name": "Default",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "core/color": "enabled"
+      "core/color": "enabled",
+      "core/border": "disabled"
     },
     "$figmaCollectionId": "VariableCollectionId:55903:25489",
     "$figmaModeId": "55903:14",
@@ -369,7 +370,8 @@
       "core/color": "source",
       "core/opacity": "source",
       "primitive/color": "enabled",
-      "primitive/opacity": "enabled"
+      "primitive/opacity": "enabled",
+      "core/border": "disabled"
     },
     "$figmaCollectionId": "VariableCollectionId:55903:25839",
     "$figmaModeId": "55903:15",
@@ -1015,7 +1017,8 @@
       "primitive/opacity": "source",
       "primitive/font": "source",
       "theme/light": "enabled",
-      "theme/typography": "enabled"
+      "theme/typography": "enabled",
+      "core/border": "disabled"
     },
     "$figmaVariableReferences": {
       "theme-colors.sys.primary": "7632c8088e30049c6638f1c16457c35042be4b94",
@@ -1241,7 +1244,8 @@
       "primitive/opacity": "source",
       "primitive/font": "source",
       "theme/dark": "enabled",
-      "theme/typography": "enabled"
+      "theme/typography": "enabled",
+      "core/border": "disabled"
     },
     "$figmaCollectionId": "VariableCollectionId:55903:26222",
     "$figmaModeId": "55903:17",
@@ -1465,7 +1469,8 @@
       "core/font": "source",
       "primitive/color": "enabled",
       "primitive/opacity": "enabled",
-      "primitive/font": "enabled"
+      "primitive/font": "enabled",
+      "core/border": "disabled"
     },
     "$figmaCollectionId": "VariableCollectionId:55903:26429",
     "$figmaModeId": "55903:18",
@@ -1866,7 +1871,8 @@
       "primitive/color": "source",
       "primitive/opacity": "source",
       "primitive/font": "source",
-      "brand/redeyecoyote": "enabled"
+      "brand/redeyecoyote": "enabled",
+      "core/border": "disabled"
     },
     "$figmaVariableReferences": {
       "color.primary.40": "dd451e30b0336614f99ce575a6219a5db66b6a2d",
@@ -2211,7 +2217,8 @@
       "primitive/color": "source",
       "primitive/opacity": "source",
       "primitive/font": "source",
-      "brand/portfolio": "enabled"
+      "brand/portfolio": "enabled",
+      "core/border": "disabled"
     },
     "$figmaCollectionId": "VariableCollectionId:55903:26429",
     "$figmaModeId": "55903:20",

@@ -4,37 +4,37 @@
       "absolute": {
         "sm": {
           "value": "{spacing.absolute.4}",
-          "type": "spacing"
+          "type": "dimension"
         },
         "md": {
           "value": "{spacing.absolute.8}",
-          "type": "spacing"
+          "type": "dimension"
         },
         "lg": {
           "value": "{spacing.absolute.16}",
-          "type": "spacing"
+          "type": "dimension"
         },
         "xl": {
           "value": "{spacing.absolute.24}",
-          "type": "spacing"
+          "type": "dimension"
         }
       },
       "relative": {
         "sm": {
           "value": "{spacing.relative.025}",
-          "type": "spacing"
+          "type": "dimension"
         },
         "md": {
           "value": "{spacing.relative.050}",
-          "type": "spacing"
+          "type": "dimension"
         },
         "lg": {
           "value": "{spacing.relative.100}",
-          "type": "spacing"
+          "type": "dimension"
         },
         "xl": {
           "value": "{spacing.relative.200}",
-          "type": "spacing"
+          "type": "dimension"
         }
       }
     },
@@ -42,22 +42,22 @@
       "absolute": {
         "md": {
           "value": "{spacing.absolute.8}",
-          "type": "spacing"
+          "type": "dimension"
         }
       }
     }
   },
   "borderWidth": {
     "sm": {
-      "value": "{borderWidth.absolute.1}",
+      "value": "{borderWidth._ref.1}",
       "type": "borderWidth"
     },
     "md": {
-      "value": "{borderWidth.absolute.2}",
+      "value": "{borderWidth._ref.2}",
       "type": "borderWidth"
     },
     "lg": {
-      "value": "{borderWidth.absolute.4}",
+      "value": "{borderWidth._ref.4}",
       "type": "borderWidth"
     }
   }
