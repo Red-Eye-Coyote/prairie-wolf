@@ -15,6 +15,7 @@
     "brand/redeyecoyote",
     "brand/portfolio",
     "component",
+    "component/button",
     "breakpoint/mobile",
     "breakpoint/tablet",
     "breakpoint/desktop"
