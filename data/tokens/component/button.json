@@ -348,5 +348,11 @@
         }
       }
     }
+  },
+  "button-radii": {
+    "default": {
+      "value": "{borderRadius._ref.100}",
+      "type": "borderRadius"
+    }
   }
 }
