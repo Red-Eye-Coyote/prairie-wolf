@@ -2970,45 +2970,45 @@
     "base": {
       "display": {
         "$type": "fontFamilies",
-        "$value": "{fontFamilies._ref.redHatDisplay}"
+        "$value": "{fontFamilies.redHatDisplay}"
       },
       "headline": {
         "$type": "fontFamilies",
-        "$value": "{fontFamilies._ref.redHatText}"
+        "$value": "{fontFamilies.redHatText}"
       },
       "title": {
         "$type": "fontFamilies",
-        "$value": "{fontFamilies._ref.redHatText}"
+        "$value": "{fontFamilies.redHatText}"
       },
       "label": {
         "$type": "fontFamilies",
-        "$value": "{fontFamilies._ref.redHatText}"
+        "$value": "{fontFamilies.redHatText}"
       },
       "body": {
         "$type": "fontFamilies",
-        "$value": "{fontFamilies._ref.redHatText}"
+        "$value": "{fontFamilies.redHatText}"
       }
     },
     "documentation": {
       "display": {
         "$type": "fontFamilies",
-        "$value": "{fontFamilies._ref.redHatDisplay}"
+        "$value": "{fontFamilies.redHatDisplay}"
       },
       "headline": {
         "$type": "fontFamilies",
-        "$value": "{fontFamilies._ref.redHatText}"
+        "$value": "{fontFamilies.redHatText}"
       },
       "title": {
         "$type": "fontFamilies",
-        "$value": "{fontFamilies._ref.redHatText}"
+        "$value": "{fontFamilies.redHatText}"
       },
       "label": {
         "$type": "fontFamilies",
-        "$value": "{fontFamilies._ref.redHatText}"
+        "$value": "{fontFamilies.redHatText}"
       },
       "body": {
         "$type": "fontFamilies",
-        "$value": "{fontFamilies._ref.redHatText}"
+        "$value": "{fontFamilies.redHatText}"
       }
     }
   },
@@ -3038,45 +3038,45 @@
     "base": {
       "display": {
         "$type": "fontWeights",
-        "$value": "{fontWeights._ref.bold}"
+        "$value": "{fontWeights.redHatText-bold}"
       },
       "headline": {
         "$type": "fontWeights",
-        "$value": "{fontWeights._ref.medium}"
+        "$value": "{fontWeights.redHatText-medium}"
       },
       "title": {
         "$type": "fontWeights",
-        "$value": "{fontWeights._ref.medium}"
+        "$value": "{fontWeights.redHatText-medium}"
       },
       "body": {
         "$type": "fontWeights",
-        "$value": "{fontWeights._ref.regular}"
+        "$value": "{fontWeights.redHatText-regular}"
       },
       "label": {
         "$type": "fontWeights",
-        "$value": "{fontWeights._ref.medium}"
+        "$value": "{fontWeights.redHatText-medium}"
       }
     },
     "documentation": {
       "display": {
         "$type": "fontWeights",
-        "$value": "{fontWeights._ref.bold}"
+        "$value": "{fontWeights.redHatText-bold}"
       },
       "headline": {
         "$type": "fontWeights",
-        "$value": "{fontWeights._ref.medium}"
+        "$value": "{fontWeights.redHatText-medium}"
       },
       "title": {
         "$type": "fontWeights",
-        "$value": "{fontWeights._ref.medium}"
+        "$value": "{fontWeights.redHatText-medium}"
       },
       "body": {
         "$type": "fontWeights",
-        "$value": "{fontWeights._ref.regular}"
+        "$value": "{fontWeights.redHatText-regular}"
       },
       "label": {
         "$type": "fontWeights",
-        "$value": "{fontWeights._ref.medium}"
+        "$value": "{fontWeights.redHatText-medium}"
       }
     }
   },
@@ -3084,45 +3084,45 @@
     "base": {
       "display": {
         "$type": "other",
-        "$value": "{nRatio._ref.redHatDisplay}"
+        "$value": "{nRatio.redHatDisplay}"
       },
       "headline": {
         "$type": "other",
-        "$value": "{nRatio._ref.redHatText}"
+        "$value": "{nRatio.redHatText}"
       },
       "title": {
         "$type": "other",
-        "$value": "{nRatio._ref.redHatText}"
+        "$value": "{nRatio.redHatText}"
       },
       "label": {
         "$type": "other",
-        "$value": "{nRatio._ref.redHatText}"
+        "$value": "{nRatio.redHatText}"
       },
       "body": {
         "$type": "other",
-        "$value": "{nRatio._ref.redHatText}"
+        "$value": "{nRatio.redHatText}"
       }
     },
     "documentation": {
       "display": {
         "$type": "other",
-        "$value": "{nRatio._ref.redHatDisplay}"
+        "$value": "{nRatio.redHatDisplay}"
       },
       "headline": {
         "$type": "other",
-        "$value": "{nRatio._ref.redHatText}"
+        "$value": "{nRatio.redHatText}"
       },
       "title": {
         "$type": "other",
-        "$value": "{nRatio._ref.redHatText}"
+        "$value": "{nRatio.redHatText}"
       },
       "label": {
         "$type": "other",
-        "$value": "{nRatio._ref.redHatText}"
+        "$value": "{nRatio.redHatText}"
       },
       "body": {
         "$type": "other",
-        "$value": "{nRatio._ref.redHatText}"
+        "$value": "{nRatio.redHatText}"
       }
     }
   }

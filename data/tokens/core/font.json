@@ -80,50 +80,146 @@
     }
   },
   "fontFamilies": {
-    "_ref": {
-      "redHatDisplay": {
-        "$type": "fontFamilies",
-        "$value": "Red Hat Display"
-      },
-      "redHatText": {
-        "$type": "fontFamilies",
-        "$value": "Red Hat Text"
-      },
-      "inter": {
-        "$type": "fontFamilies",
-        "$value": "Inter"
-      }
+    "inter": {
+      "$type": "fontFamilies",
+      "$value": "Inter"
+    },
+    "redHatDisplay": {
+      "$type": "fontFamilies",
+      "$value": "Red Hat Display"
+    },
+    "redHatText": {
+      "$type": "fontFamilies",
+      "$value": "Red Hat Text"
+    }
+  },
+  "nRatio": {
+    "inter": {
+      "$type": "other",
+      "$value": "1"
+    },
+    "redHatDisplay": {
+      "$type": "other",
+      "$value": "1.02"
+    },
+    "redHatText": {
+      "$type": "other",
+      "$value": "1.02"
     }
   },
   "fontWeights": {
-    "_ref": {
-      "bold": {
+    "inter": {
+      "thin": {
         "$type": "fontWeights",
-        "$value": "Bold"
+        "$value": "Thin"
+      },
+      "extralight": {
+        "$type": "fontWeights",
+        "$value": "Extra Light"
+      },
+      "light": {
+        "$type": "fontWeights",
+        "$value": "Light"
+      },
+      "regular": {
+        "$type": "fontWeights",
+        "$value": "Regular"
       },
       "medium": {
         "$type": "fontWeights",
         "$value": "Medium"
       },
+      "semibold": {
+        "$type": "fontWeights",
+        "$value": "Semi Bold"
+      },
+      "bold": {
+        "$type": "fontWeights",
+        "$value": "Bold"
+      },
+      "extrabold": {
+        "$type": "fontWeights",
+        "$value": "Extra Bold"
+      },
+      "black": {
+        "$type": "fontWeights",
+        "$value": "Black"
+      }
+    },
+    "redHatDisplay": {
+      "thin": {
+        "$type": "fontWeights",
+        "$value": "Light"
+      },
+      "extralight": {
+        "$type": "fontWeights",
+        "$value": "Light"
+      },
+      "light": {
+        "$type": "fontWeights",
+        "$value": "Light"
+      },
       "regular": {
         "$type": "fontWeights",
         "$value": "Regular"
+      },
+      "medium": {
+        "$type": "fontWeights",
+        "$value": "Medium"
+      },
+      "semibold": {
+        "$type": "fontWeights",
+        "$value": "SemiBold"
+      },
+      "bold": {
+        "$type": "fontWeights",
+        "$value": "Bold"
+      },
+      "extrabold": {
+        "$type": "fontWeights",
+        "$value": "ExtraBold"
+      },
+      "black": {
+        "$type": "fontWeights",
+        "$value": "Black"
       }
-    }
-  },
-  "nRatio": {
-    "_ref": {
-      "redHatDisplay": {
-        "$type": "other",
-        "$value": "1.02"
+    },
+    "redHatText": {
+      "thin": {
+        "$type": "fontWeights",
+        "$value": "Light"
       },
-      "redHatText": {
-        "$type": "other",
-        "$value": "1.02"
+      "extralight": {
+        "$type": "fontWeights",
+        "$value": "Light"
       },
-      "inter": {
-        "$type": "other",
-        "$value": "1"
+      "light": {
+        "$type": "fontWeights",
+        "$value": "Light"
+      },
+      "regular": {
+        "$type": "fontWeights",
+        "$value": "Regular"
+      },
+      "medium": {
+        "$type": "fontWeights",
+        "$value": "Medium"
+      },
+      "semibold": {
+        "$type": "fontWeights",
+        "$value": "SemiBold"
+      },
+      "bold": {
+        "$type": "fontWeights",
+        "$value": "Bold"
+      },
+      "extrabold": {
+        "$type": "fontWeights",
+        "$value": "Bold"
+      },
+      "black": {
+        "$type": "fontWeights",
+        "$value": "Bold"
       }
     }
   }

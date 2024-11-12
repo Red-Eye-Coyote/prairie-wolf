@@ -4,7 +4,8 @@
     "name": "Default",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "core/color": "enabled"
+      "core/color": "enabled",
+      "core/font": "disabled"
     },
     "$figmaCollectionId": "VariableCollectionId:55903:25489",
     "$figmaModeId": "55903:14",
@@ -369,7 +370,8 @@
       "core/color": "source",
       "core/opacity": "source",
       "primitive/color": "enabled",
-      "primitive/opacity": "enabled"
+      "primitive/opacity": "enabled",
+      "core/font": "disabled"
     },
     "$figmaCollectionId": "VariableCollectionId:55903:25839",
     "$figmaModeId": "55903:15",
@@ -766,12 +768,12 @@
     "selectedTokenSets": {
       "core/color": "source",
       "core/opacity": "source",
-      "core/font": "source",
       "primitive/color": "source",
       "primitive/opacity": "source",
       "primitive/font": "source",
       "theme/light": "enabled",
-      "theme/typography": "enabled"
+      "theme/typography_default": "enabled",
+      "core/font": "source"
     },
     "$figmaVariableReferences": {},
     "$figmaCollectionId": "VariableCollectionId:54710:24595",
@@ -992,12 +994,12 @@
     "selectedTokenSets": {
       "core/color": "source",
       "core/opacity": "source",
-      "core/font": "source",
       "primitive/color": "source",
       "primitive/opacity": "source",
       "primitive/font": "source",
       "theme/dark": "enabled",
-      "theme/typography": "enabled"
+      "theme/typography_default": "enabled",
+      "core/font": "source"
     },
     "$figmaCollectionId": "VariableCollectionId:55903:26222",
     "$figmaModeId": "55903:17",
@@ -1218,10 +1220,10 @@
     "selectedTokenSets": {
       "core/color": "source",
       "core/opacity": "source",
-      "core/font": "source",
       "primitive/color": "enabled",
       "primitive/opacity": "enabled",
-      "primitive/font": "enabled"
+      "primitive/font": "enabled",
+      "core/font": "source"
     },
     "$figmaCollectionId": "VariableCollectionId:55903:26429",
     "$figmaModeId": "55903:18",
@@ -1618,11 +1620,11 @@
     "selectedTokenSets": {
       "core/color": "source",
       "core/opacity": "source",
-      "core/font": "source",
       "primitive/color": "source",
       "primitive/opacity": "source",
       "primitive/font": "source",
-      "brand/redeyecoyote": "enabled"
+      "brand/redeyecoyote": "enabled",
+      "core/font": "source"
     },
     "$figmaVariableReferences": {
       "color.primary.40": "dd451e30b0336614f99ce575a6219a5db66b6a2d",
@@ -2215,11 +2217,11 @@
     "selectedTokenSets": {
       "core/color": "source",
       "core/opacity": "source",
-      "core/font": "source",
       "primitive/color": "source",
       "primitive/opacity": "source",
       "primitive/font": "source",
-      "brand/portfolio": "enabled"
+      "brand/portfolio": "enabled",
+      "core/font": "source"
     },
     "$figmaCollectionId": "VariableCollectionId:55903:26429",
     "$figmaModeId": "55903:20",

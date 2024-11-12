@@ -3,45 +3,45 @@
     "base": {
       "display": {
         "$type": "fontFamilies",
-        "$value": "{fontFamilies._ref.inter}"
+        "$value": "{fontFamilies.inter}"
       },
       "headline": {
         "$type": "fontFamilies",
-        "$value": "{fontFamilies._ref.inter}"
+        "$value": "{fontFamilies.inter}"
       },
       "title": {
         "$type": "fontFamilies",
-        "$value": "{fontFamilies._ref.inter}"
+        "$value": "{fontFamilies.inter}"
       },
       "label": {
         "$type": "fontFamilies",
-        "$value": "{fontFamilies._ref.inter}"
+        "$value": "{fontFamilies.inter}"
       },
       "body": {
         "$type": "fontFamilies",
-        "$value": "{fontFamilies._ref.inter}"
+        "$value": "{fontFamilies.inter}"
       }
     },
     "documentation": {
       "display": {
         "$type": "fontFamilies",
-        "$value": "{fontFamilies._ref.inter}"
+        "$value": "{fontFamilies.inter}"
       },
       "headline": {
         "$type": "fontFamilies",
-        "$value": "{fontFamilies._ref.inter}"
+        "$value": "{fontFamilies.inter}"
       },
       "title": {
         "$type": "fontFamilies",
-        "$value": "{fontFamilies._ref.inter}"
+        "$value": "{fontFamilies.inter}"
       },
       "label": {
         "$type": "fontFamilies",
-        "$value": "{fontFamilies._ref.inter}"
+        "$value": "{fontFamilies.inter}"
       },
       "body": {
         "$type": "fontFamilies",
-        "$value": "{fontFamilies._ref.inter}"
+        "$value": "{fontFamilies.inter}"
       }
     }
   },
@@ -159,45 +159,45 @@
     "base": {
       "display": {
         "$type": "fontWeights",
-        "$value": "{fontWeights._ref.bold}"
+        "$value": "{fontWeights.inter.bold}"
       },
       "headline": {
         "$type": "fontWeights",
-        "$value": "{fontWeights._ref.medium}"
+        "$value": "{fontWeights.inter.medium}"
       },
       "title": {
         "$type": "fontWeights",
-        "$value": "{fontWeights._ref.medium}"
+        "$value": "{fontWeights.inter.medium}"
       },
       "body": {
         "$type": "fontWeights",
-        "$value": "{fontWeights._ref.regular}"
+        "$value": "{fontWeights.inter.regular}"
       },
       "label": {
         "$type": "fontWeights",
-        "$value": "{fontWeights._ref.medium}"
+        "$value": "{fontWeights.inter.medium}"
       }
     },
     "documentation": {
       "display": {
         "$type": "fontWeights",
-        "$value": "{fontWeights._ref.bold}"
+        "$value": "{fontWeights.inter.bold}"
       },
       "headline": {
         "$type": "fontWeights",
-        "$value": "{fontWeights._ref.medium}"
+        "$value": "{fontWeights.inter.medium}"
       },
       "title": {
         "$type": "fontWeights",
-        "$value": "{fontWeights._ref.medium}"
+        "$value": "{fontWeights.inter.medium}"
       },
       "body": {
         "$type": "fontWeights",
-        "$value": "{fontWeights._ref.regular}"
+        "$value": "{fontWeights.inter.regular}"
       },
       "label": {
         "$type": "fontWeights",
-        "$value": "{fontWeights._ref.medium}"
+        "$value": "{fontWeights.inter.medium}"
       }
     }
   },
@@ -205,45 +205,45 @@
     "base": {
       "display": {
         "$type": "other",
-        "$value": "{nRatio._ref.inter}"
+        "$value": "{nRatio.inter}"
       },
       "headline": {
         "$type": "other",
-        "$value": "{nRatio._ref.inter}"
+        "$value": "{nRatio.inter}"
       },
       "title": {
         "$type": "other",
-        "$value": "{nRatio._ref.inter}"
+        "$value": "{nRatio.inter}"
       },
       "label": {
         "$type": "other",
-        "$value": "{nRatio._ref.inter}"
+        "$value": "{nRatio.inter}"
       },
       "body": {
         "$type": "other",
-        "$value": "{nRatio._ref.inter}"
+        "$value": "{nRatio.inter}"
       }
     },
     "documentation": {
       "display": {
         "$type": "other",
-        "$value": "{nRatio._ref.inter}"
+        "$value": "{nRatio.inter}"
       },
       "headline": {
         "$type": "other",
-        "$value": "{nRatio._ref.inter}"
+        "$value": "{nRatio.inter}"
       },
       "title": {
         "$type": "other",
-        "$value": "{nRatio._ref.inter}"
+        "$value": "{nRatio.inter}"
       },
       "label": {
         "$type": "other",
-        "$value": "{nRatio._ref.inter}"
+        "$value": "{nRatio.inter}"
       },
       "body": {
         "$type": "other",
-        "$value": "{nRatio._ref.inter}"
+        "$value": "{nRatio.inter}"
       }
     }
   }

@@ -11,7 +11,7 @@
     "primitive/dimensions",
     "theme/light",
     "theme/dark",
-    "theme/typography",
+    "theme/typography_default",
     "theme/dimensions_default",
     "brand/redeyecoyote",
     "brand/portfolio",
