@@ -13,12 +13,13 @@
     "brand/portfolio",
     "theme/light",
     "theme/dark",
-    "theme/typography_default",
     "theme/dimensions_default",
-    "component/button",
+    "typography/default",
+    "typography/alt_scale",
     "breakpoint/600px",
     "breakpoint/800px",
     "breakpoint/1040px",
-    "breakpoint/1600px"
+    "breakpoint/1600px",
+    "component/button"
   ]
 }
