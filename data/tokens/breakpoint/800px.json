@@ -3,7 +3,7 @@
     "base": {
       "root": {
         "$type": "fontSizes",
-        "$value": "18"
+        "$value": "17"
       }
     }
   }

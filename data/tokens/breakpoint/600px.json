@@ -1,10 +1,1 @@
-{
-  "fontSize": {
-    "base": {
-      "root": {
-        "$type": "fontSizes",
-        "$value": "17"
-      }
-    }
-  }
-}
+{}
