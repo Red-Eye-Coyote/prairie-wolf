@@ -15,7 +15,6 @@
     "theme/dark",
     "theme/dimensions_default",
     "typography/default",
-    "typography/alt_scale",
     "breakpoint/600px",
     "breakpoint/800px",
     "breakpoint/1040px",
