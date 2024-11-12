@@ -3,62 +3,62 @@
     "padding": {
       "absolute": {
         "sm": {
-          "value": "{spacing.absolute.4}",
-          "type": "dimension"
+          "$type": "dimension",
+          "$value": "{spacing.absolute.4}"
         },
         "md": {
-          "value": "{spacing.absolute.8}",
-          "type": "dimension"
+          "$type": "dimension",
+          "$value": "{spacing.absolute.8}"
         },
         "lg": {
-          "value": "{spacing.absolute.16}",
-          "type": "dimension"
+          "$type": "dimension",
+          "$value": "{spacing.absolute.16}"
         },
         "xl": {
-          "value": "{spacing.absolute.24}",
-          "type": "dimension"
+          "$type": "dimension",
+          "$value": "{spacing.absolute.24}"
         }
       },
       "relative": {
         "sm": {
-          "value": "{spacing.relative.025}",
-          "type": "dimension"
+          "$type": "dimension",
+          "$value": "{spacing.relative.025}"
         },
         "md": {
-          "value": "{spacing.relative.050}",
-          "type": "dimension"
+          "$type": "dimension",
+          "$value": "{spacing.relative.050}"
         },
         "lg": {
-          "value": "{spacing.relative.100}",
-          "type": "dimension"
+          "$type": "dimension",
+          "$value": "{spacing.relative.100}"
         },
         "xl": {
-          "value": "{spacing.relative.200}",
-          "type": "dimension"
+          "$type": "dimension",
+          "$value": "{spacing.relative.200}"
         }
       }
     },
     "gap": {
       "absolute": {
         "md": {
-          "value": "{spacing.absolute.8}",
-          "type": "dimension"
+          "$type": "dimension",
+          "$value": "{spacing.absolute.8}"
         }
       }
     }
   },
   "borderWidth": {
     "sm": {
-      "value": "{borderWidth._ref.1}",
-      "type": "borderWidth"
+      "$type": "borderWidth",
+      "$value": "{borderWidth._ref.1}"
     },
     "md": {
-      "value": "{borderWidth._ref.2}",
-      "type": "borderWidth"
+      "$type": "borderWidth",
+      "$value": "{borderWidth._ref.2}"
     },
     "lg": {
-      "value": "{borderWidth._ref.4}",
-      "type": "borderWidth"
+      "$type": "borderWidth",
+      "$value": "{borderWidth._ref.4}"
     }
   }
 }

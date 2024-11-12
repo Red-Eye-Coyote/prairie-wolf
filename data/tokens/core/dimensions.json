@@ -3,106 +3,106 @@
     "_ref": {
       "absolute": {
         "0": {
-          "value": "0px",
-          "type": "dimension"
+          "$type": "dimension",
+          "$value": "0px"
         },
         "1": {
-          "value": "1px",
-          "type": "dimension"
+          "$type": "dimension",
+          "$value": "1px"
         },
         "2": {
-          "value": "2px",
-          "type": "dimension"
+          "$type": "dimension",
+          "$value": "2px"
         },
         "4": {
-          "value": "4px",
-          "type": "dimension"
+          "$type": "dimension",
+          "$value": "4px"
         },
         "8": {
-          "value": "8px",
-          "type": "dimension"
+          "$type": "dimension",
+          "$value": "8px"
         },
         "10": {
-          "value": "10px",
-          "type": "dimension"
+          "$type": "dimension",
+          "$value": "10px"
         },
         "12": {
-          "value": "12px",
-          "type": "dimension"
+          "$type": "dimension",
+          "$value": "12px"
         },
         "16": {
-          "value": "16px",
-          "type": "dimension"
+          "$type": "dimension",
+          "$value": "16px"
         },
         "18": {
-          "value": "18px",
-          "type": "dimension"
+          "$type": "dimension",
+          "$value": "18px"
         },
         "24": {
-          "value": "24px",
-          "type": "dimension"
+          "$type": "dimension",
+          "$value": "24px"
         },
         "32": {
-          "value": "32px",
-          "type": "dimension"
+          "$type": "dimension",
+          "$value": "32px"
         },
         "100": {
-          "value": "100px",
-          "type": "dimension"
+          "$type": "dimension",
+          "$value": "100px"
         },
         "600": {
-          "value": "600px",
-          "type": "dimension"
+          "$type": "dimension",
+          "$value": "600px"
         },
         "900": {
-          "value": "900px",
-          "type": "dimension"
+          "$type": "dimension",
+          "$value": "900px"
         },
         "1200": {
-          "value": "1200px",
-          "type": "dimension"
+          "$type": "dimension",
+          "$value": "1200px"
         },
         "1440": {
-          "value": "1440px",
-          "type": "dimension"
+          "$type": "dimension",
+          "$value": "1440px"
         },
         "1600": {
-          "value": "1600px",
-          "type": "dimension"
+          "$type": "dimension",
+          "$value": "1600px"
         }
       },
       "relative": {
         "0": {
-          "value": "0rem",
-          "type": "dimension"
+          "$type": "dimension",
+          "$value": "0rem"
         },
         "100": {
-          "value": "1rem",
-          "type": "dimension"
+          "$type": "dimension",
+          "$value": "1rem"
         },
         "200": {
-          "value": "2rem",
-          "type": "dimension"
+          "$type": "dimension",
+          "$value": "2rem"
         },
         "300": {
-          "value": "3rem",
-          "type": "dimension"
+          "$type": "dimension",
+          "$value": "3rem"
         },
         "400": {
-          "value": "4rem",
-          "type": "dimension"
+          "$type": "dimension",
+          "$value": "4rem"
         },
         "025": {
-          "value": "0.25rem",
-          "type": "dimension"
+          "$type": "dimension",
+          "$value": "0.25rem"
         },
         "050": {
-          "value": "0.50rem",
-          "type": "dimension"
+          "$type": "dimension",
+          "$value": "0.50rem"
         },
         "075": {
-          "value": "0.75rem",
-          "type": "dimension"
+          "$type": "dimension",
+          "$value": "0.75rem"
         }
       }
     }

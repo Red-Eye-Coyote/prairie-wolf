@@ -2,128 +2,128 @@
   "lineHeights": {
     "base": {
       "16": {
-        "value": "16",
-        "type": "lineHeights"
+        "$type": "lineHeights",
+        "$value": "16"
       },
       "20": {
-        "value": "20",
-        "type": "lineHeights"
+        "$type": "lineHeights",
+        "$value": "20"
       },
       "24": {
-        "value": "24",
-        "type": "lineHeights"
+        "$type": "lineHeights",
+        "$value": "24"
       },
       "28": {
-        "value": "28",
-        "type": "lineHeights"
+        "$type": "lineHeights",
+        "$value": "28"
       },
       "32": {
-        "value": "32",
-        "type": "lineHeights"
+        "$type": "lineHeights",
+        "$value": "32"
       },
       "36": {
-        "value": "36",
-        "type": "lineHeights"
+        "$type": "lineHeights",
+        "$value": "36"
       },
       "40": {
-        "value": "40",
-        "type": "lineHeights"
+        "$type": "lineHeights",
+        "$value": "40"
       },
       "44": {
-        "value": "44",
-        "type": "lineHeights"
+        "$type": "lineHeights",
+        "$value": "44"
       },
       "52": {
-        "value": "52",
-        "type": "lineHeights"
+        "$type": "lineHeights",
+        "$value": "52"
       },
       "64": {
-        "value": "64",
-        "type": "lineHeights"
+        "$type": "lineHeights",
+        "$value": "64"
       }
     },
     "documentation": {
       "default": {
-        "value": "120%",
-        "type": "lineHeights"
+        "$type": "lineHeights",
+        "$value": "120%"
       }
     }
   },
   "letterSpacing": {
     "0": {
-      "value": "0%",
-      "type": "letterSpacing"
+      "$type": "letterSpacing",
+      "$value": "0%"
     }
   },
   "paragraphSpacing": {
     "0": {
-      "value": "0",
-      "type": "paragraphSpacing"
+      "$type": "paragraphSpacing",
+      "$value": "0"
     }
   },
   "textCase": {
     "none": {
-      "value": "none",
-      "type": "textCase"
+      "$type": "textCase",
+      "$value": "none"
     }
   },
   "textDecoration": {
     "none": {
-      "value": "none",
-      "type": "textDecoration"
+      "$type": "textDecoration",
+      "$value": "none"
     }
   },
   "paragraphIndent": {
     "0": {
-      "value": "0px",
-      "type": "dimension"
+      "$type": "dimension",
+      "$value": "0px"
     }
   },
   "fontFamilies": {
     "_ref": {
       "redHatDisplay": {
-        "value": "Red Hat Display",
-        "type": "fontFamilies"
+        "$type": "fontFamilies",
+        "$value": "Red Hat Display"
       },
       "redHatText": {
-        "value": "Red Hat Text",
-        "type": "fontFamilies"
+        "$type": "fontFamilies",
+        "$value": "Red Hat Text"
       },
       "inter": {
-        "value": "Inter",
-        "type": "fontFamilies"
+        "$type": "fontFamilies",
+        "$value": "Inter"
       }
     }
   },
   "fontWeights": {
     "_ref": {
       "bold": {
-        "value": "Bold",
-        "type": "fontWeights"
+        "$type": "fontWeights",
+        "$value": "Bold"
       },
       "medium": {
-        "value": "Medium",
-        "type": "fontWeights"
+        "$type": "fontWeights",
+        "$value": "Medium"
       },
       "regular": {
-        "value": "Regular",
-        "type": "fontWeights"
+        "$type": "fontWeights",
+        "$value": "Regular"
       }
     }
   },
   "nRatio": {
     "_ref": {
       "redHatDisplay": {
-        "value": "1.02",
-        "type": "other"
+        "$type": "other",
+        "$value": "1.02"
       },
       "redHatText": {
-        "value": "1.02",
-        "type": "other"
+        "$type": "other",
+        "$value": "1.02"
       },
       "inter": {
-        "value": "1",
-        "type": "other"
+        "$type": "other",
+        "$value": "1"
       }
     }
   }

@@ -2,8 +2,8 @@
   "fontSize": {
     "base": {
       "root": {
-        "value": "18",
-        "type": "fontSizes"
+        "$type": "fontSizes",
+        "$value": "18"
       }
     }
   }

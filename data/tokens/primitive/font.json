@@ -2,248 +2,248 @@
   "fontFamilies": {
     "base": {
       "display": {
-        "value": "{fontFamilies._ref.inter}",
-        "type": "fontFamilies"
+        "$type": "fontFamilies",
+        "$value": "{fontFamilies._ref.inter}"
       },
       "headline": {
-        "value": "{fontFamilies._ref.inter}",
-        "type": "fontFamilies"
+        "$type": "fontFamilies",
+        "$value": "{fontFamilies._ref.inter}"
       },
       "title": {
-        "value": "{fontFamilies._ref.inter}",
-        "type": "fontFamilies"
+        "$type": "fontFamilies",
+        "$value": "{fontFamilies._ref.inter}"
       },
       "label": {
-        "value": "{fontFamilies._ref.inter}",
-        "type": "fontFamilies"
+        "$type": "fontFamilies",
+        "$value": "{fontFamilies._ref.inter}"
       },
       "body": {
-        "value": "{fontFamilies._ref.inter}",
-        "type": "fontFamilies"
+        "$type": "fontFamilies",
+        "$value": "{fontFamilies._ref.inter}"
       }
     },
     "documentation": {
       "display": {
-        "value": "{fontFamilies._ref.inter}",
-        "type": "fontFamilies"
+        "$type": "fontFamilies",
+        "$value": "{fontFamilies._ref.inter}"
       },
       "headline": {
-        "value": "{fontFamilies._ref.inter}",
-        "type": "fontFamilies"
+        "$type": "fontFamilies",
+        "$value": "{fontFamilies._ref.inter}"
       },
       "title": {
-        "value": "{fontFamilies._ref.inter}",
-        "type": "fontFamilies"
+        "$type": "fontFamilies",
+        "$value": "{fontFamilies._ref.inter}"
       },
       "label": {
-        "value": "{fontFamilies._ref.inter}",
-        "type": "fontFamilies"
+        "$type": "fontFamilies",
+        "$value": "{fontFamilies._ref.inter}"
       },
       "body": {
-        "value": "{fontFamilies._ref.inter}",
-        "type": "fontFamilies"
+        "$type": "fontFamilies",
+        "$value": "{fontFamilies._ref.inter}"
       }
     }
   },
   "fontSize": {
     "base": {
       "0": {
-        "value": "{fontSize.base.1} / {fontSize.base.scale}",
-        "type": "fontSizes"
+        "$type": "fontSizes",
+        "$value": "{fontSize.base.1} / {fontSize.base.scale}"
       },
       "1": {
-        "value": "{fontSize.base.2} / {fontSize.base.scale}",
-        "type": "fontSizes"
+        "$type": "fontSizes",
+        "$value": "{fontSize.base.2} / {fontSize.base.scale}"
       },
       "2": {
-        "value": "{fontSize.base.3} / {fontSize.base.scale}",
-        "type": "fontSizes"
+        "$type": "fontSizes",
+        "$value": "{fontSize.base.3} / {fontSize.base.scale}"
       },
       "3": {
-        "value": "{fontSize.base.root}",
-        "type": "fontSizes"
+        "$type": "fontSizes",
+        "$value": "{fontSize.base.root}"
       },
       "4": {
-        "value": "{fontSize.base.3} * {fontSize.base.scale}",
-        "type": "fontSizes"
+        "$type": "fontSizes",
+        "$value": "{fontSize.base.3} * {fontSize.base.scale}"
       },
       "5": {
-        "value": "{fontSize.base.4} * {fontSize.base.scale}",
-        "type": "fontSizes"
+        "$type": "fontSizes",
+        "$value": "{fontSize.base.4} * {fontSize.base.scale}"
       },
       "6": {
-        "value": "{fontSize.base.5} * {fontSize.base.scale}",
-        "type": "fontSizes"
+        "$type": "fontSizes",
+        "$value": "{fontSize.base.5} * {fontSize.base.scale}"
       },
       "7": {
-        "value": "{fontSize.base.6} * {fontSize.base.scale}",
-        "type": "fontSizes"
+        "$type": "fontSizes",
+        "$value": "{fontSize.base.6} * {fontSize.base.scale}"
       },
       "8": {
-        "value": "{fontSize.base.7} * {fontSize.base.scale}",
-        "type": "fontSizes"
+        "$type": "fontSizes",
+        "$value": "{fontSize.base.7} * {fontSize.base.scale}"
       },
       "9": {
-        "value": "{fontSize.base.8} * {fontSize.base.scale}",
-        "type": "fontSizes"
+        "$type": "fontSizes",
+        "$value": "{fontSize.base.8} * {fontSize.base.scale}"
       },
       "10": {
-        "value": "{fontSize.base.9} * {fontSize.base.scale}",
-        "type": "fontSizes"
+        "$type": "fontSizes",
+        "$value": "{fontSize.base.9} * {fontSize.base.scale}"
       },
       "root": {
-        "value": "16",
-        "type": "fontSizes"
+        "$type": "fontSizes",
+        "$value": "16"
       },
       "scale": {
-        "value": "1.2",
-        "type": "fontSizes"
+        "$type": "fontSizes",
+        "$value": "1.2"
       }
     },
     "documentation": {
       "0": {
-        "value": "{fontSize.documentation.1} / {fontSize.documentation.scale}",
-        "type": "fontSizes"
+        "$type": "fontSizes",
+        "$value": "{fontSize.documentation.1} / {fontSize.documentation.scale}"
       },
       "1": {
-        "value": "{fontSize.documentation.2} / {fontSize.documentation.scale}",
-        "type": "fontSizes"
+        "$type": "fontSizes",
+        "$value": "{fontSize.documentation.2} / {fontSize.documentation.scale}"
       },
       "2": {
-        "value": "{fontSize.documentation.3} / {fontSize.documentation.scale}",
-        "type": "fontSizes"
+        "$type": "fontSizes",
+        "$value": "{fontSize.documentation.3} / {fontSize.documentation.scale}"
       },
       "3": {
-        "value": "{fontSize.documentation.root}",
-        "type": "fontSizes"
+        "$type": "fontSizes",
+        "$value": "{fontSize.documentation.root}"
       },
       "4": {
-        "value": "{fontSize.documentation.3} * {fontSize.documentation.scale}",
-        "type": "fontSizes"
+        "$type": "fontSizes",
+        "$value": "{fontSize.documentation.3} * {fontSize.documentation.scale}"
       },
       "5": {
-        "value": "{fontSize.documentation.4} * {fontSize.documentation.scale}",
-        "type": "fontSizes"
+        "$type": "fontSizes",
+        "$value": "{fontSize.documentation.4} * {fontSize.documentation.scale}"
       },
       "6": {
-        "value": "{fontSize.documentation.5} * {fontSize.documentation.scale}",
-        "type": "fontSizes"
+        "$type": "fontSizes",
+        "$value": "{fontSize.documentation.5} * {fontSize.documentation.scale}"
       },
       "7": {
-        "value": "{fontSize.documentation.6} * {fontSize.documentation.scale}",
-        "type": "fontSizes"
+        "$type": "fontSizes",
+        "$value": "{fontSize.documentation.6} * {fontSize.documentation.scale}"
       },
       "8": {
-        "value": "{fontSize.documentation.7} * {fontSize.documentation.scale}",
-        "type": "fontSizes"
+        "$type": "fontSizes",
+        "$value": "{fontSize.documentation.7} * {fontSize.documentation.scale}"
       },
       "9": {
-        "value": "{fontSize.documentation.8} * {fontSize.documentation.scale}",
-        "type": "fontSizes"
+        "$type": "fontSizes",
+        "$value": "{fontSize.documentation.8} * {fontSize.documentation.scale}"
       },
       "10": {
-        "value": "{fontSize.documentation.9} * {fontSize.documentation.scale}",
-        "type": "fontSizes"
+        "$type": "fontSizes",
+        "$value": "{fontSize.documentation.9} * {fontSize.documentation.scale}"
       },
       "root": {
-        "value": "18",
-        "type": "fontSizes"
+        "$type": "fontSizes",
+        "$value": "18"
       },
       "scale": {
-        "value": "1.333",
-        "type": "fontSizes"
+        "$type": "fontSizes",
+        "$value": "1.333"
       }
     }
   },
   "fontWeights": {
     "base": {
       "display": {
-        "value": "{fontWeights._ref.bold}",
-        "type": "fontWeights"
+        "$type": "fontWeights",
+        "$value": "{fontWeights._ref.bold}"
       },
       "headline": {
-        "value": "{fontWeights._ref.medium}",
-        "type": "fontWeights"
+        "$type": "fontWeights",
+        "$value": "{fontWeights._ref.medium}"
       },
       "title": {
-        "value": "{fontWeights._ref.medium}",
-        "type": "fontWeights"
+        "$type": "fontWeights",
+        "$value": "{fontWeights._ref.medium}"
       },
       "body": {
-        "value": "{fontWeights._ref.regular}",
-        "type": "fontWeights"
+        "$type": "fontWeights",
+        "$value": "{fontWeights._ref.regular}"
       },
       "label": {
-        "value": "{fontWeights._ref.medium}",
-        "type": "fontWeights"
+        "$type": "fontWeights",
+        "$value": "{fontWeights._ref.medium}"
       }
     },
     "documentation": {
       "display": {
-        "value": "{fontWeights._ref.bold}",
-        "type": "fontWeights"
+        "$type": "fontWeights",
+        "$value": "{fontWeights._ref.bold}"
       },
       "headline": {
-        "value": "{fontWeights._ref.medium}",
-        "type": "fontWeights"
+        "$type": "fontWeights",
+        "$value": "{fontWeights._ref.medium}"
       },
       "title": {
-        "value": "{fontWeights._ref.medium}",
-        "type": "fontWeights"
+        "$type": "fontWeights",
+        "$value": "{fontWeights._ref.medium}"
       },
       "body": {
-        "value": "{fontWeights._ref.regular}",
-        "type": "fontWeights"
+        "$type": "fontWeights",
+        "$value": "{fontWeights._ref.regular}"
       },
       "label": {
-        "value": "{fontWeights._ref.medium}",
-        "type": "fontWeights"
+        "$type": "fontWeights",
+        "$value": "{fontWeights._ref.medium}"
       }
     }
   },
   "nRatio": {
     "base": {
       "display": {
-        "value": "{nRatio._ref.inter}",
-        "type": "other"
+        "$type": "other",
+        "$value": "{nRatio._ref.inter}"
       },
       "headline": {
-        "value": "{nRatio._ref.inter}",
-        "type": "other"
+        "$type": "other",
+        "$value": "{nRatio._ref.inter}"
       },
       "title": {
-        "value": "{nRatio._ref.inter}",
-        "type": "other"
+        "$type": "other",
+        "$value": "{nRatio._ref.inter}"
       },
       "label": {
-        "value": "{nRatio._ref.inter}",
-        "type": "other"
+        "$type": "other",
+        "$value": "{nRatio._ref.inter}"
       },
       "body": {
-        "value": "{nRatio._ref.inter}",
-        "type": "other"
+        "$type": "other",
+        "$value": "{nRatio._ref.inter}"
       }
     },
     "documentation": {
       "display": {
-        "value": "{nRatio._ref.inter}",
-        "type": "other"
+        "$type": "other",
+        "$value": "{nRatio._ref.inter}"
       },
       "headline": {
-        "value": "{nRatio._ref.inter}",
-        "type": "other"
+        "$type": "other",
+        "$value": "{nRatio._ref.inter}"
       },
       "title": {
-        "value": "{nRatio._ref.inter}",
-        "type": "other"
+        "$type": "other",
+        "$value": "{nRatio._ref.inter}"
       },
       "label": {
-        "value": "{nRatio._ref.inter}",
-        "type": "other"
+        "$type": "other",
+        "$value": "{nRatio._ref.inter}"
       },
       "body": {
-        "value": "{nRatio._ref.inter}",
-        "type": "other"
+        "$type": "other",
+        "$value": "{nRatio._ref.inter}"
       }
     }
   }

@@ -2,24 +2,24 @@
   "borderRadius": {
     "_ref": {
       "100": {
-        "value": "100",
-        "type": "borderRadius"
+        "$type": "borderRadius",
+        "$value": "100"
       }
     }
   },
   "borderWidth": {
     "_ref": {
       "1": {
-        "value": "1",
-        "type": "borderWidth"
+        "$type": "borderWidth",
+        "$value": "1"
       },
       "2": {
-        "value": "2",
-        "type": "borderWidth"
+        "$type": "borderWidth",
+        "$value": "2"
       },
       "4": {
-        "value": "4",
-        "type": "borderWidth"
+        "$type": "borderWidth",
+        "$value": "4"
       }
     }
   }
