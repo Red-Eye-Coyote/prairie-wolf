@@ -15,10 +15,12 @@
     "theme/dark",
     "theme/dimensions_default",
     "typography/default",
-    "breakpoint/600px",
-    "breakpoint/800px",
-    "breakpoint/1040px",
-    "breakpoint/1600px",
+    "breakpoint/xs",
+    "breakpoint/sm",
+    "breakpoint/md",
+    "breakpoint/lg",
+    "breakpoint/xl",
+    "breakpoint/xxl",
     "component/button"
   ]
 }

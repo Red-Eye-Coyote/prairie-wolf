@@ -5,7 +5,13 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "core/color": "enabled",
-      "core/opacity": "enabled"
+      "core/opacity": "enabled",
+      "breakpoint/xs": "disabled",
+      "breakpoint/sm": "disabled",
+      "breakpoint/md": "disabled",
+      "breakpoint/lg": "disabled",
+      "breakpoint/xl": "disabled",
+      "breakpoint/xxl": "disabled"
     },
     "$figmaCollectionId": "VariableCollectionId:54864:28650",
     "$figmaModeId": "54864:7",
@@ -346,7 +352,13 @@
       "primitive/color": "enabled",
       "primitive/opacity": "enabled",
       "primitive/font": "source",
-      "core/font": "source"
+      "core/font": "source",
+      "breakpoint/xs": "disabled",
+      "breakpoint/sm": "disabled",
+      "breakpoint/md": "disabled",
+      "breakpoint/lg": "disabled",
+      "breakpoint/xl": "disabled",
+      "breakpoint/xxl": "disabled"
     },
     "$figmaCollectionId": "VariableCollectionId:54864:27106",
     "$figmaModeId": "54864:4",
@@ -360,7 +372,13 @@
     "selectedTokenSets": {
       "core/color": "source",
       "core/opacity": "source",
-      "brand/redeyecoyote": "enabled"
+      "brand/redeyecoyote": "enabled",
+      "breakpoint/xs": "disabled",
+      "breakpoint/sm": "disabled",
+      "breakpoint/md": "disabled",
+      "breakpoint/lg": "disabled",
+      "breakpoint/xl": "disabled",
+      "breakpoint/xxl": "disabled"
     },
     "$figmaVariableReferences": {
       "color.primary.40": "3808cdf5320edd2ab3fc73fec8544ea5d6853fac",
@@ -624,10 +642,7 @@
       "fontFamilies.documentation.title": "ed2927e6defb4d0d775c38595c4301c9aa28ceec",
       "fontFamilies.documentation.label": "ffa0e1a3a97dddee889f9fc3d0066c37ca070f9a",
       "fontFamilies.documentation.body": "584f5de7e502d6e8eb6af85625dddc7f09d40ca3",
-      "fontSize.base.root": "7db0bdcaaf3ef079ff3eb8284ce952aa24a7d5a0",
       "fontSize.base.scale": "0bbda5b08d8fcdd80096b583482c63aac7256022",
-      "fontSize.documentation.root": "12511ba1354dd90e0c28abcc47c7f218c4a9bd87",
-      "fontSize.documentation.scale": "8ce0d7ab51a954b1c3cd63b4ace08743116a25f0",
       "fontWeights.base.display": "08dbf7bdff1e599f5116299c49e14550a8bc18f0",
       "fontWeights.base.headline": "18277516807f658fe00ba2ee0427eb66e4204620",
       "fontWeights.base.title": "85b8393d6e7aae6298a5e0ab1292e792caf1c9d1",
@@ -725,7 +740,13 @@
     "selectedTokenSets": {
       "core/color": "enabled",
       "core/opacity": "enabled",
-      "brand/portfolio": "enabled"
+      "brand/portfolio": "enabled",
+      "breakpoint/xs": "disabled",
+      "breakpoint/sm": "disabled",
+      "breakpoint/md": "disabled",
+      "breakpoint/lg": "disabled",
+      "breakpoint/xl": "disabled",
+      "breakpoint/xxl": "disabled"
     },
     "$figmaCollectionId": "VariableCollectionId:54864:27106",
     "$figmaModeId": "54864:6",
@@ -742,7 +763,13 @@
       "primitive/color": "source",
       "primitive/opacity": "source",
       "theme/light": "enabled",
-      "core/font": "source"
+      "core/font": "source",
+      "breakpoint/xs": "disabled",
+      "breakpoint/sm": "disabled",
+      "breakpoint/md": "disabled",
+      "breakpoint/lg": "disabled",
+      "breakpoint/xl": "disabled",
+      "breakpoint/xxl": "disabled"
     },
     "$figmaVariableReferences": {
       "theme-colors.sys.primary": "dca7fc453d793885e13ecc9621daa322d351b529",
@@ -968,7 +995,13 @@
       "primitive/font": "source",
       "theme/dark": "enabled",
       "core/font": "source",
-      "typography/default": "enabled"
+      "typography/default": "enabled",
+      "breakpoint/xs": "disabled",
+      "breakpoint/sm": "disabled",
+      "breakpoint/md": "disabled",
+      "breakpoint/lg": "disabled",
+      "breakpoint/xl": "disabled",
+      "breakpoint/xxl": "disabled"
     },
     "$figmaCollectionId": "VariableCollectionId:54864:28652",
     "$figmaModeId": "54864:10",

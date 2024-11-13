@@ -93,7 +93,7 @@
       },
       "root": {
         "$type": "fontSizes",
-        "$value": "16"
+        "$value": "{fontSize.root.xs}"
       },
       "scale": {
         "$type": "fontSizes",
@@ -147,11 +147,37 @@
       },
       "root": {
         "$type": "fontSizes",
-        "$value": "18"
+        "$value": "{fontSize.root.md}"
       },
       "scale": {
         "$type": "fontSizes",
         "$value": "1.333"
+      }
+    },
+    "root": {
+      "xs": {
+        "$type": "fontSizes",
+        "$value": "16"
+      },
+      "sm": {
+        "$type": "fontSizes",
+        "$value": "17"
+      },
+      "md": {
+        "$type": "fontSizes",
+        "$value": "18"
+      },
+      "lg": {
+        "$type": "fontSizes",
+        "$value": "19"
+      },
+      "xl": {
+        "$type": "fontSizes",
+        "$value": "20"
+      },
+      "xxl": {
+        "$type": "fontSizes",
+        "$value": "20"
       }
     }
   },

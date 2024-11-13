@@ -3014,23 +3014,9 @@
   },
   "fontSize": {
     "base": {
-      "root": {
-        "$type": "fontSizes",
-        "$value": "16"
-      },
       "scale": {
         "$type": "fontSizes",
         "$value": "1.2"
-      }
-    },
-    "documentation": {
-      "root": {
-        "$type": "fontSizes",
-        "$value": "18"
-      },
-      "scale": {
-        "$type": "fontSizes",
-        "$value": "1.333"
       }
     }
   },
@@ -3038,45 +3024,45 @@
     "base": {
       "display": {
         "$type": "fontWeights",
-        "$value": "{fontWeights.redHatText-bold}"
+        "$value": "{fontWeights.redHatDisplay.bold}"
       },
       "headline": {
         "$type": "fontWeights",
-        "$value": "{fontWeights.redHatText-medium}"
+        "$value": "{fontWeights.redHatText.medium}"
       },
       "title": {
         "$type": "fontWeights",
-        "$value": "{fontWeights.redHatText-medium}"
+        "$value": "{fontWeights.redHatText.medium}"
       },
       "body": {
         "$type": "fontWeights",
-        "$value": "{fontWeights.redHatText-regular}"
+        "$value": "{fontWeights.redHatText.regular}"
       },
       "label": {
         "$type": "fontWeights",
-        "$value": "{fontWeights.redHatText-medium}"
+        "$value": "{fontWeights.redHatText.medium}"
       }
     },
     "documentation": {
       "display": {
         "$type": "fontWeights",
-        "$value": "{fontWeights.redHatText-bold}"
+        "$value": "{fontWeights.redHatDisplay.bold}"
       },
       "headline": {
         "$type": "fontWeights",
-        "$value": "{fontWeights.redHatText-medium}"
+        "$value": "{fontWeights.redHatText.medium}"
       },
       "title": {
         "$type": "fontWeights",
-        "$value": "{fontWeights.redHatText-medium}"
+        "$value": "{fontWeights.redHatText.medium}"
       },
       "body": {
         "$type": "fontWeights",
-        "$value": "{fontWeights.redHatText-regular}"
+        "$value": "{fontWeights.redHatText.regular}"
       },
       "label": {
         "$type": "fontWeights",
-        "$value": "{fontWeights.redHatText-medium}"
+        "$value": "{fontWeights.redHatText.medium}"
       }
     }
   },

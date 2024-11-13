@@ -559,23 +559,9 @@
   },
   "fontSize": {
     "base": {
-      "root": {
-        "$type": "fontSizes",
-        "$value": "16"
-      },
       "scale": {
         "$type": "fontSizes",
-        "$value": "1.2"
-      }
-    },
-    "documentation": {
-      "root": {
-        "$type": "fontSizes",
-        "$value": "18"
-      },
-      "scale": {
-        "$type": "fontSizes",
-        "$value": "1.333"
+        "$value": "1.25"
       }
     }
   },
