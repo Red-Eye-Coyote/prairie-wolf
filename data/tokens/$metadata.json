@@ -14,13 +14,13 @@
     "theme/light",
     "theme/dark",
     "theme/dimensions_default",
-    "typography/default",
     "breakpoint/xs",
     "breakpoint/sm",
     "breakpoint/md",
     "breakpoint/lg",
     "breakpoint/xl",
     "breakpoint/xxl",
+    "typography/default",
     "component/button"
   ]
 }
