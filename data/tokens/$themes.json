@@ -381,12 +381,11 @@
   },
   {
     "id": "2f393d266e7e0acd91c7fd92c8507c84b1284ac6",
-    "name": "XS",
+    "name": "Default",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "core/font": "source",
-      "primitive/font": "enabled",
-      "breakpoint/xs": "source"
+      "primitive/font": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:54879:27947",
     "$figmaModeId": "54879:3",
@@ -412,7 +411,6 @@
       "fontWeights.documentation.title": "2721c59a2b0d10cb7b2684bb645a06ee787e33c2",
       "fontWeights.documentation.body": "9321fad31b2a1b3c7e696db85a696589da0ea82b",
       "fontWeights.documentation.label": "5e7135b845ed3676110cb99dca6e9df8509ace18",
-      "fontSize.base.root": "1de8f4928a12d9bfd2b11c658607b1ef22e74031",
       "fontSize.base.0": "dd7b0189b71dca228c0adb7d52927d8f90d84aa8",
       "fontSize.base.1": "7cdff2172f70ea13a4c2d0601e142197637f56d2",
       "fontSize.base.2": "ac3bf5c634da63c859e9c5d2297fa9da778591f2",
@@ -442,9 +440,10 @@
       "fontSize.root.md": "6bfea08b498253d7558ad20bb1a9315e2a3fa00d",
       "fontSize.root.lg": "f7b731109392af942f88dfdd8ae2db09108d8820",
       "fontSize.root.xl": "ffdcc236b3c261aa3e8fb70e24e86d3e1773b53e",
-      "fontSize.root.xxl": "575a94e30f2ef41588c8faac18910e5ebebb48b4"
+      "fontSize.root.xxl": "575a94e30f2ef41588c8faac18910e5ebebb48b4",
+      "fontSize.base.root": "1de8f4928a12d9bfd2b11c658607b1ef22e74031"
     },
-    "group": "Font Sizes"
+    "group": "Primitive"
   },
   {
     "id": "3d86c70ac00267762d461dcac8dbd014c0524f93",
@@ -1278,71 +1277,33 @@
     "group": "Themes"
   },
   {
-    "id": "79ea13038fc822728026480b653c8b9cb6e1f5bd",
-    "name": "SM",
+    "id": "c90c1571558c2369437a2821e7c8d2c7d976d534",
+    "name": "XS",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "core/font": "source",
-      "primitive/font": "enabled",
-      "typography/default": "enabled",
-      "breakpoint/sm": "enabled"
+      "primitive/font": "source",
+      "breakpoint/xs": "enabled"
     },
-    "group": "Font Sizes",
-    "$figmaCollectionId": "VariableCollectionId:54879:27947",
-    "$figmaModeId": "54879:4",
+    "group": "Breakpoint",
+    "$figmaCollectionId": "VariableCollectionId:54880:27094",
+    "$figmaModeId": "54880:0",
     "$figmaVariableReferences": {
-      "fontFamilies.base.display": "e0b19818f96d0b48bacfad3aaa2189a23a66f0c0",
-      "fontFamilies.base.headline": "ca8ed40d0118dd9d13c47f676e51307ff8c5eba7",
-      "fontFamilies.base.title": "472d32efa292a5258f59c506229191299f686e2d",
-      "fontFamilies.base.label": "f405dccf9ae6cd88889280027ab1386793062d64",
-      "fontFamilies.base.body": "9017bcb073909f48bf34e119590d1e134f2850d3",
-      "fontFamilies.documentation.display": "e112ad486e6b4e56a89109c4d2610b098c553549",
-      "fontFamilies.documentation.headline": "0759b7842c81e4a6f964a8cdb6fe6484f63dd122",
-      "fontFamilies.documentation.title": "2c9e3b2a47ae09d495fc4029b0a3bb9a3cc88774",
-      "fontFamilies.documentation.label": "9d594f1285202d51f41c39b5da44d252768aeb3f",
-      "fontFamilies.documentation.body": "65950ad1a9e0b93591882e10ffc76d88d4751d64",
-      "fontSize.base.scale": "44ad3ba3cb5353c89bb2320770654f85b8c48340",
-      "fontWeights.base.display": "ee457a2740a3853d4607d1c0676ebcea8e65fbc7",
-      "fontWeights.base.headline": "bc30560e1687c27f22ebc0ed521247aea9771205",
-      "fontWeights.base.title": "439c59aa6382ffcc79b00e6a0e750b2a03d51b43",
-      "fontWeights.base.body": "4ae063c773df03559377f10ce4e2e6d5c2fe67c6",
-      "fontWeights.base.label": "07cb4486eda18a76e84c11c6ee7b9c0a3603f246",
-      "fontWeights.documentation.display": "8d9ab4215863dfabc13eb450783087dc31537796",
-      "fontWeights.documentation.headline": "c4ed1dcb245870e67f56ce4c517ec1d547763d55",
-      "fontWeights.documentation.title": "2721c59a2b0d10cb7b2684bb645a06ee787e33c2",
-      "fontWeights.documentation.body": "9321fad31b2a1b3c7e696db85a696589da0ea82b",
-      "fontWeights.documentation.label": "5e7135b845ed3676110cb99dca6e9df8509ace18",
-      "fontSize.base.root": "1de8f4928a12d9bfd2b11c658607b1ef22e74031",
-      "fontSize.base.0": "dd7b0189b71dca228c0adb7d52927d8f90d84aa8",
-      "fontSize.base.1": "7cdff2172f70ea13a4c2d0601e142197637f56d2",
-      "fontSize.base.2": "ac3bf5c634da63c859e9c5d2297fa9da778591f2",
-      "fontSize.base.3": "b06eae06cd8cc131fffcf81c6516507d711abd61",
-      "fontSize.base.4": "f1047c78cbe191acf1505a615c0bfa16b08cdc1c",
-      "fontSize.base.5": "33ebda98b4af0d9a678df89cc3551570b6ea42e9",
-      "fontSize.base.6": "23a7a19997e1c5a4b87c5b868efddde928ecda3b",
-      "fontSize.base.7": "487a7dded943620d894ec9e3b4792f8e7e320970",
-      "fontSize.base.8": "5ff16080967c744142214c0bbfbf5fdd37427947",
-      "fontSize.base.9": "8f5f25d62cb4741c115c5aeaac37f15dc8874e2b",
-      "fontSize.base.10": "8ac1ab3971b6cca118b6fd18936a9c6a48146452",
-      "fontSize.documentation.0": "e420fe255ab86e66979ca5048c42b313f44e143b",
-      "fontSize.documentation.1": "23a61514d2c596adb099920a569c099a48712b2f",
-      "fontSize.documentation.2": "5ab5d5c4bc47646150b09396100eca86190a1b26",
-      "fontSize.documentation.3": "918d9d6bcec764140bea7cfb0a0ee639e297ed8c",
-      "fontSize.documentation.4": "71342220bf7d8d40f9f4526b77edbb7345e38124",
-      "fontSize.documentation.5": "ad604689fb30b2ed9e8507b0888886bfcad9a3a1",
-      "fontSize.documentation.6": "036264b7e708b5b83ed4f8493136e745ab9214d1",
-      "fontSize.documentation.7": "2a1c7c14b3f55cd0b7a4d3c33420eb46648e048f",
-      "fontSize.documentation.8": "698d571f819373fed345a6d79d82faa06c1c118a",
-      "fontSize.documentation.9": "5c541719d5505924e918ea8fab2c9fd17d551c5a",
-      "fontSize.documentation.10": "8d1a00194e5ee6853a5d320cff6608110f7bf76e",
-      "fontSize.documentation.root": "4a35e7976debaa3021565293b64153ce05d17378",
-      "fontSize.documentation.scale": "55ed10e2d406ae4d2ac98b55262c5e941550db0d",
-      "fontSize.root.xs": "dc91ba3bd1d88b6fc2ffdfbde75ccdb2ca997c7d",
-      "fontSize.root.sm": "0069c984cbd7327b90782925d691b4deef32be4f",
-      "fontSize.root.md": "6bfea08b498253d7558ad20bb1a9315e2a3fa00d",
-      "fontSize.root.lg": "f7b731109392af942f88dfdd8ae2db09108d8820",
-      "fontSize.root.xl": "ffdcc236b3c261aa3e8fb70e24e86d3e1773b53e",
-      "fontSize.root.xxl": "575a94e30f2ef41588c8faac18910e5ebebb48b4"
+      "fontSize.base.root": "c7866136f7eb367d89c56e39760cc3c90b87d37c"
     }
+  },
+  {
+    "id": "09468f9bd95e1303c951b6a2ab40ea8d0ecc1976",
+    "name": "XXL",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "core/font": "source",
+      "primitive/font": "source",
+      "breakpoint/xxl": "enabled"
+    },
+    "group": "Breakpoint",
+    "$figmaCollectionId": "VariableCollectionId:54880:27094",
+    "$figmaModeId": "54880:1",
+    "$figmaVariableReferences": {}
   }
 ]
