@@ -6,8 +6,7 @@
     "selectedTokenSets": {
       "core/color": "enabled",
       "core/opacity": "enabled",
-      "core/font": "enabled",
-      "typography/default": "disabled"
+      "core/font": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:54864:28650",
     "$figmaModeId": "54864:7",
@@ -461,8 +460,7 @@
       "core/dimensions": "source",
       "core/border": "source",
       "primitive/font": "source",
-      "primitive/dimensions": "source",
-      "typography/default": "disabled"
+      "primitive/dimensions": "source"
     },
     "$figmaVariableReferences": {
       "color.primary.40": "3808cdf5320edd2ab3fc73fec8544ea5d6853fac",
@@ -824,8 +822,7 @@
     "selectedTokenSets": {
       "core/color": "enabled",
       "core/opacity": "enabled",
-      "brand/portfolio": "enabled",
-      "typography/default": "disabled"
+      "brand/portfolio": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:54864:27106",
     "$figmaModeId": "54864:6",
@@ -842,8 +839,7 @@
       "primitive/color": "source",
       "primitive/opacity": "source",
       "theme/light": "enabled",
-      "core/font": "source",
-      "typography/default": "disabled"
+      "core/font": "source"
     },
     "$figmaVariableReferences": {
       "theme-colors.sys.primary": "dca7fc453d793885e13ecc9621daa322d351b529",
