@@ -1,0 +1,452 @@
+{
+  "color": {
+    "white": {
+      "$type": "color",
+      "$value": "#FFFFFF"
+    },
+    "black": {
+      "$type": "color",
+      "$value": "#000000"
+    },
+    "recRed": {
+      "40": {
+        "$type": "color",
+        "$value": "hsla( {color._hsl.hue.recRed} , {color._hsl.saturation.recRed} , {color._hsl.lightness.4} , 1)"
+      },
+      "50": {
+        "$type": "color",
+        "$value": "hsla( {color._hsl.hue.recRed} , {color._hsl.saturation.recRed} , {color._hsl.lightness.5} , 1)"
+      },
+      "60": {
+        "$type": "color",
+        "$value": "hsla( {color._hsl.hue.recRed} , {color._hsl.saturation.recRed} , {color._hsl.lightness.6} , 1)"
+      },
+      "100": {
+        "$type": "color",
+        "$value": "hsla( {color._hsl.hue.recRed} , {color._hsl.saturation.recRed} , {color._hsl.lightness.10} , 1)"
+      },
+      "120": {
+        "$type": "color",
+        "$value": "hsla( {color._hsl.hue.recRed} , {color._hsl.saturation.recRed} , {color._hsl.lightness.12} , 1)"
+      },
+      "170": {
+        "$type": "color",
+        "$value": "hsla( {color._hsl.hue.recRed} , {color._hsl.saturation.recRed} , {color._hsl.lightness.17} , 1)"
+      },
+      "200": {
+        "$type": "color",
+        "$value": "hsla( {color._hsl.hue.recRed} , {color._hsl.saturation.recRed} , {color._hsl.lightness.20} , 1)"
+      },
+      "220": {
+        "$type": "color",
+        "$value": "hsla( {color._hsl.hue.recRed} , {color._hsl.saturation.recRed} , {color._hsl.lightness.22} , 1)"
+      },
+      "240": {
+        "$type": "color",
+        "$value": "hsla( {color._hsl.hue.recRed} , {color._hsl.saturation.recRed} , {color._hsl.lightness.24} , 1)"
+      },
+      "250": {
+        "$type": "color",
+        "$value": "hsla( {color._hsl.hue.recRed} , {color._hsl.saturation.recRed} , {color._hsl.lightness.25} , 1)"
+      },
+      "300": {
+        "$type": "color",
+        "$value": "hsla( {color._hsl.hue.recRed} , {color._hsl.saturation.recRed} , {color._hsl.lightness.30} , 1)"
+      },
+      "350": {
+        "$type": "color",
+        "$value": "hsla( {color._hsl.hue.recRed} , {color._hsl.saturation.recRed} , {color._hsl.lightness.35} , 1)"
+      },
+      "400": {
+        "$type": "color",
+        "$value": "hsla( {color._hsl.hue.recRed} , {color._hsl.saturation.recRed} , {color._hsl.lightness.40} , 1)"
+      },
+      "500": {
+        "$type": "color",
+        "$value": "hsla( {color._hsl.hue.recRed} , {color._hsl.saturation.recRed} , {color._hsl.lightness.50} , 1)"
+      },
+      "600": {
+        "$type": "color",
+        "$value": "hsla( {color._hsl.hue.recRed} , {color._hsl.saturation.recRed} , {color._hsl.lightness.60} , 1)"
+      },
+      "700": {
+        "$type": "color",
+        "$value": "hsla( {color._hsl.hue.recRed} , {color._hsl.saturation.recRed} , {color._hsl.lightness.70} , 1)"
+      },
+      "800": {
+        "$type": "color",
+        "$value": "hsla( {color._hsl.hue.recRed} , {color._hsl.saturation.recRed} , {color._hsl.lightness.80} , 1)"
+      },
+      "870": {
+        "$type": "color",
+        "$value": "hsla( {color._hsl.hue.recRed} , {color._hsl.saturation.recRed} , {color._hsl.lightness.87} , 1)"
+      },
+      "900": {
+        "$type": "color",
+        "$value": "hsla( {color._hsl.hue.recRed} , {color._hsl.saturation.recRed} , {color._hsl.lightness.90} , 1)"
+      },
+      "920": {
+        "$type": "color",
+        "$value": "hsla( {color._hsl.hue.recRed} , {color._hsl.saturation.recRed} , {color._hsl.lightness.92} , 1)"
+      },
+      "940": {
+        "$type": "color",
+        "$value": "hsla( {color._hsl.hue.recRed} , {color._hsl.saturation.recRed} , {color._hsl.lightness.94} , 1)"
+      },
+      "950": {
+        "$type": "color",
+        "$value": "hsla( {color._hsl.hue.recRed} , {color._hsl.saturation.recRed} , {color._hsl.lightness.95} , 1)"
+      },
+      "960": {
+        "$type": "color",
+        "$value": "hsla( {color._hsl.hue.recRed} , {color._hsl.saturation.recRed} , {color._hsl.lightness.96} , 1)"
+      },
+      "980": {
+        "$type": "color",
+        "$value": "hsla( {color._hsl.hue.recRed} , {color._hsl.saturation.recRed} , {color._hsl.lightness.98} , 1)"
+      },
+      "990": {
+        "$type": "color",
+        "$value": "hsla( {color._hsl.hue.recRed} , {color._hsl.saturation.recRed} , {color._hsl.lightness.99} , 1)"
+      }
+    },
+    "aqua": {
+      "40": {
+        "$type": "color",
+        "$value": "hsla( {color._hsl.hue.aqua} , {color._hsl.saturation.aqua} , {color._hsl.lightness.4} , 1)"
+      },
+      "50": {
+        "$type": "color",
+        "$value": "hsla( {color._hsl.hue.aqua} , {color._hsl.saturation.aqua} , {color._hsl.lightness.5} , 1)"
+      },
+      "60": {
+        "$type": "color",
+        "$value": "hsla( {color._hsl.hue.aqua} , {color._hsl.saturation.aqua} , {color._hsl.lightness.6} , 1)"
+      },
+      "100": {
+        "$type": "color",
+        "$value": "hsla( {color._hsl.hue.aqua} , {color._hsl.saturation.aqua} , {color._hsl.lightness.10} , 1)"
+      },
+      "120": {
+        "$type": "color",
+        "$value": "hsla( {color._hsl.hue.aqua} , {color._hsl.saturation.aqua} , {color._hsl.lightness.12} , 1)"
+      },
+      "170": {
+        "$type": "color",
+        "$value": "hsla( {color._hsl.hue.aqua} , {color._hsl.saturation.aqua} , {color._hsl.lightness.17} , 1)"
+      },
+      "200": {
+        "$type": "color",
+        "$value": "hsla( {color._hsl.hue.aqua} , {color._hsl.saturation.aqua} , {color._hsl.lightness.20} , 1)"
+      },
+      "220": {
+        "$type": "color",
+        "$value": "hsla( {color._hsl.hue.aqua} , {color._hsl.saturation.aqua} , {color._hsl.lightness.22} , 1)"
+      },
+      "240": {
+        "$type": "color",
+        "$value": "hsla( {color._hsl.hue.aqua} , {color._hsl.saturation.aqua} , {color._hsl.lightness.24} , 1)"
+      },
+      "250": {
+        "$type": "color",
+        "$value": "hsla( {color._hsl.hue.aqua} , {color._hsl.saturation.aqua} , {color._hsl.lightness.25} , 1)"
+      },
+      "300": {
+        "$type": "color",
+        "$value": "hsla( {color._hsl.hue.aqua} , {color._hsl.saturation.aqua} , {color._hsl.lightness.30} , 1)"
+      },
+      "350": {
+        "$type": "color",
+        "$value": "hsla( {color._hsl.hue.aqua} , {color._hsl.saturation.aqua} , {color._hsl.lightness.35} , 1)"
+      },
+      "400": {
+        "$type": "color",
+        "$value": "hsla( {color._hsl.hue.aqua} , {color._hsl.saturation.aqua} , {color._hsl.lightness.40} , 1)"
+      },
+      "500": {
+        "$type": "color",
+        "$value": "hsla( {color._hsl.hue.aqua} , {color._hsl.saturation.aqua} , {color._hsl.lightness.50} , 1)"
+      },
+      "600": {
+        "$type": "color",
+        "$value": "hsla( {color._hsl.hue.aqua} , {color._hsl.saturation.aqua} , {color._hsl.lightness.60} , 1)"
+      },
+      "700": {
+        "$type": "color",
+        "$value": "hsla( {color._hsl.hue.aqua} , {color._hsl.saturation.aqua} , {color._hsl.lightness.70} , 1)"
+      },
+      "800": {
+        "$type": "color",
+        "$value": "hsla( {color._hsl.hue.aqua} , {color._hsl.saturation.aqua} , {color._hsl.lightness.80} , 1)"
+      },
+      "870": {
+        "$type": "color",
+        "$value": "hsla( {color._hsl.hue.aqua} , {color._hsl.saturation.aqua} , {color._hsl.lightness.87} , 1)"
+      },
+      "900": {
+        "$type": "color",
+        "$value": "hsla( {color._hsl.hue.aqua} , {color._hsl.saturation.aqua} , {color._hsl.lightness.90} , 1)"
+      },
+      "920": {
+        "$type": "color",
+        "$value": "hsla( {color._hsl.hue.aqua} , {color._hsl.saturation.aqua} , {color._hsl.lightness.92} , 1)"
+      },
+      "940": {
+        "$type": "color",
+        "$value": "hsla( {color._hsl.hue.aqua} , {color._hsl.saturation.aqua} , {color._hsl.lightness.94} , 1)"
+      },
+      "950": {
+        "$type": "color",
+        "$value": "hsla( {color._hsl.hue.aqua} , {color._hsl.saturation.aqua} , {color._hsl.lightness.95} , 1)"
+      },
+      "960": {
+        "$type": "color",
+        "$value": "hsla( {color._hsl.hue.aqua} , {color._hsl.saturation.aqua} , {color._hsl.lightness.96} , 1)"
+      },
+      "980": {
+        "$type": "color",
+        "$value": "hsla( {color._hsl.hue.aqua} , {color._hsl.saturation.aqua} , {color._hsl.lightness.98} , 1)"
+      },
+      "990": {
+        "$type": "color",
+        "$value": "hsla( {color._hsl.hue.aqua} , {color._hsl.saturation.aqua} , {color._hsl.lightness.99} , 1)"
+      }
+    },
+    "redGray": {
+      "40": {
+        "$type": "color",
+        "$value": "#0b0909"
+      },
+      "50": {
+        "$type": "color",
+        "$value": "#0e0b0b"
+      },
+      "60": {
+        "$type": "color",
+        "$value": "#110e0e"
+      },
+      "100": {
+        "$type": "color",
+        "$value": "#1c1717"
+      },
+      "120": {
+        "$type": "color",
+        "$value": "#221c1c"
+      },
+      "170": {
+        "$type": "color",
+        "$value": "#302727"
+      },
+      "200": {
+        "$type": "color",
+        "$value": "#382e2e"
+      },
+      "220": {
+        "$type": "color",
+        "$value": "#3e3232"
+      },
+      "240": {
+        "$type": "color",
+        "$value": "#433737"
+      },
+      "250": {
+        "$type": "color",
+        "$value": "#463939"
+      },
+      "300": {
+        "$type": "color",
+        "$value": "#544545"
+      },
+      "350": {
+        "$type": "color",
+        "$value": "#625050"
+      },
+      "400": {
+        "$type": "color",
+        "$value": "#705c5c"
+      },
+      "500": {
+        "$type": "color",
+        "$value": "#8c7373"
+      },
+      "600": {
+        "$type": "color",
+        "$value": "#a38f8f"
+      },
+      "700": {
+        "$type": "color",
+        "$value": "#baabab"
+      },
+      "800": {
+        "$type": "color",
+        "$value": "#d1c7c7"
+      },
+      "870": {
+        "$type": "color",
+        "$value": "#e1dbdb"
+      },
+      "900": {
+        "$type": "color",
+        "$value": "#e8e3e3"
+      },
+      "920": {
+        "$type": "color",
+        "$value": "#ede9e9"
+      },
+      "940": {
+        "$type": "color",
+        "$value": "#f1eeee"
+      },
+      "950": {
+        "$type": "color",
+        "$value": "#f4f1f1"
+      },
+      "960": {
+        "$type": "color",
+        "$value": "#f6f4f4"
+      },
+      "980": {
+        "$type": "color",
+        "$value": "#faf9f9"
+      },
+      "990": {
+        "$type": "color",
+        "$value": "#fdfcfc"
+      }
+    },
+    "_keys": {
+      "recRed": {
+        "$type": "color",
+        "$value": "#f20505"
+      },
+      "aqua": {
+        "$type": "color",
+        "$value": "#05f2f2"
+      }
+    },
+    "_hsl": {
+      "hue": {
+        "recRed": {
+          "$type": "color",
+          "$value": "0"
+        },
+        "aqua": {
+          "$type": "color",
+          "$value": "180"
+        }
+      },
+      "saturation": {
+        "recRed": {
+          "$type": "color",
+          "$value": "98%"
+        },
+        "aqua": {
+          "$type": "color",
+          "$value": "98%"
+        }
+      },
+      "lightness": {
+        "4": {
+          "$type": "color",
+          "$value": "4%"
+        },
+        "5": {
+          "$type": "color",
+          "$value": "5%"
+        },
+        "6": {
+          "$type": "color",
+          "$value": "6%"
+        },
+        "10": {
+          "$type": "color",
+          "$value": "10%"
+        },
+        "12": {
+          "$type": "color",
+          "$value": "12%"
+        },
+        "17": {
+          "$type": "color",
+          "$value": "17%"
+        },
+        "20": {
+          "$type": "color",
+          "$value": "20%"
+        },
+        "22": {
+          "$type": "color",
+          "$value": "22%"
+        },
+        "24": {
+          "$type": "color",
+          "$value": "24%"
+        },
+        "25": {
+          "$type": "color",
+          "$value": "25%"
+        },
+        "30": {
+          "$type": "color",
+          "$value": "30%"
+        },
+        "35": {
+          "$type": "color",
+          "$value": "35%"
+        },
+        "40": {
+          "$type": "color",
+          "$value": "40%"
+        },
+        "50": {
+          "$type": "color",
+          "$value": "50%"
+        },
+        "60": {
+          "$type": "color",
+          "$value": "60%"
+        },
+        "70": {
+          "$type": "color",
+          "$value": "70%"
+        },
+        "80": {
+          "$type": "color",
+          "$value": "80%"
+        },
+        "87": {
+          "$type": "color",
+          "$value": "87%"
+        },
+        "90": {
+          "$type": "color",
+          "$value": "90%"
+        },
+        "92": {
+          "$type": "color",
+          "$value": "92%"
+        },
+        "94": {
+          "$type": "color",
+          "$value": "94%"
+        },
+        "95": {
+          "$type": "color",
+          "$value": "95%"
+        },
+        "96": {
+          "$type": "color",
+          "$value": "96%"
+        },
+        "98": {
+          "$type": "color",
+          "$value": "98%"
+        },
+        "99": {
+          "$type": "color",
+          "$value": "99%"
+        }
+      }
+    }
+  }
+}

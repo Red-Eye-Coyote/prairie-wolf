@@ -309,103 +309,103 @@
     "neutral": {
       "40": {
         "$type": "color",
-        "$value": "{color._ref.ultimategrey.40}"
+        "$value": "{color.ultimategrey.40}"
       },
       "50": {
         "$type": "color",
-        "$value": "{color._ref.ultimategrey.50}"
+        "$value": "{color.ultimategrey.50}"
       },
       "60": {
         "$type": "color",
-        "$value": "{color._ref.ultimategrey.60}"
+        "$value": "{color.ultimategrey.60}"
       },
       "100": {
         "$type": "color",
-        "$value": "{color._ref.ultimategrey.100}"
+        "$value": "{color.ultimategrey.100}"
       },
       "120": {
         "$type": "color",
-        "$value": "{color._ref.ultimategrey.120}"
+        "$value": "{color.ultimategrey.120}"
       },
       "170": {
         "$type": "color",
-        "$value": "{color._ref.ultimategrey.170}"
+        "$value": "{color.ultimategrey.170}"
       },
       "200": {
         "$type": "color",
-        "$value": "{color._ref.ultimategrey.200}"
+        "$value": "{color.ultimategrey.200}"
       },
       "220": {
         "$type": "color",
-        "$value": "{color._ref.ultimategrey.220}"
+        "$value": "{color.ultimategrey.220}"
       },
       "240": {
         "$type": "color",
-        "$value": "{color._ref.ultimategrey.240}"
+        "$value": "{color.ultimategrey.240}"
       },
       "250": {
         "$type": "color",
-        "$value": "{color._ref.ultimategrey.250}"
+        "$value": "{color.ultimategrey.250}"
       },
       "300": {
         "$type": "color",
-        "$value": "{color._ref.ultimategrey.300}"
+        "$value": "{color.ultimategrey.300}"
       },
       "350": {
         "$type": "color",
-        "$value": "{color._ref.ultimategrey.350}"
+        "$value": "{color.ultimategrey.350}"
       },
       "400": {
         "$type": "color",
-        "$value": "{color._ref.ultimategrey.400}"
+        "$value": "{color.ultimategrey.400}"
       },
       "500": {
         "$type": "color",
-        "$value": "{color._ref.ultimategrey.500}"
+        "$value": "{color.ultimategrey.500}"
       },
       "600": {
         "$type": "color",
-        "$value": "{color._ref.ultimategrey.600}"
+        "$value": "{color.ultimategrey.600}"
       },
       "700": {
         "$type": "color",
-        "$value": "{color._ref.ultimategrey.700}"
+        "$value": "{color.ultimategrey.700}"
       },
       "800": {
         "$type": "color",
-        "$value": "{color._ref.ultimategrey.800}"
+        "$value": "{color.ultimategrey.800}"
       },
       "870": {
         "$type": "color",
-        "$value": "{color._ref.ultimategrey.870}"
+        "$value": "{color.ultimategrey.870}"
       },
       "900": {
         "$type": "color",
-        "$value": "{color._ref.ultimategrey.900}"
+        "$value": "{color.ultimategrey.900}"
       },
       "920": {
         "$type": "color",
-        "$value": "{color._ref.ultimategrey.920}"
+        "$value": "{color.ultimategrey.920}"
       },
       "940": {
         "$type": "color",
-        "$value": "{color._ref.ultimategrey.940}"
+        "$value": "{color.ultimategrey.940}"
       },
       "950": {
         "$type": "color",
-        "$value": "{color._ref.ultimategrey.950}"
+        "$value": "{color.ultimategrey.950}"
       },
       "960": {
         "$type": "color",
-        "$value": "{color._ref.ultimategrey.960}"
+        "$value": "{color.ultimategrey.960}"
       },
       "980": {
         "$type": "color",
-        "$value": "{color._ref.ultimategrey.980}"
+        "$value": "{color.ultimategrey.980}"
       },
       "990": {
         "$type": "color",
-        "$value": "{color._ref.ultimategrey.990}"
+        "$value": "{color.ultimategrey.990}"
       }
     },
     "neutral-variant": {
