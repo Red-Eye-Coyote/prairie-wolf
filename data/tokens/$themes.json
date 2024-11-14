@@ -4,9 +4,13 @@
     "name": "Default",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "core/opacity": "enabled",
-      "core/font": "enabled",
-      "core/gs_colors": "enabled"
+      "core/sk_font": "disabled",
+      "core/rec_font": "disabled",
+      "core/gs_font": "enabled",
+      "core/gs_opacity": "enabled",
+      "core/gs_color": "enabled",
+      "core/sk_color": "disabled",
+      "core/rec_color": "disabled"
     },
     "$figmaCollectionId": "VariableCollectionId:54885:27168",
     "$figmaModeId": "54885:0",
@@ -382,8 +386,13 @@
     "name": "Default",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "core/opacity": "source",
-      "core/gs_colors": "source"
+      "core/sk_font": "disabled",
+      "core/rec_font": "disabled",
+      "core/gs_font": "disabled",
+      "core/gs_opacity": "source",
+      "core/gs_color": "source",
+      "core/sk_color": "disabled",
+      "core/rec_color": "disabled"
     },
     "group": "Primitive",
     "$figmaCollectionId": "VariableCollectionId:54885:27555",
@@ -778,12 +787,16 @@
     "name": "Red Eye Coyote",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "core/opacity": "source",
       "brand/redeyecoyote": "enabled",
-      "core/font": "source",
       "core/dimensions": "source",
       "core/border": "source",
-      "core/gs_colors": "source"
+      "core/sk_font": "disabled",
+      "core/rec_font": "disabled",
+      "core/gs_font": "source",
+      "core/gs_opacity": "source",
+      "core/gs_color": "source",
+      "core/sk_color": "disabled",
+      "core/rec_color": "disabled"
     },
     "$figmaVariableReferences": {
       "color.primary.40": "3808cdf5320edd2ab3fc73fec8544ea5d6853fac",
@@ -1143,9 +1156,14 @@
     "name": "Portfolio",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "core/opacity": "enabled",
       "brand/portfolio": "enabled",
-      "core/gs_colors": "enabled"
+      "core/sk_font": "disabled",
+      "core/rec_font": "disabled",
+      "core/gs_font": "disabled",
+      "core/gs_opacity": "enabled",
+      "core/gs_color": "enabled",
+      "core/sk_color": "disabled",
+      "core/rec_color": "disabled"
     },
     "$figmaCollectionId": "VariableCollectionId:54864:27106",
     "$figmaModeId": "54864:6",
@@ -1158,7 +1176,14 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "brand/redeyecoyote": "source",
-      "themes/rec/light": "enabled"
+      "themes/rec/light": "enabled",
+      "core/sk_font": "disabled",
+      "core/rec_font": "disabled",
+      "core/gs_font": "disabled",
+      "core/gs_opacity": "disabled",
+      "core/gs_color": "disabled",
+      "core/sk_color": "disabled",
+      "core/rec_color": "disabled"
     },
     "$figmaVariableReferences": {
       "theme-colors.sys.primary": "dca7fc453d793885e13ecc9621daa322d351b529",
@@ -1202,14 +1227,11 @@
       "theme-colors.sys.on-background": "4dd5cb363d8681c78ed52b6d7bfdaccdc05721f4",
       "theme-colors.sys.surface": "2389f3fc183fd8e3090555f1fcacfb4eb0ef476e",
       "theme-colors.sys.on-surface": "839964c1ac05f751515070d76c62dbec35661255",
-      "theme-colors.sys.surface-variant": "5ded919fad2592ed84a1c437f152947552942113",
-      "theme-colors.sys.on-surface-variant": "b58f3f8c0ecf357c7d9df49d47b5a4c50b2d57a7",
       "theme-colors.sys.inverse-surface": "cbc80d978d897715244419b64ad4f96fbf8b1cd7",
       "theme-colors.sys.inverse-on-surface": "05e65533149b723be04fa7ca38caa6f4d9b8ae13",
       "theme-colors.sys.inverse-primary": "1a17f02bab4aa627c7f2abea82d1e63870e2e8be",
       "theme-colors.sys.shadow": "b36d46a6a46dff161ba5a92d92b68476f51d5d2f",
       "theme-colors.sys.surface-tint": "9a275fd5a1ee79559c3139cb18c953809dcaac9e",
-      "theme-colors.sys.outline-variant": "af270209bd13a299bbdbebbd663cd2193f54c9ee",
       "theme-colors.sys.scrim": "6b5994c149a97fae7eb308b14a33bda7411074b3",
       "theme-colors.sys.surface-container-highest": "a1792069c6b46023d706b4b13909091c7bf53518",
       "theme-colors.sys.surface-container-high": "99c895626a3427b80283fcb680a1624433f0eec4",
@@ -1377,9 +1399,14 @@
     "name": "Dark",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "core/opacity": "source",
-      "core/gs_colors": "source",
-      "themes/rec/dark": "enabled"
+      "themes/rec/dark": "enabled",
+      "core/sk_font": "disabled",
+      "core/rec_font": "disabled",
+      "core/gs_font": "disabled",
+      "core/gs_opacity": "source",
+      "core/gs_color": "source",
+      "core/sk_color": "disabled",
+      "core/rec_color": "disabled"
     },
     "$figmaCollectionId": "VariableCollectionId:54864:28652",
     "$figmaModeId": "54864:10",
@@ -1599,9 +1626,15 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "breakpoint/xs": "enabled",
-      "core/font": "source",
       "brand/redeyecoyote": "source",
-      "primitive/font": "enabled"
+      "primitive/font": "enabled",
+      "core/sk_font": "disabled",
+      "core/rec_font": "disabled",
+      "core/gs_font": "source",
+      "core/gs_opacity": "disabled",
+      "core/gs_color": "disabled",
+      "core/sk_color": "disabled",
+      "core/rec_color": "disabled"
     },
     "$figmaCollectionId": "VariableCollectionId:54883:27103",
     "$figmaModeId": "54883:2",
@@ -1640,9 +1673,15 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "breakpoint/xxl": "enabled",
-      "core/font": "source",
       "primitive/font": "enabled",
-      "brand/redeyecoyote": "source"
+      "brand/redeyecoyote": "source",
+      "core/sk_font": "disabled",
+      "core/rec_font": "disabled",
+      "core/gs_font": "source",
+      "core/gs_opacity": "disabled",
+      "core/gs_color": "disabled",
+      "core/sk_color": "disabled",
+      "core/rec_color": "disabled"
     },
     "$figmaCollectionId": "VariableCollectionId:54883:27103",
     "$figmaModeId": "54883:3",

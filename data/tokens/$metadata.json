@@ -1,10 +1,12 @@
 {
   "tokenSetOrder": [
-    "core/gs_colors",
-    "core/sk_colors",
-    "core/rec_colors",
-    "core/opacity",
-    "core/font",
+    "core/gs_color",
+    "core/sk_color",
+    "core/rec_color",
+    "core/gs_opacity",
+    "core/gs_font",
+    "core/sk_font",
+    "core/rec_font",
     "core/dimensions",
     "core/border",
     "primitive/gs",
