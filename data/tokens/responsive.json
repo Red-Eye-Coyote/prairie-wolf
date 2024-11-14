@@ -1,49 +1,51 @@
 {
   "res_fontSize": {
-    "base": {
-      "0": {
+    "root": {
+      "$type": "fontSizes",
+      "$value": "16"
+    },
+    "scale": {
+      "$type": "fontSizes",
+      "$value": "1.2"
+    },
+    "body": {
+      "sm": {
         "$type": "fontSizes",
-        "$value": "{res_fontSize.base.1} / {res_fontSize.base.scale}"
+        "$value": "floor({res_fontSize.body.md} / {res_fontSize.scale} / 4) * 4"
       },
-      "1": {
+      "md": {
         "$type": "fontSizes",
-        "$value": "{res_fontSize.base.root}"
+        "$value": "{res_fontSize.root}"
       },
-      "2": {
+      "lg": {
         "$type": "fontSizes",
-        "$value": "{res_fontSize.base.1} * {res_fontSize.base.scale}"
+        "$value": "ceil({res_fontSize.body.md} * {res_fontSize.scale} / 4) * 4"
+      }
+    },
+    "heading": {
+      "h6": {
+        "$type": "fontSizes",
+        "$value": "ceil({res_fontSize.root} * {res_fontSize.scale} / 4) * 4"
       },
-      "3": {
+      "h5": {
         "$type": "fontSizes",
-        "$value": "{res_fontSize.base.2} * {res_fontSize.base.scale}"
+        "$value": "ceil({res_fontSize.heading.h6} * {res_fontSize.scale} / 4) * 4"
       },
-      "4": {
+      "h4": {
         "$type": "fontSizes",
-        "$value": "{res_fontSize.base.3} * {res_fontSize.base.scale}"
+        "$value": "ceil({res_fontSize.heading.h5} * {res_fontSize.scale} / 4) * 4"
       },
-      "5": {
+      "h3": {
         "$type": "fontSizes",
-        "$value": "{res_fontSize.base.4} * {res_fontSize.base.scale}"
+        "$value": "ceil({res_fontSize.heading.h4} * {res_fontSize.scale} / 4) * 4"
       },
-      "6": {
+      "h2": {
         "$type": "fontSizes",
-        "$value": "{res_fontSize.base.5} * {res_fontSize.base.scale}"
+        "$value": "ceil({res_fontSize.heading.h3} * {res_fontSize.scale} / 4) * 4"
       },
-      "7": {
+      "h1": {
         "$type": "fontSizes",
-        "$value": "{res_fontSize.base.6} * {res_fontSize.base.scale}"
-      },
-      "8": {
-        "$type": "fontSizes",
-        "$value": "{res_fontSize.base.7} * {res_fontSize.base.scale}"
-      },
-      "root": {
-        "$type": "fontSizes",
-        "$value": "16"
-      },
-      "scale": {
-        "$type": "fontSizes",
-        "$value": "1.2"
+        "$value": "ceil({res_fontSize.heading.h2} * {res_fontSize.scale} / 4) * 4"
       }
     }
   },
@@ -57,47 +59,59 @@
       "$value": "1.2"
     },
     "body": {
-      "0": {
+      "sm": {
         "$type": "lineHeights",
-        "$value": "round({res_fontSize.base.0} * {lineHeights.multiplier-body} / 4) * 4"
+        "$value": "ceil({res_fontSize.body.sm} * {lineHeights.multiplier-body} / 4) * 4"
       },
-      "1": {
+      "md": {
         "$type": "lineHeights",
-        "$value": "round({res_fontSize.base.1} * {lineHeights.multiplier-body} / 4) * 4"
+        "$value": "ceil({res_fontSize.body.md} * {lineHeights.multiplier-body} / 4) * 4"
       },
-      "2": {
+      "lg": {
         "$type": "lineHeights",
-        "$value": "round({res_fontSize.base.2} * {lineHeights.multiplier-body} / 4) * 4"
+        "$value": "ceil({res_fontSize.body.lg} * {lineHeights.multiplier-body} / 4) * 4"
       }
     },
     "heading": {
-      "0": {
+      "h6": {
         "$type": "lineHeights",
-        "$value": "round({res_fontSize.base.2} * {lineHeights.multiplier-heading} / 4) * 4"
+        "$value": "ceil({res_fontSize.heading.h6} * {lineHeights.multiplier-heading} / 4) * 4"
       },
-      "1": {
+      "h5": {
         "$type": "lineHeights",
-        "$value": "round({res_fontSize.base.3} * {lineHeights.multiplier-heading} / 4) * 4"
+        "$value": "ceil({res_fontSize.heading.h5} * {lineHeights.multiplier-heading} / 4) * 4"
       },
-      "2": {
+      "h4": {
         "$type": "lineHeights",
-        "$value": "round({res_fontSize.base.4} * {lineHeights.multiplier-heading} / 4) * 4"
+        "$value": "ceil({res_fontSize.heading.h4} * {lineHeights.multiplier-heading} / 4) * 4"
       },
-      "3": {
+      "h3": {
         "$type": "lineHeights",
-        "$value": "round({res_fontSize.base.5} * {lineHeights.multiplier-heading} / 4) * 4"
+        "$value": "ceil({res_fontSize.heading.h3} * {lineHeights.multiplier-heading} / 4) * 4"
       },
-      "4": {
+      "h2": {
         "$type": "lineHeights",
-        "$value": "round({res_fontSize.base.6} * {lineHeights.multiplier-heading} / 4) * 4"
+        "$value": "ceil({res_fontSize.heading.h2} * {lineHeights.multiplier-heading} / 4) * 4"
       },
-      "5": {
+      "h1": {
         "$type": "lineHeights",
-        "$value": "round({res_fontSize.base.7} * {lineHeights.multiplier-heading} / 4) * 4"
+        "$value": "ceil({res_fontSize.heading.h1} * {lineHeights.multiplier-heading} / 4) * 4"
+      }
+    }
+  },
+  "paragraphSpacing": {
+    "body": {
+      "sm": {
+        "$type": "paragraphSpacing",
+        "$value": "20"
       },
-      "6": {
-        "$type": "lineHeights",
-        "$value": "round({res_fontSize.base.8} * {lineHeights.multiplier-heading} / 4) * 4"
+      "md": {
+        "$type": "paragraphSpacing",
+        "$value": "28"
+      },
+      "lg": {
+        "$type": "paragraphSpacing",
+        "$value": "32"
       }
     }
   }
