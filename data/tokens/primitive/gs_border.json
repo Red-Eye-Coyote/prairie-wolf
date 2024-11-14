@@ -1,0 +1,38 @@
+{
+  "borderWidth": {
+    "none": {
+      "$type": "borderWidth",
+      "$value": "{scale.0}"
+    },
+    "sm": {
+      "$type": "borderWidth",
+      "$value": "{scale.25}"
+    },
+    "md": {
+      "$type": "borderWidth",
+      "$value": "{scale.50}"
+    },
+    "lg": {
+      "$type": "borderWidth",
+      "$value": "{scale.100}"
+    }
+  },
+  "borderRadius": {
+    "none": {
+      "$type": "borderRadius",
+      "$value": "{scale.0}"
+    },
+    "sm": {
+      "$type": "borderRadius",
+      "$value": "{scale.50}"
+    },
+    "md": {
+      "$type": "borderRadius",
+      "$value": "{scale.100}"
+    },
+    "lg": {
+      "$type": "borderRadius",
+      "$value": "{scale.200}"
+    }
+  }
+}

@@ -222,5 +222,15 @@
         "$value": "Bold"
       }
     }
+  },
+  "fontFamilies-copy": {
+    "body": {
+      "$type": "fontFamilies",
+      "$value": "Red Hat Text"
+    },
+    "heading": {
+      "$type": "fontFamilies",
+      "$value": "Red Hat Display"
+    }
   }
 }

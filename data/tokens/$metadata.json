@@ -1,26 +1,28 @@
 {
   "tokenSetOrder": [
     "core/gs_color",
-    "core/sk_color",
-    "core/rec_color",
     "core/gs_opacity",
     "core/gs_font",
+    "core/gs_dimensions",
+    "core/gs_scale",
+    "core/sk_color",
     "core/sk_font",
+    "core/rec_color",
     "core/rec_font",
-    "core/dimensions",
     "core/border",
     "primitive/gs_color",
     "primitive/sk_color",
     "primitive/rec_color",
     "primitive/font",
+    "primitive/gs_border",
     "primitive/dimensions",
     "themes/rec/light",
     "themes/rec/dark",
     "themes/sk/light",
     "themes/sk/dark",
     "themes/dimensions_default",
+    "gs_responsive",
     "typography/default",
-    "component/button",
-    "responsive"
+    "component/button"
   ]
 }
