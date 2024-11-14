@@ -6,13 +6,7 @@
     "selectedTokenSets": {
       "core/opacity": "enabled",
       "core/font": "enabled",
-      "core/rec_colors": "disabled",
-      "core/sk_colors": "disabled",
-      "core/gs_colors": "enabled",
-      "primitive/rec": "disabled",
-      "primitive/sk": "disabled",
-      "themes/rec/light": "disabled",
-      "themes/rec/dark": "disabled"
+      "core/gs_colors": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:54885:27168",
     "$figmaModeId": "54885:0",
@@ -389,13 +383,7 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "core/opacity": "source",
-      "core/rec_colors": "disabled",
-      "core/sk_colors": "disabled",
-      "core/gs_colors": "source",
-      "primitive/rec": "disabled",
-      "primitive/sk": "disabled",
-      "themes/rec/light": "disabled",
-      "themes/rec/dark": "disabled"
+      "core/gs_colors": "source"
     },
     "group": "Primitive",
     "$figmaCollectionId": "VariableCollectionId:54885:27555",
@@ -795,13 +783,7 @@
       "core/font": "source",
       "core/dimensions": "source",
       "core/border": "source",
-      "core/rec_colors": "disabled",
-      "core/sk_colors": "disabled",
-      "core/gs_colors": "source",
-      "primitive/rec": "disabled",
-      "primitive/sk": "disabled",
-      "themes/rec/light": "disabled",
-      "themes/rec/dark": "disabled"
+      "core/gs_colors": "source"
     },
     "$figmaVariableReferences": {
       "color.primary.40": "3808cdf5320edd2ab3fc73fec8544ea5d6853fac",
@@ -1163,13 +1145,7 @@
     "selectedTokenSets": {
       "core/opacity": "enabled",
       "brand/portfolio": "enabled",
-      "core/rec_colors": "disabled",
-      "core/sk_colors": "disabled",
-      "core/gs_colors": "enabled",
-      "primitive/rec": "disabled",
-      "primitive/sk": "disabled",
-      "themes/rec/light": "disabled",
-      "themes/rec/dark": "disabled"
+      "core/gs_colors": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:54864:27106",
     "$figmaModeId": "54864:6",
@@ -1182,13 +1158,7 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "brand/redeyecoyote": "source",
-      "core/rec_colors": "disabled",
-      "core/sk_colors": "disabled",
-      "core/gs_colors": "disabled",
-      "primitive/rec": "disabled",
-      "primitive/sk": "disabled",
-      "themes/rec/light": "enabled",
-      "themes/rec/dark": "disabled"
+      "themes/rec/light": "enabled"
     },
     "$figmaVariableReferences": {
       "theme-colors.sys.primary": "dca7fc453d793885e13ecc9621daa322d351b529",
@@ -1408,12 +1378,7 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "core/opacity": "source",
-      "core/rec_colors": "disabled",
-      "core/sk_colors": "disabled",
       "core/gs_colors": "source",
-      "primitive/rec": "disabled",
-      "primitive/sk": "disabled",
-      "themes/rec/light": "disabled",
       "themes/rec/dark": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:54864:28652",
@@ -1636,14 +1601,7 @@
       "breakpoint/xs": "enabled",
       "core/font": "source",
       "brand/redeyecoyote": "source",
-      "primitive/font": "enabled",
-      "core/rec_colors": "disabled",
-      "core/sk_colors": "disabled",
-      "core/gs_colors": "disabled",
-      "primitive/rec": "disabled",
-      "primitive/sk": "disabled",
-      "themes/rec/light": "disabled",
-      "themes/rec/dark": "disabled"
+      "primitive/font": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:54883:27103",
     "$figmaModeId": "54883:2",
@@ -1684,14 +1642,7 @@
       "breakpoint/xxl": "enabled",
       "core/font": "source",
       "primitive/font": "enabled",
-      "brand/redeyecoyote": "source",
-      "core/rec_colors": "disabled",
-      "core/sk_colors": "disabled",
-      "core/gs_colors": "disabled",
-      "primitive/rec": "disabled",
-      "primitive/sk": "disabled",
-      "themes/rec/light": "disabled",
-      "themes/rec/dark": "disabled"
+      "brand/redeyecoyote": "source"
     },
     "$figmaCollectionId": "VariableCollectionId:54883:27103",
     "$figmaModeId": "54883:3",
