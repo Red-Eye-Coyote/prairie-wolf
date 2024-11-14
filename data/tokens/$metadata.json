@@ -9,9 +9,9 @@
     "core/rec_font",
     "core/dimensions",
     "core/border",
-    "primitive/gs",
-    "primitive/sk",
-    "primitive/rec",
+    "primitive/gs_color",
+    "primitive/sk_color",
+    "primitive/rec_color",
     "primitive/font",
     "primitive/dimensions",
     "themes/rec/light",
@@ -19,15 +19,8 @@
     "themes/sk/light",
     "themes/sk/dark",
     "themes/dimensions_default",
-    "brand/redeyecoyote",
-    "brand/portfolio",
-    "breakpoint/xs",
-    "breakpoint/sm",
-    "breakpoint/md",
-    "breakpoint/lg",
-    "breakpoint/xl",
-    "breakpoint/xxl",
     "typography/default",
-    "component/button"
+    "component/button",
+    "responsive"
   ]
 }
