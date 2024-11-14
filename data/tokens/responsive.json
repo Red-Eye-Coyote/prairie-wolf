@@ -49,7 +49,7 @@
       }
     }
   },
-  "lineHeights": {
+  "res_lineHeights": {
     "multiplier-body": {
       "$type": "lineHeights",
       "$value": "1.6"
@@ -61,45 +61,45 @@
     "body": {
       "sm": {
         "$type": "lineHeights",
-        "$value": "ceil({res_fontSize.body.sm} * {lineHeights.multiplier-body} / 4) * 4"
+        "$value": "ceil({res_fontSize.body.sm} * {res_lineHeights.multiplier-body} / 4) * 4"
       },
       "md": {
         "$type": "lineHeights",
-        "$value": "ceil({res_fontSize.body.md} * {lineHeights.multiplier-body} / 4) * 4"
+        "$value": "ceil({res_fontSize.body.md} * {res_lineHeights.multiplier-body} / 4) * 4"
       },
       "lg": {
         "$type": "lineHeights",
-        "$value": "ceil({res_fontSize.body.lg} * {lineHeights.multiplier-body} / 4) * 4"
+        "$value": "ceil({res_fontSize.body.lg} * {res_lineHeights.multiplier-body} / 4) * 4"
       }
     },
     "heading": {
       "h6": {
         "$type": "lineHeights",
-        "$value": "ceil({res_fontSize.heading.h6} * {lineHeights.multiplier-heading} / 4) * 4"
+        "$value": "ceil({res_fontSize.heading.h6} * {res_lineHeights.multiplier-heading} / 4) * 4"
       },
       "h5": {
         "$type": "lineHeights",
-        "$value": "ceil({res_fontSize.heading.h5} * {lineHeights.multiplier-heading} / 4) * 4"
+        "$value": "ceil({res_fontSize.heading.h5} * {res_lineHeights.multiplier-heading} / 4) * 4"
       },
       "h4": {
         "$type": "lineHeights",
-        "$value": "ceil({res_fontSize.heading.h4} * {lineHeights.multiplier-heading} / 4) * 4"
+        "$value": "ceil({res_fontSize.heading.h4} * {res_lineHeights.multiplier-heading} / 4) * 4"
       },
       "h3": {
         "$type": "lineHeights",
-        "$value": "ceil({res_fontSize.heading.h3} * {lineHeights.multiplier-heading} / 4) * 4"
+        "$value": "ceil({res_fontSize.heading.h3} * {res_lineHeights.multiplier-heading} / 4) * 4"
       },
       "h2": {
         "$type": "lineHeights",
-        "$value": "ceil({res_fontSize.heading.h2} * {lineHeights.multiplier-heading} / 4) * 4"
+        "$value": "ceil({res_fontSize.heading.h2} * {res_lineHeights.multiplier-heading} / 4) * 4"
       },
       "h1": {
         "$type": "lineHeights",
-        "$value": "ceil({res_fontSize.heading.h1} * {lineHeights.multiplier-heading} / 4) * 4"
+        "$value": "ceil({res_fontSize.heading.h1} * {res_lineHeights.multiplier-heading} / 4) * 4"
       }
     }
   },
-  "paragraphSpacing": {
+  "res_paragraphSpacing": {
     "body": {
       "sm": {
         "$type": "paragraphSpacing",
@@ -112,6 +112,32 @@
       "lg": {
         "$type": "paragraphSpacing",
         "$value": "32"
+      }
+    },
+    "heading": {
+      "h6": {
+        "$type": "paragraphSpacing",
+        "$value": "24"
+      },
+      "h5": {
+        "$type": "paragraphSpacing",
+        "$value": "28"
+      },
+      "h4": {
+        "$type": "paragraphSpacing",
+        "$value": "32"
+      },
+      "h3": {
+        "$type": "paragraphSpacing",
+        "$value": "36"
+      },
+      "h2": {
+        "$type": "paragraphSpacing",
+        "$value": "40"
+      },
+      "h1": {
+        "$type": "paragraphSpacing",
+        "$value": "48"
       }
     }
   }
