@@ -3059,7 +3059,7 @@
             }
           },
           "$type": "color",
-          "$value": "{color.error.100}"
+          "$value": "{color.red.100}"
         },
         "16": {
           "$extensions": {
@@ -3072,7 +3072,7 @@
             }
           },
           "$type": "color",
-          "$value": "{color.error.100}"
+          "$value": "{color.red.100}"
         },
         "08": {
           "$extensions": {
@@ -3085,7 +3085,7 @@
             }
           },
           "$type": "color",
-          "$value": "{color.error.100}"
+          "$value": "{color.red.100}"
         }
       },
       "200": {
@@ -3100,7 +3100,7 @@
             }
           },
           "$type": "color",
-          "$value": "{color.error.200}"
+          "$value": "{color.red.200}"
         },
         "16": {
           "$extensions": {
@@ -3113,7 +3113,7 @@
             }
           },
           "$type": "color",
-          "$value": "{color.error.200}"
+          "$value": "{color.red.200}"
         },
         "08": {
           "$extensions": {
@@ -3126,7 +3126,7 @@
             }
           },
           "$type": "color",
-          "$value": "{color.error.200}"
+          "$value": "{color.red.200}"
         }
       },
       "300": {
@@ -3141,7 +3141,7 @@
             }
           },
           "$type": "color",
-          "$value": "{color.error.300}"
+          "$value": "{color.red.300}"
         },
         "16": {
           "$extensions": {
@@ -3154,7 +3154,7 @@
             }
           },
           "$type": "color",
-          "$value": "{color.error.300}"
+          "$value": "{color.red.300}"
         },
         "08": {
           "$extensions": {
@@ -3167,7 +3167,7 @@
             }
           },
           "$type": "color",
-          "$value": "{color.error.300}"
+          "$value": "{color.red.300}"
         }
       },
       "400": {
@@ -3182,7 +3182,7 @@
             }
           },
           "$type": "color",
-          "$value": "{color.error.400}"
+          "$value": "{color.red.400}"
         },
         "16": {
           "$extensions": {
@@ -3195,7 +3195,7 @@
             }
           },
           "$type": "color",
-          "$value": "{color.error.400}"
+          "$value": "{color.red.400}"
         },
         "08": {
           "$extensions": {
@@ -3208,7 +3208,7 @@
             }
           },
           "$type": "color",
-          "$value": "{color.error.400}"
+          "$value": "{color.red.400}"
         }
       },
       "500": {
@@ -3223,7 +3223,7 @@
             }
           },
           "$type": "color",
-          "$value": "{color.error.500}"
+          "$value": "{color.red.500}"
         },
         "16": {
           "$extensions": {
@@ -3236,7 +3236,7 @@
             }
           },
           "$type": "color",
-          "$value": "{color.error.500}"
+          "$value": "{color.red.500}"
         },
         "08": {
           "$extensions": {
@@ -3249,7 +3249,7 @@
             }
           },
           "$type": "color",
-          "$value": "{color.error.500}"
+          "$value": "{color.red.500}"
         }
       },
       "600": {
@@ -3264,7 +3264,7 @@
             }
           },
           "$type": "color",
-          "$value": "{color.error.600}"
+          "$value": "{color.red.600}"
         },
         "16": {
           "$extensions": {
@@ -3277,7 +3277,7 @@
             }
           },
           "$type": "color",
-          "$value": "{color.error.600}"
+          "$value": "{color.red.600}"
         },
         "08": {
           "$extensions": {
@@ -3290,7 +3290,7 @@
             }
           },
           "$type": "color",
-          "$value": "{color.error.600}"
+          "$value": "{color.red.600}"
         }
       },
       "700": {
@@ -3305,7 +3305,7 @@
             }
           },
           "$type": "color",
-          "$value": "{color.error.700}"
+          "$value": "{color.red.700}"
         },
         "16": {
           "$extensions": {
@@ -3318,7 +3318,7 @@
             }
           },
           "$type": "color",
-          "$value": "{color.error.700}"
+          "$value": "{color.red.700}"
         },
         "08": {
           "$extensions": {
@@ -3331,7 +3331,7 @@
             }
           },
           "$type": "color",
-          "$value": "{color.error.700}"
+          "$value": "{color.red.700}"
         }
       },
       "800": {
@@ -3346,7 +3346,7 @@
             }
           },
           "$type": "color",
-          "$value": "{color.error.800}"
+          "$value": "{color.red.800}"
         },
         "16": {
           "$extensions": {
@@ -3359,7 +3359,7 @@
             }
           },
           "$type": "color",
-          "$value": "{color.error.800}"
+          "$value": "{color.red.800}"
         },
         "08": {
           "$extensions": {
@@ -3372,7 +3372,7 @@
             }
           },
           "$type": "color",
-          "$value": "{color.error.800}"
+          "$value": "{color.red.800}"
         }
       },
       "900": {
@@ -3387,7 +3387,7 @@
             }
           },
           "$type": "color",
-          "$value": "{color.error.900}"
+          "$value": "{color.red.900}"
         },
         "16": {
           "$extensions": {
@@ -3400,7 +3400,7 @@
             }
           },
           "$type": "color",
-          "$value": "{color.error.900}"
+          "$value": "{color.red.900}"
         },
         "08": {
           "$extensions": {
@@ -3413,7 +3413,7 @@
             }
           },
           "$type": "color",
-          "$value": "{color.error.900}"
+          "$value": "{color.red.900}"
         }
       }
     }

@@ -372,8 +372,8 @@
       "color.illuminating.960": "e9ac623a59f2a4bb513a71cd20f2137af8cc475a",
       "color.illuminating.980": "1180b47f0a2bd2c29fd952c999132e5efa149607",
       "color.illuminating.990": "b6eb620cce7cbbee546d5187de07db8f7c93336f",
-      "color._keys.recRed": "360cc9a01dd5ee748f76c3567bb935f43b6d9a86",
-      "color._hsl.hue.recRed": "83b2075599eef96744e8993cbf3a9953b26638b6"
+      "color._hsl.hue.recRed": "83b2075599eef96744e8993cbf3a9953b26638b6",
+      "color._keys.firebrick": "360cc9a01dd5ee748f76c3567bb935f43b6d9a86"
     },
     "group": "Core"
   },
@@ -748,18 +748,9 @@
       "color.warning.980": "bea7545e413ee5db5e627ff335c8d9f7a470bfc5",
       "color.warning.990": "ad99c3d91477b153403853b438357705ce56108f",
       "color.error.50": "80c435cf4c5745567f5bd940e6f65fb7ee40af73",
-      "color.error.100": "3a757edb9b58c4e5ac63f3103d29c5557320ef42",
       "color.error.120": "f61b7c3b68647571b776c35f23a4a0bf93aa7896",
-      "color.error.200": "ac691e8d3a4a398d35f32ee8190785b866770c01",
       "color.error.250": "5878105da5d2dad628e85809d88c37a02cf9f1e0",
-      "color.error.300": "5a2b30b7f2d7e7461c089c95cd11cef60801183e",
       "color.error.350": "f17e8c069d54e1d365e8c4ed8228ef50c5bfec43",
-      "color.error.400": "586a348190a89f6a04df23ee19d13109d907a64f",
-      "color.error.500": "5b58ae3f76a28bad48ff29b0fc8560750cd3ba1c",
-      "color.error.600": "318c1c82b82e7ec0075c666667ffd6e2d755ad5b",
-      "color.error.700": "0520c6fd0188973c9e354d0db03269d17f68f933",
-      "color.error.800": "ccc561821efb75f5d6568bc7c4abef2c99eca52f",
-      "color.error.900": "864e4cb7e7b8057a77d3e96809a9ea233b6fd775",
       "color.error.950": "52db4c1315b93c372aad3a08dc09503b05e2d5c1",
       "color.error.980": "baaadc9fef97e70cd2997fad1779c1f20bd24ed2",
       "color.error.990": "df8029dd444a861a96274995787f051eaf0aab77",
@@ -770,7 +761,16 @@
       "opacity.black.15": "a115c8d92e1b67880ad8720923b039d6a7627b97",
       "opacity.black.16": "54d5ad9998cb81f4cc052bbc0cd36acf13213634",
       "opacity.black.30": "af3483766e07f86d96743ab65dac60cce6541ac9",
-      "opacity.black.08": "782c6531b9f6415e872711e76689c4210b36d7c2"
+      "opacity.black.08": "782c6531b9f6415e872711e76689c4210b36d7c2",
+      "color.red.100": "3a757edb9b58c4e5ac63f3103d29c5557320ef42",
+      "color.red.200": "ac691e8d3a4a398d35f32ee8190785b866770c01",
+      "color.red.300": "5a2b30b7f2d7e7461c089c95cd11cef60801183e",
+      "color.red.400": "586a348190a89f6a04df23ee19d13109d907a64f",
+      "color.red.500": "5b58ae3f76a28bad48ff29b0fc8560750cd3ba1c",
+      "color.red.600": "318c1c82b82e7ec0075c666667ffd6e2d755ad5b",
+      "color.red.700": "0520c6fd0188973c9e354d0db03269d17f68f933",
+      "color.red.800": "ccc561821efb75f5d6568bc7c4abef2c99eca52f",
+      "color.red.900": "864e4cb7e7b8057a77d3e96809a9ea233b6fd775"
     }
   },
   {
