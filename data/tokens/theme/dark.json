@@ -3,7 +3,7 @@
     "sys": {
       "primary": {
         "$type": "color",
-        "$value": "{color.primary.500}"
+        "$value": "{color.primary.400}"
       },
       "on-primary": {
         "$type": "color",
@@ -35,7 +35,7 @@
       },
       "secondary": {
         "$type": "color",
-        "$value": "{color.secondary.default}"
+        "$value": "{color.secondary.500}"
       },
       "on-secondary": {
         "$type": "color",
@@ -91,7 +91,7 @@
       },
       "warning-container": {
         "$type": "color",
-        "$value": "{color.warning.default}"
+        "$value": "{color.warning.400}"
       },
       "on-warning-container": {
         "$type": "color",
@@ -151,7 +151,7 @@
       },
       "inverse-primary": {
         "$type": "color",
-        "$value": "{color.primary.default}"
+        "$value": "{color.primary.500}"
       },
       "shadow": {
         "$type": "color",
@@ -159,7 +159,7 @@
       },
       "surface-tint": {
         "$type": "color",
-        "$value": "{color.primary.default}"
+        "$value": "{color.primary.500}"
       },
       "outline-variant": {
         "$type": "color",

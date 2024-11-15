@@ -3,7 +3,7 @@
     "sys": {
       "primary": {
         "$type": "color",
-        "$value": "{color.primary.default}"
+        "$value": "{color.primary.500}"
       },
       "on-primary": {
         "$type": "color",
@@ -35,7 +35,7 @@
       },
       "secondary": {
         "$type": "color",
-        "$value": "{color.secondary.default}"
+        "$value": "{color.secondary.500}"
       },
       "on-secondary": {
         "$type": "color",
@@ -67,7 +67,7 @@
       },
       "success": {
         "$type": "color",
-        "$value": "{color.success.default}"
+        "$value": "{color.success.500}"
       },
       "on-success": {
         "$type": "color",
@@ -83,7 +83,7 @@
       },
       "warning": {
         "$type": "color",
-        "$value": "{color.warning.default}"
+        "$value": "{color.warning.400}"
       },
       "on-warning": {
         "$type": "color",
@@ -99,7 +99,7 @@
       },
       "error": {
         "$type": "color",
-        "$value": "{color.error.default}"
+        "$value": "{color.error.500}"
       },
       "on-error": {
         "$type": "color",
@@ -159,7 +159,7 @@
       },
       "surface-tint": {
         "$type": "color",
-        "$value": "{color.primary.default}"
+        "$value": "{color.primary.500}"
       },
       "outline-variant": {
         "$type": "color",
