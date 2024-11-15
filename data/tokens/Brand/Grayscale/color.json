@@ -4,6 +4,10 @@
       "$type": "color",
       "$value": "#FFFFFF"
     },
+    "white-copy": {
+      "$type": "color",
+      "$value": "#FFFFFF"
+    },
     "black": {
       "$type": "color",
       "$value": "#000000"

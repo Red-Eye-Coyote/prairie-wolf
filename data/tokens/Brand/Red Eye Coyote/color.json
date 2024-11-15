@@ -1,5 +1,13 @@
 {
   "color": {
+    "white": {
+      "$type": "color",
+      "$value": "#FFFFFF"
+    },
+    "black": {
+      "$type": "color",
+      "$value": "#000000"
+    },
     "_keys": {
       "firebrick": {
         "$type": "color",
