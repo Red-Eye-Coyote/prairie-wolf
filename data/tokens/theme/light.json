@@ -3,7 +3,7 @@
     "sys": {
       "primary": {
         "$type": "color",
-        "$value": "{color.primary.400}"
+        "$value": "{color.primary.default}"
       },
       "on-primary": {
         "$type": "color",
@@ -19,23 +19,23 @@
       },
       "primary-fixed": {
         "$type": "color",
-        "$value": "{color.primary.900}"
+        "$value": "{color.primary.200}"
       },
       "on-primary-fixed": {
         "$type": "color",
-        "$value": "{color.primary.100}"
+        "$value": "{color.primary.800}"
       },
       "primary-fixed-dim": {
         "$type": "color",
-        "$value": "{color.primary.800}"
+        "$value": "{color.primary.400}"
       },
       "on-primary-fixed-variant": {
         "$type": "color",
-        "$value": "{color.primary.300}"
+        "$value": "{color.primary.700}"
       },
       "secondary": {
         "$type": "color",
-        "$value": "{color.secondary.400}"
+        "$value": "{color.secondary.default}"
       },
       "on-secondary": {
         "$type": "color",
@@ -51,55 +51,23 @@
       },
       "secondary-fixed": {
         "$type": "color",
-        "$value": "{color.secondary.900}"
+        "$value": "{color.secondary.200}"
       },
       "on-secondary-fixed": {
         "$type": "color",
-        "$value": "{color.secondary.100}"
+        "$value": "{color.secondary.900}"
       },
       "secondary-fixed-dim": {
         "$type": "color",
-        "$value": "{color.secondary.800}"
+        "$value": "{color.secondary.300}"
       },
       "on-secondary-fixed-variant": {
         "$type": "color",
-        "$value": "{color.secondary.300}"
-      },
-      "tertiary": {
-        "$type": "color",
-        "$value": "{color.tertiary.400}"
-      },
-      "on-tertiary": {
-        "$type": "color",
-        "$value": "{color.white}"
-      },
-      "tertiary-container": {
-        "$type": "color",
-        "$value": "{color.tertiary.900}"
-      },
-      "on-tertiary-container": {
-        "$type": "color",
-        "$value": "{color.tertiary.100}"
-      },
-      "tertiary-fixed": {
-        "$type": "color",
-        "$value": "{color.tertiary.900}"
-      },
-      "on-tertiary-fixed": {
-        "$type": "color",
-        "$value": "{color.tertiary.100}"
-      },
-      "tertiary-fixed-dim": {
-        "$type": "color",
-        "$value": "{color.tertiary.800}"
-      },
-      "on-tertiary-fixed-variant": {
-        "$type": "color",
-        "$value": "{color.tertiary.300}"
+        "$value": "{color.secondary.600}"
       },
       "success": {
         "$type": "color",
-        "$value": "{color.success.400}"
+        "$value": "{color.success.default}"
       },
       "on-success": {
         "$type": "color",
@@ -115,11 +83,11 @@
       },
       "warning": {
         "$type": "color",
-        "$value": "{color.warning.400}"
+        "$value": "{color.warning.default}"
       },
       "on-warning": {
         "$type": "color",
-        "$value": "{color.white}"
+        "$value": "{color.warning.900}"
       },
       "warning-container": {
         "$type": "color",
@@ -131,7 +99,7 @@
       },
       "error": {
         "$type": "color",
-        "$value": "#c00001"
+        "$value": "{color.error.default}"
       },
       "on-error": {
         "$type": "color",
@@ -139,31 +107,31 @@
       },
       "error-container": {
         "$type": "color",
-        "$value": "#ffdad4"
+        "$value": "{color.error.900}"
       },
       "on-error-container": {
         "$type": "color",
-        "$value": "#410000"
+        "$value": "{color.error.100}"
       },
       "outline": {
         "$type": "color",
-        "$value": "{color.neutral-variant.500}"
+        "$value": "{color.neutral.400}"
       },
       "background": {
         "$type": "color",
-        "$value": "{color.neutral.990}"
+        "$value": "{color.neutral.100}"
       },
       "on-background": {
         "$type": "color",
-        "$value": "{color.neutral.100}"
+        "$value": "{color.neutral.900}"
       },
       "surface": {
         "$type": "color",
-        "$value": "{color.neutral.980}"
+        "$value": "{color.neutral.200}"
       },
       "on-surface": {
         "$type": "color",
-        "$value": "{color.neutral.100}"
+        "$value": "{color.neutral.900}"
       },
       "surface-variant": {
         "$type": "color",
@@ -175,15 +143,15 @@
       },
       "inverse-surface": {
         "$type": "color",
-        "$value": "{color.neutral.200}"
+        "$value": "{color.neutral.800}"
       },
       "inverse-on-surface": {
         "$type": "color",
-        "$value": "{color.neutral.950}"
+        "$value": "{color.neutral.200}"
       },
       "inverse-primary": {
         "$type": "color",
-        "$value": "{color.primary.800}"
+        "$value": "{color.primary.400}"
       },
       "shadow": {
         "$type": "color",
@@ -191,7 +159,7 @@
       },
       "surface-tint": {
         "$type": "color",
-        "$value": "{color.primary.400}"
+        "$value": "{color.primary.default}"
       },
       "outline-variant": {
         "$type": "color",
@@ -203,19 +171,19 @@
       },
       "surface-container-highest": {
         "$type": "color",
-        "$value": "{color.neutral.900}"
+        "$value": "{color.neutral.400}"
       },
       "surface-container-high": {
         "$type": "color",
-        "$value": "{color.neutral.920}"
+        "$value": "{color.neutral.300}"
       },
       "surface-container": {
         "$type": "color",
-        "$value": "{color.neutral.940}"
+        "$value": "{color.neutral.200}"
       },
       "surface-container-low": {
         "$type": "color",
-        "$value": "{color.neutral.960}"
+        "$value": "{color.neutral.100}"
       },
       "surface-container-lowest": {
         "$type": "color",
@@ -227,7 +195,7 @@
       },
       "surface-dim": {
         "$type": "color",
-        "$value": "{color.neutral.870}"
+        "$value": "{color.neutral.400}"
       }
     },
     "state-layers": {
@@ -455,118 +423,6 @@
           "$value": "{opacity.secondary.300.08}"
         }
       },
-      "tertiary": {
-        "12": {
-          "$type": "color",
-          "$value": "{opacity.tertiary.400.12}"
-        },
-        "16": {
-          "$type": "color",
-          "$value": "{opacity.tertiary.400.16}"
-        },
-        "08": {
-          "$type": "color",
-          "$value": "{opacity.tertiary.400.08}"
-        }
-      },
-      "on-tertiary": {
-        "12": {
-          "$type": "color",
-          "$value": "{opacity.white.12}"
-        },
-        "16": {
-          "$type": "color",
-          "$value": "{opacity.white.16}"
-        },
-        "08": {
-          "$type": "color",
-          "$value": "{opacity.white.08}"
-        }
-      },
-      "tertiary-container": {
-        "12": {
-          "$type": "color",
-          "$value": "{opacity.tertiary.900.12}"
-        },
-        "16": {
-          "$type": "color",
-          "$value": "{opacity.tertiary.900.16}"
-        },
-        "08": {
-          "$type": "color",
-          "$value": "{opacity.tertiary.900.08}"
-        }
-      },
-      "on-tertiary-container": {
-        "12": {
-          "$type": "color",
-          "$value": "{opacity.tertiary.100.12}"
-        },
-        "16": {
-          "$type": "color",
-          "$value": "{opacity.tertiary.100.16}"
-        },
-        "08": {
-          "$type": "color",
-          "$value": "{opacity.tertiary.100.08}"
-        }
-      },
-      "tertiary-fixed": {
-        "12": {
-          "$type": "color",
-          "$value": "{opacity.tertiary.900.12}"
-        },
-        "16": {
-          "$type": "color",
-          "$value": "{opacity.tertiary.900.16}"
-        },
-        "08": {
-          "$type": "color",
-          "$value": "{opacity.tertiary.900.08}"
-        }
-      },
-      "on-tertiary-fixed": {
-        "12": {
-          "$type": "color",
-          "$value": "{opacity.tertiary.100.12}"
-        },
-        "16": {
-          "$type": "color",
-          "$value": "{opacity.tertiary.100.16}"
-        },
-        "08": {
-          "$type": "color",
-          "$value": "{opacity.tertiary.100.08}"
-        }
-      },
-      "tertiary-fixed-dim": {
-        "12": {
-          "$type": "color",
-          "$value": "{opacity.tertiary.800.12}"
-        },
-        "16": {
-          "$type": "color",
-          "$value": "{opacity.tertiary.800.16}"
-        },
-        "08": {
-          "$type": "color",
-          "$value": "{opacity.tertiary.800.08}"
-        }
-      },
-      "on-tertiary-fixed-variant": {
-        "12": {
-          "$type": "color",
-          "$value": "{opacity.tertiary.300.12}"
-        },
-        "16": {
-          "$type": "color",
-          "$value": "{opacity.tertiary.300.16}"
-        },
-        "08": {
-          "$type": "color",
-          "$value": "{opacity.tertiary.300.08}"
-        }
-      },
       "error": {
         "12": {
           "$type": "color",
@@ -626,15 +482,15 @@
       "background": {
         "12": {
           "$type": "color",
-          "$value": "{opacity.neutral.990.12}"
+          "$value": "{opacity.neutral.100.12}"
         },
         "16": {
           "$type": "color",
-          "$value": "{opacity.neutral.990.16}"
+          "$value": "{opacity.neutral.100.16}"
         },
         "08": {
           "$type": "color",
-          "$value": "{opacity.neutral.990.08}"
+          "$value": "{opacity.neutral.100.08}"
         }
       },
       "on-background": {
@@ -654,15 +510,15 @@
       "outline": {
         "12": {
           "$type": "color",
-          "$value": "{opacity.neutral-variant.500.12}"
+          "$value": "{opacity.neutral.500.12}"
         },
         "16": {
           "$type": "color",
-          "$value": "{opacity.neutral-variant.500.16}"
+          "$value": "{opacity.neutral.500.16}"
         },
         "08": {
           "$type": "color",
-          "$value": "{opacity.neutral-variant.500.08}"
+          "$value": "{opacity.neutral.500.08}"
         }
       },
       "inverse-on-surface": {

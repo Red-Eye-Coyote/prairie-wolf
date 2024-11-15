@@ -1,7 +1,6 @@
 {
   "tokenSetOrder": [
     "global/color",
-    "global/font",
     "global/opacity",
     "global/scale",
     "core/wireframe/font",
