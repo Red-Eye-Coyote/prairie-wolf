@@ -3,7 +3,7 @@
     "sys": {
       "primary": {
         "$type": "color",
-        "$value": "{color.primary.500}"
+        "$value": "{color.primary.600}"
       },
       "on-primary": {
         "$type": "color",
