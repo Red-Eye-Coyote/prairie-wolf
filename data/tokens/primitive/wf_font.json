@@ -1,0 +1,32 @@
+{
+  "fontFamily": {
+    "heading": {
+      "$type": "fontFamilies",
+      "$value": "{fontFamily.redHatDisplay}"
+    },
+    "body": {
+      "$type": "fontFamilies",
+      "$value": "{fontFamily.redHatText}"
+    }
+  },
+  "fontWeight": {
+    "heading": {
+      "$type": "fontWeights",
+      "$value": "{fontWeight.redHatDisplay.bold}"
+    },
+    "body": {
+      "$type": "fontWeights",
+      "$value": "{fontWeight.redHatText.regular}"
+    }
+  },
+  "nRatio": {
+    "heading": {
+      "$type": "other",
+      "$value": "{nRatio.redHatDisplay}"
+    },
+    "body": {
+      "$type": "other",
+      "$value": "{nRatio.redHatText}"
+    }
+  }
+}
