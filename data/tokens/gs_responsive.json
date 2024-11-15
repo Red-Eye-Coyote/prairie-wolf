@@ -207,7 +207,7 @@
     "sm": {
       "$type": "typography",
       "$value": {
-        "fontFamily": "{fontFamily.redHatText}",
+        "fontFamily": "{fontFamily.inter}",
         "fontWeight": "{fontWeight.redHatText.regular}",
         "lineHeight": "{lineHeight.body.sm}",
         "fontSize": "{fontSize.body.sm}",
@@ -217,7 +217,7 @@
     "md": {
       "$type": "typography",
       "$value": {
-        "fontFamily": "{fontFamily.redHatText}",
+        "fontFamily": "{fontFamily.inter}",
         "fontWeight": "{fontWeight.redHatText.regular}",
         "lineHeight": "{lineHeight.body.md}",
         "fontSize": "{fontSize.body.md}",
@@ -227,7 +227,7 @@
     "lg": {
       "$type": "typography",
       "$value": {
-        "fontFamily": "{fontFamily.redHatText}",
+        "fontFamily": "{fontFamily.inter}",
         "fontWeight": "{fontWeight.redHatText.regular}",
         "lineHeight": "{lineHeight.body.lg}",
         "fontSize": "{fontSize.body.lg}",

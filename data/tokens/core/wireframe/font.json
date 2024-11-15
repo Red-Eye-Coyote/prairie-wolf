@@ -1,0 +1,54 @@
+{
+  "nRatio": {
+    "inter": {
+      "$type": "other",
+      "$value": "1"
+    }
+  },
+  "fontWeight": {
+    "inter": {
+      "thin": {
+        "$type": "fontWeights",
+        "$value": "Thin"
+      },
+      "extralight": {
+        "$type": "fontWeights",
+        "$value": "Extra Light"
+      },
+      "light": {
+        "$type": "fontWeights",
+        "$value": "Light"
+      },
+      "regular": {
+        "$type": "fontWeights",
+        "$value": "Regular"
+      },
+      "medium": {
+        "$type": "fontWeights",
+        "$value": "Medium"
+      },
+      "semibold": {
+        "$type": "fontWeights",
+        "$value": "Semi Bold"
+      },
+      "bold": {
+        "$type": "fontWeights",
+        "$value": "Bold"
+      },
+      "extrabold": {
+        "$type": "fontWeights",
+        "$value": "Extra Bold"
+      },
+      "black": {
+        "$type": "fontWeights",
+        "$value": "Black"
+      }
+    }
+  },
+  "fontFamily": {
+    "inter": {
+      "$type": "fontFamilies",
+      "$value": "Inter"
+    }
+  }
+}

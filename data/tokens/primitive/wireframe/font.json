@@ -6,13 +6,13 @@
     },
     "body": {
       "$type": "fontFamilies",
-      "$value": "{fontFamily.redHatText}"
+      "$value": "{fontFamily.inter}"
     }
   },
   "fontWeight": {
     "heading": {
       "$type": "fontWeights",
-      "$value": "{fontWeight.redHatDisplay.bold}"
+      "$value": "{fontWeight.inter.bold}"
     },
     "body": {
       "$type": "fontWeights",
@@ -22,7 +22,7 @@
   "nRatio": {
     "heading": {
       "$type": "other",
-      "$value": "{nRatio.redHatDisplay}"
+      "$value": "{nRatio.inter}"
     },
     "body": {
       "$type": "other",
