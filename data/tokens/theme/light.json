@@ -891,5 +891,49 @@
         }
       ]
     }
+  },
+  "icon": {
+    "primary": {
+      "$type": "color",
+      "$value": "{color.neutral.default}"
+    },
+    "information": {
+      "$type": "color",
+      "$value": "{color.neutral.default}"
+    },
+    "success": {
+      "$type": "color",
+      "$value": "{color.success.default}"
+    },
+    "warning": {
+      "$type": "color",
+      "$value": "{color.warning.default}"
+    },
+    "error": {
+      "$type": "color",
+      "$value": "{color.error.default}"
+    }
+  },
+  "text": {
+    "headings": {
+      "$type": "color",
+      "$value": "{color.neutral.900}"
+    },
+    "body": {
+      "$type": "color",
+      "$value": "{color.neutral.800}"
+    },
+    "action": {
+      "$type": "color",
+      "$value": "{color.secondary.default}"
+    },
+    "action-hover": {
+      "$type": "color",
+      "$value": "{color.secondary.500}"
+    },
+    "disabled": {
+      "$type": "color",
+      "$value": "{color.neutral.600}"
+    }
   }
 }
