@@ -24,6 +24,10 @@
       "red": {
         "$type": "color",
         "$value": "#f20505"
+      },
+      "blue": {
+        "$type": "color",
+        "$value": "#0000ff"
       }
     },
     "ultimateGrey": {
@@ -176,6 +180,44 @@
       "900": {
         "$type": "color",
         "$value": "#3C0101"
+      }
+    },
+    "blue": {
+      "100": {
+        "$type": "color",
+        "$value": "#E5E5FF"
+      },
+      "200": {
+        "$type": "color",
+        "$value": "#BFBFFF"
+      },
+      "300": {
+        "$type": "color",
+        "$value": "#9999FF"
+      },
+      "400": {
+        "$type": "color",
+        "$value": "#7373FF"
+      },
+      "500": {
+        "$type": "color",
+        "$value": "#4D4DFF"
+      },
+      "600": {
+        "$type": "color",
+        "$value": "#0000FF"
+      },
+      "700": {
+        "$type": "color",
+        "$value": "#0000B2"
+      },
+      "800": {
+        "$type": "color",
+        "$value": "#000066"
+      },
+      "900": {
+        "$type": "color",
+        "$value": "#000040"
       }
     }
   }
