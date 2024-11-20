@@ -124,6 +124,14 @@
       "default": {
         "$type": "color",
         "$value": "{color.ultimateGrey.500}"
+      },
+      "white": {
+        "$type": "color",
+        "$value": "{color.white}"
+      },
+      "black": {
+        "$type": "color",
+        "$value": "{color.black}"
       }
     },
     "success": {
