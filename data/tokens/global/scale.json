@@ -64,6 +64,10 @@
       "$type": "number",
       "$value": "48"
     },
+    "1300": {
+      "$type": "number",
+      "$value": "52"
+    },
     "1600": {
       "$type": "number",
       "$value": "64"

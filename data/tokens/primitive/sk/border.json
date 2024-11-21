@@ -33,6 +33,10 @@
     "lg": {
       "$type": "borderRadius",
       "$value": "{scale.200}"
+    },
+    "round": {
+      "$type": "borderRadius",
+      "$value": "{scale.1300}"
     }
   }
 }
