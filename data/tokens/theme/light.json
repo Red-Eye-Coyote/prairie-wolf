@@ -212,6 +212,10 @@
       "on-information": {
         "$type": "color",
         "$value": "{color.neutral.white}"
+      },
+      "on-disabled": {
+        "$type": "color",
+        "$value": "{color.neutral.700}"
       }
     },
     "background": {
@@ -221,13 +225,33 @@
       }
     },
     "surface": {
-      "dim": {
-        "$type": "color",
-        "$value": "{color.neutral.400}"
-      },
       "default": {
         "$type": "color",
         "$value": "{color.neutral.200}"
+      },
+      "action": {
+        "$type": "color",
+        "$value": "{color.secondary.default}"
+      },
+      "action-hover": {
+        "$type": "color",
+        "$value": "{color.secondary.500}"
+      },
+      "action-hover-2": {
+        "$type": "color",
+        "$value": "{color.secondary.100}"
+      },
+      "disabled": {
+        "$type": "color",
+        "$value": "{color.neutral.400}"
+      },
+      "error": {
+        "$type": "color",
+        "$value": "{color.error.100}"
+      },
+      "success": {
+        "$type": "color",
+        "$value": "{color.success.100}"
       },
       "bright": {
         "$type": "color",
@@ -239,9 +263,21 @@
         "$type": "color",
         "$value": "{color.neutral.400}"
       },
-      "information": {
+      "action": {
         "$type": "color",
-        "$value": "{color.information.default}"
+        "$value": "{color.secondary.default}"
+      },
+      "action-hover": {
+        "$type": "color",
+        "$value": "{color.secondary.500}"
+      },
+      "focus": {
+        "$type": "color",
+        "$value": "{color.secondary.500}"
+      },
+      "disabled": {
+        "$type": "color",
+        "$value": "{color.neutral.600}"
       },
       "success": {
         "$type": "color",
@@ -254,6 +290,10 @@
       "error": {
         "$type": "color",
         "$value": "{color.error.default}"
+      },
+      "information": {
+        "$type": "color",
+        "$value": "{color.information.default}"
       }
     },
     "shadow": {
