@@ -249,13 +249,21 @@
         "$type": "color",
         "$value": "{color.neutral.500}"
       },
+      "success": {
+        "$type": "color",
+        "$value": "{color.success.100}"
+      },
+      "warning": {
+        "$type": "color",
+        "$value": "{color.warning.100}"
+      },
       "error": {
         "$type": "color",
         "$value": "{color.error.100}"
       },
-      "success": {
+      "information": {
         "$type": "color",
-        "$value": "{color.success.100}"
+        "$value": "{color.information.100}"
       },
       "bright": {
         "$type": "color",
