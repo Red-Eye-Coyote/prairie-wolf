@@ -18,6 +18,7 @@
     "primitive/redeyecoyote/color",
     "primitive/redeyecoyote/font",
     "theme/light",
-    "gs_responsive"
+    "responsive/spacing",
+    "responsive/typography"
   ]
 }

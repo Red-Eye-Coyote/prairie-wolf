@@ -4,7 +4,9 @@
     "name": "Default",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "global/color": "enabled"
+      "global/color": "enabled",
+      "responsive/typography": "disabled",
+      "responsive/spacing": "disabled"
     },
     "$figmaCollectionId": "VariableCollectionId:6:720",
     "$figmaModeId": "6:4",
@@ -69,9 +71,10 @@
     "name": "Default",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "core/wireframe/font": "enabled"
+      "core/wireframe/font": "enabled",
+      "responsive/typography": "disabled",
+      "responsive/spacing": "disabled"
     },
-    "group": "Wireframe",
     "$figmaCollectionId": "VariableCollectionId:6:1087",
     "$figmaModeId": "6:10",
     "$figmaVariableReferences": {
@@ -85,7 +88,8 @@
       "fontWeight.inter.extrabold": "ef120f0264841cf2f2aca3d1923f698225599380",
       "fontWeight.inter.black": "705bd0f6d98d68d578e6a8b1f6581bbbb3bf2422",
       "fontFamily.inter": "bbd4ca9bffd2183002e7819878fe060ec73d45a3"
-    }
+    },
+    "group": "Wireframe"
   },
   {
     "id": "21068297ba1497af0d6d7664976eda170ee6e549",
@@ -93,7 +97,9 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "core/sk/color": "enabled",
-      "core/sk/font": "enabled"
+      "core/sk/font": "enabled",
+      "responsive/typography": "disabled",
+      "responsive/spacing": "disabled"
     },
     "$figmaCollectionId": "VariableCollectionId:6:763",
     "$figmaModeId": "6:5",
@@ -137,7 +143,9 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "core/redeyecoyote/color": "enabled",
-      "core/redeyecoyote/font": "enabled"
+      "core/redeyecoyote/font": "enabled",
+      "responsive/typography": "disabled",
+      "responsive/spacing": "disabled"
     },
     "$figmaCollectionId": "VariableCollectionId:6:2",
     "$figmaModeId": "6:0",
@@ -197,7 +205,9 @@
       "core/redeyecoyote/font": "source",
       "primitive/redeyecoyote/border": "enabled",
       "global/scale": "source",
-      "global/opacity": "source"
+      "global/opacity": "source",
+      "responsive/typography": "disabled",
+      "responsive/spacing": "disabled"
     },
     "$figmaCollectionId": "VariableCollectionId:6:495",
     "$figmaModeId": "6:3",
@@ -302,7 +312,9 @@
       "primitive/sk/border": "enabled",
       "global/scale": "source",
       "primitive/sk/font": "enabled",
-      "global/opacity": "source"
+      "global/opacity": "source",
+      "responsive/typography": "disabled",
+      "responsive/spacing": "disabled"
     },
     "$figmaCollectionId": "VariableCollectionId:6:495",
     "$figmaModeId": "6:6",
@@ -406,7 +418,9 @@
       "core/wireframe/font": "source",
       "global/scale": "source",
       "global/opacity": "source",
-      "global/color": "source"
+      "global/color": "source",
+      "responsive/typography": "disabled",
+      "responsive/spacing": "disabled"
     },
     "$figmaCollectionId": "VariableCollectionId:6:495",
     "$figmaModeId": "6:8",
@@ -504,7 +518,9 @@
     "name": "Light",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "theme/light": "enabled"
+      "theme/light": "enabled",
+      "responsive/typography": "disabled",
+      "responsive/spacing": "disabled"
     },
     "$figmaCollectionId": "VariableCollectionId:6:1147",
     "$figmaModeId": "6:11",
@@ -585,5 +601,47 @@
       "color.shadow.black": "9d75509bceaab25ef58cabe919878f309d2a09d0"
     },
     "group": "Themes"
+  },
+  {
+    "id": "642852b148044cd59450d8946a76317c2719b9aa",
+    "name": "XSmall (<576px)",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {},
+    "group": "Breakpoint"
+  },
+  {
+    "id": "c303201c48e642cb2d0551effad71a28bb45bcca",
+    "name": "Small (≥576px)",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {},
+    "group": "Breakpoint"
+  },
+  {
+    "id": "418a51eb5a9dbe4a048354046c3223dd33b16c2a",
+    "name": "Medium (≥768px)",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {},
+    "group": "Breakpoint"
+  },
+  {
+    "id": "e4c1e30ed6284c5a8aa8ba36e8c0c8188386f127",
+    "name": "Large (≥992px)",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {},
+    "group": "Breakpoint"
+  },
+  {
+    "id": "e18d4957c6b3112813fbdfee570c0b8aa8e30ddd",
+    "name": "XLarge (≥1200px)",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {},
+    "group": "Breakpoint"
+  },
+  {
+    "id": "b83623068373ea094e349277858c4dcfdadda46b",
+    "name": "XXLarge (≥1400px)",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {},
+    "group": "Breakpoint"
   }
 ]

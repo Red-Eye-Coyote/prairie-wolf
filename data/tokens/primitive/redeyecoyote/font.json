@@ -22,7 +22,7 @@
   "nRatio": {
     "heading": {
       "$type": "other",
-      "$value": "{nRatio.inter}"
+      "$value": "{nRatio.redHatDisplay}"
     },
     "body": {
       "$type": "other",
