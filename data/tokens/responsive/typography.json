@@ -207,8 +207,8 @@
     "sm": {
       "$type": "typography",
       "$value": {
-        "fontFamily": "{fontFamily.inter}",
-        "fontWeight": "{fontWeight.redHatText.regular}",
+        "fontFamily": "{fontFamily.body}",
+        "fontWeight": "{fontWeight.body}",
         "lineHeight": "{lineHeight.body.sm}",
         "fontSize": "{fontSize.body.sm}",
         "paragraphSpacing": "{paragraphSpacing.body.sm}"
@@ -217,8 +217,8 @@
     "md": {
       "$type": "typography",
       "$value": {
-        "fontFamily": "{fontFamily.inter}",
-        "fontWeight": "{fontWeight.redHatText.regular}",
+        "fontFamily": "{fontFamily.body}",
+        "fontWeight": "{fontWeight.body}",
         "lineHeight": "{lineHeight.body.md}",
         "fontSize": "{fontSize.body.md}",
         "paragraphSpacing": "{paragraphSpacing.body.md}"
@@ -227,8 +227,8 @@
     "lg": {
       "$type": "typography",
       "$value": {
-        "fontFamily": "{fontFamily.inter}",
-        "fontWeight": "{fontWeight.redHatText.regular}",
+        "fontFamily": "{fontFamily.body}",
+        "fontWeight": "{fontWeight.body}",
         "lineHeight": "{lineHeight.body.lg}",
         "fontSize": "{fontSize.body.lg}",
         "paragraphSpacing": "{paragraphSpacing.body.lg}"

@@ -6,13 +6,13 @@
     },
     "body": {
       "$type": "fontFamilies",
-      "$value": "{fontFamily.inter}"
+      "$value": "{fontFamily.redHatText}"
     }
   },
   "fontWeight": {
     "heading": {
       "$type": "fontWeights",
-      "$value": "{fontWeight.inter.bold}"
+      "$value": "{fontWeight.redHatDisplay.bold}"
     },
     "body": {
       "$type": "fontWeights",
