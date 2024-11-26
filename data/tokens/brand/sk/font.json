@@ -26,7 +26,7 @@
   "nRatio": {
     "heading": {
       "$type": "other",
-      "$value": "{nRatio.fjallaOne}"
+      "$value": "{nRatio.redHatDisplay}"
     },
     "body": {
       "$type": "other",
@@ -34,7 +34,7 @@
     }
   },
   "fontSize": {
-    "breakpoint": {
+    "seeds": {
       "mobile": {
         "$type": "fontSizes",
         "$value": "16"
@@ -46,6 +46,146 @@
       "desktop": {
         "$type": "fontSizes",
         "$value": "19"
+      }
+    },
+    "root": {
+      "$type": "fontSizes",
+      "$value": "{fontSize.seeds.mobile}"
+    },
+    "scale": {
+      "$type": "fontSizes",
+      "$value": "1.25"
+    },
+    "body": {
+      "sm": {
+        "$type": "fontSizes",
+        "$value": "round( {fontSize.root} * pow({fontSize.scale} , -1) / 4) * 4"
+      },
+      "md": {
+        "$type": "fontSizes",
+        "$value": "{fontSize.root}"
+      },
+      "lg": {
+        "$type": "fontSizes",
+        "$value": "round( {fontSize.root} * pow({fontSize.scale} , 1) / 4) * 4"
+      }
+    },
+    "heading": {
+      "h6": {
+        "$type": "fontSizes",
+        "$value": "round( {fontSize.root} * pow({fontSize.scale} , 1) / 4) * 4"
+      },
+      "h5": {
+        "$type": "fontSizes",
+        "$value": "round( {fontSize.root} * pow({fontSize.scale} , 2) / 4) * 4"
+      },
+      "h4": {
+        "$type": "fontSizes",
+        "$value": "round( {fontSize.root} * pow({fontSize.scale} , 3) / 4) * 4"
+      },
+      "h3": {
+        "$type": "fontSizes",
+        "$value": "round( {fontSize.root} * pow({fontSize.scale} , 4) / 4) * 4"
+      },
+      "h2": {
+        "$type": "fontSizes",
+        "$value": "round( {fontSize.root} * pow({fontSize.scale} , 5) / 4) * 4"
+      },
+      "h1": {
+        "$type": "fontSizes",
+        "$value": "round( {fontSize.root} * pow({fontSize.scale} , 6) / 4) * 4"
+      }
+    }
+  },
+  "lineHeight": {
+    "multiplier-body": {
+      "$type": "lineHeights",
+      "$value": "1.6"
+    },
+    "multiplier-heading": {
+      "$type": "lineHeights",
+      "$value": "1.2"
+    },
+    "body": {
+      "sm": {
+        "$type": "lineHeights",
+        "$value": "round({fontSize.body.sm} * {lineHeight.multiplier-body} / 4) * 4"
+      },
+      "md": {
+        "$type": "lineHeights",
+        "$value": "round({fontSize.body.md} * {lineHeight.multiplier-body} / 4) * 4"
+      },
+      "lg": {
+        "$type": "lineHeights",
+        "$value": "round({fontSize.body.lg} * {lineHeight.multiplier-body} / 4) * 4"
+      }
+    },
+    "heading": {
+      "h6": {
+        "$type": "lineHeights",
+        "$value": "round({fontSize.heading.h6} * {lineHeight.multiplier-heading} / 4) * 4"
+      },
+      "h5": {
+        "$type": "lineHeights",
+        "$value": "round({fontSize.heading.h5} * {lineHeight.multiplier-heading} / 4) * 4"
+      },
+      "h4": {
+        "$type": "lineHeights",
+        "$value": "round({fontSize.heading.h4} * {lineHeight.multiplier-heading} / 4) * 4"
+      },
+      "h3": {
+        "$type": "lineHeights",
+        "$value": "round({fontSize.heading.h3} * {lineHeight.multiplier-heading} / 4) * 4"
+      },
+      "h2": {
+        "$type": "lineHeights",
+        "$value": "round({fontSize.heading.h2} * {lineHeight.multiplier-heading} / 4) * 4"
+      },
+      "h1": {
+        "$type": "lineHeights",
+        "$value": "round({fontSize.heading.h1} * {lineHeight.multiplier-heading} / 4) * 4"
+      }
+    }
+  },
+  "paragraphSpacing": {
+    "body": {
+      "sm": {
+        "$type": "paragraphSpacing",
+        "$value": "{lineHeight.body.sm}"
+      },
+      "md": {
+        "$type": "paragraphSpacing",
+        "$value": "{lineHeight.body.md}"
+      },
+      "lg": {
+        "$type": "paragraphSpacing",
+        "$value": "{lineHeight.body.lg}"
+      }
+    },
+    "heading": {
+      "h6": {
+        "$type": "paragraphSpacing",
+        "$value": "{lineHeight.heading.h6}"
+      },
+      "h5": {
+        "$type": "paragraphSpacing",
+        "$value": "{lineHeight.heading.h5}"
+      },
+      "h4": {
+        "$type": "paragraphSpacing",
+        "$value": "{lineHeight.heading.h4}"
+      },
+      "h3": {
+        "$type": "paragraphSpacing",
+        "$value": "{lineHeight.heading.h3}"
+      },
+      "h2": {
+        "$type": "paragraphSpacing",
+        "$value": "{lineHeight.heading.h2}"
+      },
+      "h1": {
+        "$type": "paragraphSpacing",
+        "$value": "{lineHeight.heading.h1}"
       }
     }
   }

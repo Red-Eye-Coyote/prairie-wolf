@@ -1,10 +1,8 @@
 {
   "fontSize": {
-    "breakpoint": {
-      "root": {
-        "$type": "fontSizes",
-        "$value": "{fontSize.breakpoint.tablet}"
-      }
+    "root": {
+      "$type": "fontSizes",
+      "$value": "{fontSize.seeds.tablet}"
     }
   }
 }
