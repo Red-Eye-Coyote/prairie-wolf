@@ -4,7 +4,10 @@
     "name": "Default",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "global/color": "enabled"
+      "global/color": "enabled",
+      "breakpoint/mobile": "disabled",
+      "breakpoint/tablet": "disabled",
+      "breakpoint/desktop": "disabled"
     },
     "$figmaCollectionId": "VariableCollectionId:6:720",
     "$figmaModeId": "6:4",
@@ -69,7 +72,10 @@
     "name": "Default",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "core/wireframe/font": "enabled"
+      "core/wireframe/font": "enabled",
+      "breakpoint/mobile": "disabled",
+      "breakpoint/tablet": "disabled",
+      "breakpoint/desktop": "disabled"
     },
     "$figmaCollectionId": "VariableCollectionId:6:1087",
     "$figmaModeId": "6:10",
@@ -93,7 +99,10 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "core/sk/color": "enabled",
-      "core/sk/font": "enabled"
+      "core/sk/font": "enabled",
+      "breakpoint/mobile": "disabled",
+      "breakpoint/tablet": "disabled",
+      "breakpoint/desktop": "disabled"
     },
     "$figmaCollectionId": "VariableCollectionId:6:763",
     "$figmaModeId": "6:5",
@@ -137,7 +146,10 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "core/redeyecoyote/color": "enabled",
-      "core/redeyecoyote/font": "enabled"
+      "core/redeyecoyote/font": "enabled",
+      "breakpoint/mobile": "disabled",
+      "breakpoint/tablet": "disabled",
+      "breakpoint/desktop": "disabled"
     },
     "$figmaCollectionId": "VariableCollectionId:6:2",
     "$figmaModeId": "6:0",
@@ -197,7 +209,10 @@
       "core/redeyecoyote/font": "source",
       "primitive/redeyecoyote/border": "enabled",
       "global/scale": "source",
-      "global/opacity": "source"
+      "global/opacity": "source",
+      "breakpoint/mobile": "disabled",
+      "breakpoint/tablet": "disabled",
+      "breakpoint/desktop": "disabled"
     },
     "$figmaCollectionId": "VariableCollectionId:6:495",
     "$figmaModeId": "6:3",
@@ -287,12 +302,9 @@
       "fontFamily.body": "8176eb8e25755af0c0d891c076d937e939427361",
       "fontWeight.heading": "3bc3b09e4a40db72ecc42fcf2896698ab81229a3",
       "fontWeight.body": "819f4b1909698c82032751ce35afdf52811bfdd0",
-      "fontSize.breakpoint.xs": "196f3f031f47894b4ae04bcb39f3468597bd3b75",
-      "fontSize.breakpoint.sm": "7fad7687f2989187508d4b1f0d1346f2c14afd51",
-      "fontSize.breakpoint.md": "d2963bb6cc015ed7e95ce612ee5e0dea4a064fe7",
-      "fontSize.breakpoint.lg": "5cc352832a5b42aa6b78fa7a28a575347a9c6d1c",
-      "fontSize.breakpoint.xl": "8dad9c69458f9ba61f280e9709e167d53e3f7731",
-      "fontSize.breakpoint.xxl": "28c0cfa0d32f34d061b539b80c7d96e0b53dcc51"
+      "fontSize.breakpoint.mobile": "196f3f031f47894b4ae04bcb39f3468597bd3b75",
+      "fontSize.breakpoint.tablet": "d2963bb6cc015ed7e95ce612ee5e0dea4a064fe7",
+      "fontSize.breakpoint.desktop": "28c0cfa0d32f34d061b539b80c7d96e0b53dcc51"
     },
     "group": "Brands"
   },
@@ -308,7 +320,10 @@
       "primitive/sk/border": "enabled",
       "global/scale": "source",
       "primitive/sk/font": "enabled",
-      "global/opacity": "source"
+      "global/opacity": "source",
+      "breakpoint/mobile": "disabled",
+      "breakpoint/tablet": "disabled",
+      "breakpoint/desktop": "disabled"
     },
     "$figmaCollectionId": "VariableCollectionId:6:495",
     "$figmaModeId": "6:6",
@@ -412,7 +427,10 @@
       "core/wireframe/font": "source",
       "global/scale": "source",
       "global/opacity": "source",
-      "global/color": "source"
+      "global/color": "source",
+      "breakpoint/mobile": "disabled",
+      "breakpoint/tablet": "disabled",
+      "breakpoint/desktop": "disabled"
     },
     "$figmaCollectionId": "VariableCollectionId:6:495",
     "$figmaModeId": "6:8",
@@ -510,7 +528,10 @@
     "name": "Light",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "theme/light": "enabled"
+      "theme/light": "enabled",
+      "breakpoint/mobile": "disabled",
+      "breakpoint/tablet": "disabled",
+      "breakpoint/desktop": "disabled"
     },
     "$figmaCollectionId": "VariableCollectionId:6:1147",
     "$figmaModeId": "6:11",
@@ -594,11 +615,11 @@
   },
   {
     "id": "642852b148044cd59450d8946a76317c2719b9aa",
-    "name": "XSmall (<576px)",
+    "name": "Mobile",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "responsive/typography": "enabled",
-      "breakpoints/xsmall": "enabled"
+      "breakpoint/mobile": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:34:13163",
     "$figmaModeId": "34:0",
@@ -639,45 +660,106 @@
     "group": "Breakpoint"
   },
   {
-    "id": "c303201c48e642cb2d0551effad71a28bb45bcca",
-    "name": "Small (≥576px)",
-    "$figmaStyleReferences": {},
-    "selectedTokenSets": {},
-    "group": "Breakpoint"
-  },
-  {
     "id": "418a51eb5a9dbe4a048354046c3223dd33b16c2a",
-    "name": "Medium (≥768px)",
+    "name": "Tablet",
     "$figmaStyleReferences": {},
-    "selectedTokenSets": {},
+    "selectedTokenSets": {
+      "responsive/typography": "enabled",
+      "breakpoint/tablet": "enabled"
+    },
+    "$figmaVariableReferences": {
+      "fontSize.breakpoint.root": "069696a69606aee3847ee0f4538c2a29eb73733e",
+      "fontSize.root": "6cdd24e7432aa9d68a1a7d24d328f9b9683d1ee5",
+      "fontSize.scale": "ed7b68cb434e03d0189b87b984d2c38345cc9a93",
+      "fontSize.body.sm": "dc199c71ab9317f88c903fa0ad252fedf4fe2c02",
+      "fontSize.body.md": "e9d433711dba0aac0a0fd7d3bab8edd6143d2d17",
+      "fontSize.body.lg": "e26af07d5878d1403c95dce214c1be4e9ebdf933",
+      "fontSize.heading.h6": "fbf03962e11a98c9a9aed90d7cf5143b3a6bbc8d",
+      "fontSize.heading.h5": "77f7a851ede4209ee52ec18bb7c185d88d224ef8",
+      "fontSize.heading.h4": "fc5fbbc5f10d0deb423d24dcb8dbd089b442ccbe",
+      "fontSize.heading.h3": "14e27c903d1396dbe2e8b3312c4db9c24a782743",
+      "fontSize.heading.h2": "136c3db2a4ca78986f78497bd799a1b9e9d30027",
+      "fontSize.heading.h1": "c3c024a4bac73654d00f63e79c0459f2475177d7",
+      "lineHeight.multiplier-body": "b89ee6cac420411cf174174732affe03a8a658ab",
+      "lineHeight.multiplier-heading": "4c787b083566f318ad2b3a94f45acb1946d92a66",
+      "lineHeight.body.sm": "e3799856d7146178a22dca7e92051f0062ea6f64",
+      "lineHeight.body.md": "6bca9141bbaa42884d4781e4e7e69915adb63f95",
+      "lineHeight.body.lg": "afa14547d0cd3f935c9d819118a7664f73307cbb",
+      "lineHeight.heading.h6": "814cbe50df4ebc9d7ca458b77f99d83f94d5d1b9",
+      "lineHeight.heading.h5": "d88398dc4f548940f54e80282bb2a4c1d66733cc",
+      "lineHeight.heading.h4": "00a9f8984aaca65269a9c8046f3c47cbecb3743e",
+      "lineHeight.heading.h3": "1267c1c13bca95868c22d6500e6e1b6a9d100419",
+      "lineHeight.heading.h2": "2aaa22f8cf8dd7bd6d630916b920177df5f3b020",
+      "lineHeight.heading.h1": "0d8ad371275ed8f43fc0899fca95d0f7adefade5",
+      "paragraphSpacing.body.sm": "0782ebef9e41108c0f3f60e6941c7d32b024fb59",
+      "paragraphSpacing.body.md": "6640baa4f84d2cd508b7433e0df4bba5ab4d9157",
+      "paragraphSpacing.body.lg": "88b36ab0dd6bd697bdd03359b1ccc94ea7af4cf9",
+      "paragraphSpacing.heading.h6": "8bee38b662f48b3ed688519cff3ce974fa7e7626",
+      "paragraphSpacing.heading.h5": "04e6948f9d799c67adb51fc5765dfdee9efa0d76",
+      "paragraphSpacing.heading.h4": "ff4fc87b941e03af10b0bb3fdc669e23bdd6be9e",
+      "paragraphSpacing.heading.h3": "357cc1461c75fc7fe090443d92e6f895ceb1ae09",
+      "paragraphSpacing.heading.h2": "8d5fc562571ea161ed508752157dbcbfc055d15a",
+      "paragraphSpacing.heading.h1": "b8a72cd500e95557d2e65f64a5c5665824ac46d5"
+    },
+    "$figmaCollectionId": "VariableCollectionId:34:13163",
+    "$figmaModeId": "37:2",
     "group": "Breakpoint"
   },
   {
     "id": "e4c1e30ed6284c5a8aa8ba36e8c0c8188386f127",
-    "name": "Large (≥992px)",
+    "name": "Desktop",
     "$figmaStyleReferences": {},
-    "selectedTokenSets": {},
-    "group": "Breakpoint"
-  },
-  {
-    "id": "e18d4957c6b3112813fbdfee570c0b8aa8e30ddd",
-    "name": "XLarge (≥1200px)",
-    "$figmaStyleReferences": {},
-    "selectedTokenSets": {},
-    "group": "Breakpoint"
-  },
-  {
-    "id": "b83623068373ea094e349277858c4dcfdadda46b",
-    "name": "XXLarge (≥1400px)",
-    "$figmaStyleReferences": {},
-    "selectedTokenSets": {},
+    "selectedTokenSets": {
+      "responsive/typography": "enabled",
+      "breakpoint/desktop": "enabled"
+    },
+    "$figmaVariableReferences": {
+      "fontSize.breakpoint.root": "069696a69606aee3847ee0f4538c2a29eb73733e",
+      "fontSize.root": "6cdd24e7432aa9d68a1a7d24d328f9b9683d1ee5",
+      "fontSize.scale": "ed7b68cb434e03d0189b87b984d2c38345cc9a93",
+      "fontSize.body.sm": "dc199c71ab9317f88c903fa0ad252fedf4fe2c02",
+      "fontSize.body.md": "e9d433711dba0aac0a0fd7d3bab8edd6143d2d17",
+      "fontSize.body.lg": "e26af07d5878d1403c95dce214c1be4e9ebdf933",
+      "fontSize.heading.h6": "fbf03962e11a98c9a9aed90d7cf5143b3a6bbc8d",
+      "fontSize.heading.h5": "77f7a851ede4209ee52ec18bb7c185d88d224ef8",
+      "fontSize.heading.h4": "fc5fbbc5f10d0deb423d24dcb8dbd089b442ccbe",
+      "fontSize.heading.h3": "14e27c903d1396dbe2e8b3312c4db9c24a782743",
+      "fontSize.heading.h2": "136c3db2a4ca78986f78497bd799a1b9e9d30027",
+      "fontSize.heading.h1": "c3c024a4bac73654d00f63e79c0459f2475177d7",
+      "lineHeight.multiplier-body": "b89ee6cac420411cf174174732affe03a8a658ab",
+      "lineHeight.multiplier-heading": "4c787b083566f318ad2b3a94f45acb1946d92a66",
+      "lineHeight.body.sm": "e3799856d7146178a22dca7e92051f0062ea6f64",
+      "lineHeight.body.md": "6bca9141bbaa42884d4781e4e7e69915adb63f95",
+      "lineHeight.body.lg": "afa14547d0cd3f935c9d819118a7664f73307cbb",
+      "lineHeight.heading.h6": "814cbe50df4ebc9d7ca458b77f99d83f94d5d1b9",
+      "lineHeight.heading.h5": "d88398dc4f548940f54e80282bb2a4c1d66733cc",
+      "lineHeight.heading.h4": "00a9f8984aaca65269a9c8046f3c47cbecb3743e",
+      "lineHeight.heading.h3": "1267c1c13bca95868c22d6500e6e1b6a9d100419",
+      "lineHeight.heading.h2": "2aaa22f8cf8dd7bd6d630916b920177df5f3b020",
+      "lineHeight.heading.h1": "0d8ad371275ed8f43fc0899fca95d0f7adefade5",
+      "paragraphSpacing.body.sm": "0782ebef9e41108c0f3f60e6941c7d32b024fb59",
+      "paragraphSpacing.body.md": "6640baa4f84d2cd508b7433e0df4bba5ab4d9157",
+      "paragraphSpacing.body.lg": "88b36ab0dd6bd697bdd03359b1ccc94ea7af4cf9",
+      "paragraphSpacing.heading.h6": "8bee38b662f48b3ed688519cff3ce974fa7e7626",
+      "paragraphSpacing.heading.h5": "04e6948f9d799c67adb51fc5765dfdee9efa0d76",
+      "paragraphSpacing.heading.h4": "ff4fc87b941e03af10b0bb3fdc669e23bdd6be9e",
+      "paragraphSpacing.heading.h3": "357cc1461c75fc7fe090443d92e6f895ceb1ae09",
+      "paragraphSpacing.heading.h2": "8d5fc562571ea161ed508752157dbcbfc055d15a",
+      "paragraphSpacing.heading.h1": "b8a72cd500e95557d2e65f64a5c5665824ac46d5"
+    },
+    "$figmaCollectionId": "VariableCollectionId:34:13163",
+    "$figmaModeId": "37:3",
     "group": "Breakpoint"
   },
   {
     "id": "c7af9a7838a702fe3605e6f139c96c4972c7ee6c",
     "name": "Dark",
     "$figmaStyleReferences": {},
-    "selectedTokenSets": {},
+    "selectedTokenSets": {
+      "breakpoint/mobile": "disabled",
+      "breakpoint/tablet": "disabled",
+      "breakpoint/desktop": "disabled"
+    },
     "group": "Themes"
   }
 ]

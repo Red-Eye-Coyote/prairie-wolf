@@ -18,7 +18,9 @@
     "primitive/redeyecoyote/color",
     "primitive/redeyecoyote/font",
     "theme/light",
-    "breakpoints/xsmall",
+    "breakpoint/mobile",
+    "breakpoint/tablet",
+    "breakpoint/desktop",
     "responsive/spacing",
     "responsive/typography"
   ]

@@ -3,7 +3,7 @@
     "breakpoint": {
       "root": {
         "$type": "fontSizes",
-        "$value": "{fontSize.breakpoint.xs}"
+        "$value": "{fontSize.breakpoint.desktop}"
       }
     }
   }
