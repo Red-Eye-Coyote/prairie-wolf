@@ -28,5 +28,33 @@
       "$type": "other",
       "$value": "{nRatio.redHatText}"
     }
+  },
+  "fontSize": {
+    "breakpoint": {
+      "xs": {
+        "$type": "fontSizes",
+        "$value": "16"
+      },
+      "sm": {
+        "$type": "fontSizes",
+        "$value": "16"
+      },
+      "md": {
+        "$type": "fontSizes",
+        "$value": "17"
+      },
+      "lg": {
+        "$type": "fontSizes",
+        "$value": "17"
+      },
+      "xl": {
+        "$type": "fontSizes",
+        "$value": "17"
+      },
+      "xxl": {
+        "$type": "fontSizes",
+        "$value": "19"
+      }
+    }
   }
 }

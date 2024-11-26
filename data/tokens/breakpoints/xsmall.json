@@ -1,0 +1,10 @@
+{
+  "fontSize": {
+    "breakpoint": {
+      "root": {
+        "$type": "fontSizes",
+        "$value": "{fontSize.breakpoint.xs}"
+      }
+    }
+  }
+}
