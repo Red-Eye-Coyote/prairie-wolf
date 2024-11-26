@@ -103,41 +103,41 @@
     "body": {
       "sm": {
         "$type": "paragraphSpacing",
-        "$value": "20"
+        "$value": "{lineHeight.body.sm}"
       },
       "md": {
         "$type": "paragraphSpacing",
-        "$value": "28"
+        "$value": "{lineHeight.body.md}"
       },
       "lg": {
         "$type": "paragraphSpacing",
-        "$value": "32"
+        "$value": "{lineHeight.body.lg}"
       }
     },
     "heading": {
       "h6": {
         "$type": "paragraphSpacing",
-        "$value": "24"
+        "$value": "{lineHeight.heading.h6}"
       },
       "h5": {
         "$type": "paragraphSpacing",
-        "$value": "28"
+        "$value": "{lineHeight.heading.h5}"
       },
       "h4": {
         "$type": "paragraphSpacing",
-        "$value": "32"
+        "$value": "{lineHeight.heading.h4}"
       },
       "h3": {
         "$type": "paragraphSpacing",
-        "$value": "36"
+        "$value": "{lineHeight.heading.h3}"
       },
       "h2": {
         "$type": "paragraphSpacing",
-        "$value": "40"
+        "$value": "{lineHeight.heading.h2}"
       },
       "h1": {
         "$type": "paragraphSpacing",
-        "$value": "48"
+        "$value": "{lineHeight.heading.h1}"
       }
     }
   },

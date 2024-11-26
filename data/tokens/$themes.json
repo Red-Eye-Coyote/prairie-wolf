@@ -4,8 +4,7 @@
     "name": "Default",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "global/color": "enabled",
-      "breakpoints/xsmall": "disabled"
+      "global/color": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:6:720",
     "$figmaModeId": "6:4",
@@ -70,8 +69,7 @@
     "name": "Default",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "core/wireframe/font": "enabled",
-      "breakpoints/xsmall": "disabled"
+      "core/wireframe/font": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:6:1087",
     "$figmaModeId": "6:10",
@@ -95,8 +93,7 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "core/sk/color": "enabled",
-      "core/sk/font": "enabled",
-      "breakpoints/xsmall": "disabled"
+      "core/sk/font": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:6:763",
     "$figmaModeId": "6:5",
@@ -140,8 +137,7 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "core/redeyecoyote/color": "enabled",
-      "core/redeyecoyote/font": "enabled",
-      "breakpoints/xsmall": "disabled"
+      "core/redeyecoyote/font": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:6:2",
     "$figmaModeId": "6:0",
@@ -201,8 +197,7 @@
       "core/redeyecoyote/font": "source",
       "primitive/redeyecoyote/border": "enabled",
       "global/scale": "source",
-      "global/opacity": "source",
-      "breakpoints/xsmall": "disabled"
+      "global/opacity": "source"
     },
     "$figmaCollectionId": "VariableCollectionId:6:495",
     "$figmaModeId": "6:3",
@@ -313,8 +308,7 @@
       "primitive/sk/border": "enabled",
       "global/scale": "source",
       "primitive/sk/font": "enabled",
-      "global/opacity": "source",
-      "breakpoints/xsmall": "disabled"
+      "global/opacity": "source"
     },
     "$figmaCollectionId": "VariableCollectionId:6:495",
     "$figmaModeId": "6:6",
@@ -418,8 +412,7 @@
       "core/wireframe/font": "source",
       "global/scale": "source",
       "global/opacity": "source",
-      "global/color": "source",
-      "breakpoints/xsmall": "disabled"
+      "global/color": "source"
     },
     "$figmaCollectionId": "VariableCollectionId:6:495",
     "$figmaModeId": "6:8",
@@ -517,8 +510,7 @@
     "name": "Light",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "theme/light": "enabled",
-      "breakpoints/xsmall": "disabled"
+      "theme/light": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:6:1147",
     "$figmaModeId": "6:11",
@@ -650,54 +642,42 @@
     "id": "c303201c48e642cb2d0551effad71a28bb45bcca",
     "name": "Small (≥576px)",
     "$figmaStyleReferences": {},
-    "selectedTokenSets": {
-      "breakpoints/xsmall": "disabled"
-    },
+    "selectedTokenSets": {},
     "group": "Breakpoint"
   },
   {
     "id": "418a51eb5a9dbe4a048354046c3223dd33b16c2a",
     "name": "Medium (≥768px)",
     "$figmaStyleReferences": {},
-    "selectedTokenSets": {
-      "breakpoints/xsmall": "disabled"
-    },
+    "selectedTokenSets": {},
     "group": "Breakpoint"
   },
   {
     "id": "e4c1e30ed6284c5a8aa8ba36e8c0c8188386f127",
     "name": "Large (≥992px)",
     "$figmaStyleReferences": {},
-    "selectedTokenSets": {
-      "breakpoints/xsmall": "disabled"
-    },
+    "selectedTokenSets": {},
     "group": "Breakpoint"
   },
   {
     "id": "e18d4957c6b3112813fbdfee570c0b8aa8e30ddd",
     "name": "XLarge (≥1200px)",
     "$figmaStyleReferences": {},
-    "selectedTokenSets": {
-      "breakpoints/xsmall": "disabled"
-    },
+    "selectedTokenSets": {},
     "group": "Breakpoint"
   },
   {
     "id": "b83623068373ea094e349277858c4dcfdadda46b",
     "name": "XXLarge (≥1400px)",
     "$figmaStyleReferences": {},
-    "selectedTokenSets": {
-      "breakpoints/xsmall": "disabled"
-    },
+    "selectedTokenSets": {},
     "group": "Breakpoint"
   },
   {
     "id": "c7af9a7838a702fe3605e6f139c96c4972c7ee6c",
     "name": "Dark",
     "$figmaStyleReferences": {},
-    "selectedTokenSets": {
-      "breakpoints/xsmall": "disabled"
-    },
+    "selectedTokenSets": {},
     "group": "Themes"
   }
 ]
