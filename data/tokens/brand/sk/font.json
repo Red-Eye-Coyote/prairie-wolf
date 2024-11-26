@@ -17,6 +17,10 @@
     "body": {
       "$type": "fontWeights",
       "$value": "{fontWeight.redHatText.regular}"
+    },
+    "body-semibold": {
+      "$type": "fontWeights",
+      "$value": "{fontWeight.redHatText.semibold}"
     }
   },
   "nRatio": {

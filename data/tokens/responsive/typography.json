@@ -214,6 +214,16 @@
         "paragraphSpacing": "{paragraphSpacing.body.sm}"
       }
     },
+    "sm-semibold": {
+      "$type": "typography",
+      "$value": {
+        "fontFamily": "{fontFamily.body}",
+        "fontWeight": "{fontWeight.body-semibold}",
+        "lineHeight": "{lineHeight.body.sm}",
+        "fontSize": "{fontSize.body.sm}",
+        "paragraphSpacing": "{paragraphSpacing.body.sm}"
+      }
+    },
     "md": {
       "$type": "typography",
       "$value": {
@@ -224,11 +234,31 @@
         "paragraphSpacing": "{paragraphSpacing.body.md}"
       }
     },
+    "md-semibold": {
+      "$type": "typography",
+      "$value": {
+        "fontFamily": "{fontFamily.body}",
+        "fontWeight": "{fontWeight.body-semibold}",
+        "lineHeight": "{lineHeight.body.md}",
+        "fontSize": "{fontSize.body.md}",
+        "paragraphSpacing": "{paragraphSpacing.body.md}"
+      }
+    },
     "lg": {
       "$type": "typography",
       "$value": {
         "fontFamily": "{fontFamily.body}",
         "fontWeight": "{fontWeight.body}",
+        "lineHeight": "{lineHeight.body.lg}",
+        "fontSize": "{fontSize.body.lg}",
+        "paragraphSpacing": "{paragraphSpacing.body.lg}"
+      }
+    },
+    "lg-semibold": {
+      "$type": "typography",
+      "$value": {
+        "fontFamily": "{fontFamily.body}",
+        "fontWeight": "{fontWeight.body-semibold}",
         "lineHeight": "{lineHeight.body.lg}",
         "fontSize": "{fontSize.body.lg}",
         "paragraphSpacing": "{paragraphSpacing.body.lg}"
