@@ -2,7 +2,7 @@
   "fontFamily": {
     "heading": {
       "$type": "fontFamilies",
-      "$value": "{fontFamily.redHatDisplay}"
+      "$value": "{fontFamily.fjallaOne}"
     },
     "body": {
       "$type": "fontFamilies",
@@ -12,7 +12,7 @@
   "fontWeight": {
     "heading": {
       "$type": "fontWeights",
-      "$value": "{fontWeight.redHatDisplay.bold}"
+      "$value": "{fontWeight.fjallaOne.regular}"
     },
     "body": {
       "$type": "fontWeights",
@@ -22,7 +22,7 @@
   "nRatio": {
     "heading": {
       "$type": "other",
-      "$value": "{nRatio.redHatDisplay}"
+      "$value": "{nRatio.fjallaOne}"
     },
     "body": {
       "$type": "other",
