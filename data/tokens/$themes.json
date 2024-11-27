@@ -515,6 +515,54 @@
     "group": "Themes"
   },
   {
+    "id": "2f5cf6a99201ce202c59983e9b470d54c25dbad1",
+    "name": "Sam Kimball",
+    "$figmaStyleReferences": {
+      "heading.h6": "S:f44dac376709a1a22c1610c1e38911b2d406c765,",
+      "heading.h5": "S:1ed1e10a5e9e4885c38026d488370bcc4e7d4201,",
+      "heading.h4": "S:6a66197803b69f3bdfeead5c8d200a0000cd8df1,",
+      "heading.h3": "S:31b550073b17b5b4d0a4ad531d9ab89156bbe774,",
+      "heading.h2": "S:d27982c3e6129b534421b1626bca9ef99590ce3b,",
+      "heading.h1": "S:49d985504406866c1b30429dbc8b7cc31c50fc3b,",
+      "body.sm": "S:3a3b8a97838b1e63d3c49772d3ad27f6b1d1b46c,",
+      "body.sm-semibold": "S:0f987f767d53420eeee0441f1a9e4b8f70bde37d,",
+      "body.md": "S:190f282b15946569ebc7f316e1ae79727414ec18,",
+      "body.md-semibold": "S:df094199849784d2619393a4e8522c86903e7157,",
+      "body.lg": "S:20df92761250ed6536e90985e56ab75d4e692728,",
+      "body.lg-semibold": "S:d9d7c70fc7d3abfd16020980d7ced0317771e740,"
+    },
+    "selectedTokenSets": {
+      "typography/default": "enabled",
+      "brand/sk/font": "source",
+      "global/font": "source"
+    },
+    "group": "Typography"
+  },
+  {
+    "id": "237eb25afadd78ef372c62b64292bd064892195f",
+    "name": "Red Eye Coyote",
+    "$figmaStyleReferences": {
+      "heading.h6": "S:c1c4a22cf9ede975cc5d068edec5d9ca65a6be73,",
+      "heading.h5": "S:e8899d4bb21432373f50aed19d61b23049466ed5,",
+      "heading.h4": "S:76d898a3a2af70e5371448304870f94429ad048b,",
+      "heading.h3": "S:b22c81a59e9f696a3f9951dafa1c809a1382aecc,",
+      "heading.h2": "S:02f3233f1c75fe709eea0396f2c14df38f67aaf0,",
+      "heading.h1": "S:91f6a1d44fac3ccb55b1171d8198f250c2c6b294,",
+      "body.sm": "S:fc52492450d73ee90fede2fa36d089957826f98b,",
+      "body.sm-semibold": "S:47a68a776064f6c7985f559f138914839861b0d5,",
+      "body.md": "S:ad23a02dbe5452f3e7eba99075bd3abbd79deed5,",
+      "body.md-semibold": "S:b39ac72a7d8345dbee357687ad90a5fd92de48e0,",
+      "body.lg": "S:7433ac0d0ab6555d6ce5385cd7160703016fe1a9,",
+      "body.lg-semibold": "S:2369efea48e769c54c5b248d1c8ce6eeb26def2d,"
+    },
+    "selectedTokenSets": {
+      "typography/default": "enabled",
+      "brand/redeyecoyote/font": "source",
+      "global/font": "source"
+    },
+    "group": "Typography"
+  },
+  {
     "id": "642852b148044cd59450d8946a76317c2719b9aa",
     "name": "Mobile",
     "$figmaStyleReferences": {},
