@@ -1,8 +1,0 @@
-{
-  "fontSize": {
-    "root": {
-      "$type": "fontSizes",
-      "$value": "{fontSize.seeds.mobile}"
-    }
-  }
-}

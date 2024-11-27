@@ -11,10 +11,9 @@
     "brand/redeyecoyote/color",
     "brand/redeyecoyote/font",
     "theme/light",
-    "typography/default",
-    "breakpoint/mobile",
-    "breakpoint/tablet",
-    "breakpoint/desktop",
-    "responsive/spacing"
+    "responsive/mobile",
+    "responsive/tablet",
+    "responsive/desktop",
+    "typography/default"
   ]
 }
