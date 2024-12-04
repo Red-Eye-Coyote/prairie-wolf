@@ -43,6 +43,10 @@
       }
     },
     "ultimateGrey": {
+      "50": {
+        "$type": "color",
+        "$value": "#FAFAFA"
+      },
       "100": {
         "$type": "color",
         "$value": "#F4F4F5"

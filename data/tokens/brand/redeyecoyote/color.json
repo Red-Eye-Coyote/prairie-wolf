@@ -85,6 +85,10 @@
       }
     },
     "neutral": {
+      "50": {
+        "$type": "color",
+        "$value": "{color.ultimateGrey.50}"
+      },
       "100": {
         "$type": "color",
         "$value": "{color.ultimateGrey.100}"
