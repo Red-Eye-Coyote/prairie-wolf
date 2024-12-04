@@ -23,7 +23,7 @@
       },
       "disabled": {
         "$type": "color",
-        "$value": "{color.neutral.600}"
+        "$value": "{color.neutral.400}"
       },
       "success": {
         "$type": "color",
@@ -65,7 +65,7 @@
     "icon": {
       "default": {
         "$type": "color",
-        "$value": "{color.neutral.default}"
+        "$value": "{color.neutral.800}"
       },
       "action": {
         "$type": "color",
@@ -81,7 +81,7 @@
       },
       "disabled": {
         "$type": "color",
-        "$value": "{color.neutral.600}"
+        "$value": "{color.neutral.400}"
       },
       "success": {
         "$type": "color",
@@ -191,7 +191,7 @@
       },
       "disabled": {
         "$type": "color",
-        "$value": "{color.neutral.600}"
+        "$value": "{color.neutral.500}"
       },
       "success": {
         "$type": "color",
