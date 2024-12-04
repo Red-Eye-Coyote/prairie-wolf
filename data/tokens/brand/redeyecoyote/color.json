@@ -3,6 +3,48 @@
     "primary": {
       "100": {
         "$type": "color",
+        "$value": "{color.ultimateGrey.100}"
+      },
+      "200": {
+        "$type": "color",
+        "$value": "{color.ultimateGrey.200}"
+      },
+      "300": {
+        "$type": "color",
+        "$value": "{color.ultimateGrey.300}"
+      },
+      "400": {
+        "$type": "color",
+        "$value": "{color.ultimateGrey.400}"
+      },
+      "500": {
+        "$type": "color",
+        "$value": "{color.ultimateGrey.500}"
+      },
+      "600": {
+        "$type": "color",
+        "$value": "{color.ultimateGrey.600}"
+      },
+      "700": {
+        "$type": "color",
+        "$value": "{color.ultimateGrey.700}"
+      },
+      "800": {
+        "$type": "color",
+        "$value": "{color.ultimateGrey.800}"
+      },
+      "900": {
+        "$type": "color",
+        "$value": "{color.ultimateGrey.900}"
+      },
+      "default": {
+        "$type": "color",
+        "$value": "{color.ultimateGrey.500}"
+      }
+    },
+    "secondary": {
+      "100": {
+        "$type": "color",
         "$value": "{color.firebrick.100}"
       },
       "200": {
@@ -40,48 +82,6 @@
       "default": {
         "$type": "color",
         "$value": "{color.firebrick.600}"
-      }
-    },
-    "secondary": {
-      "100": {
-        "$type": "color",
-        "$value": "{color.aqua.100}"
-      },
-      "200": {
-        "$type": "color",
-        "$value": "{color.aqua.200}"
-      },
-      "300": {
-        "$type": "color",
-        "$value": "{color.aqua.300}"
-      },
-      "400": {
-        "$type": "color",
-        "$value": "{color.aqua.400}"
-      },
-      "500": {
-        "$type": "color",
-        "$value": "{color.aqua.500}"
-      },
-      "600": {
-        "$type": "color",
-        "$value": "{color.aqua.600}"
-      },
-      "700": {
-        "$type": "color",
-        "$value": "{color.aqua.700}"
-      },
-      "800": {
-        "$type": "color",
-        "$value": "{color.aqua.800}"
-      },
-      "900": {
-        "$type": "color",
-        "$value": "{color.aqua.900}"
-      },
-      "default": {
-        "$type": "color",
-        "$value": "{color.aqua.400}"
       }
     },
     "neutral": {
