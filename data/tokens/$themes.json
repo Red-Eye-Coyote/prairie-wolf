@@ -689,18 +689,18 @@
     "id": "f3becb6e6a15da29219f812d5543de19d0e96610",
     "name": "Default",
     "$figmaStyleReferences": {
-      "heading.h6": "S:30ab03168e92652726d0cad4ac7022928010a49a,",
-      "heading.h5": "S:bfef67bb86eb77cefdba3b5ca845fdc542eb5000,",
-      "heading.h4": "S:140b68beeb72798b739cb26d2cbd2c153275fc8f,",
-      "heading.h3": "S:2c216509135926deed3543e170c6e9e29b62feef,",
-      "heading.h2": "S:c105806a9f334948096147d18c7b0ab5ee5accfb,",
-      "heading.h1": "S:457dddfb69347a22c5b4cf8d07ba833456562665,",
-      "body.sm": "S:7c93de92551ad72ba9896f86c50f0c81e2eae143,",
-      "body.sm-semibold": "S:83df6439bb0a2d1d750ea778b7434294a70db879,",
-      "body.md": "S:ce48384f87598066ff92652d80ef0b3930778474,",
-      "body.md-semibold": "S:168da67698f462fceda6770084d9151cb648f37e,",
-      "body.lg": "S:7ef5095179f0f8f4ac4d811575bf0298a9cb9d73,",
-      "body.lg-semibold": "S:707d65ea784d446a30bfd694d6088fda85028778,"
+      "heading.h6": "S:32c77d7c8d45c53f34169cf3da1424fa97f35252,",
+      "heading.h5": "S:c375b9a23e78a9b0de434bf6247999b497f54564,",
+      "heading.h4": "S:85f33285b2794da115d8e52e893455048acda97e,",
+      "heading.h3": "S:e719440ea0b23431f1abde3f042b55d8bbbc9d99,",
+      "heading.h2": "S:118d66d91d7b2edb5e5de1e4766877a1c3ea9bb4,",
+      "heading.h1": "S:fb329e657d1e326f4054d57712349005e260ec86,",
+      "body.sm": "S:362352f1f7a42c4619f6889cfb789f1718bb60f6,",
+      "body.sm-semibold": "S:113acf70d83c5820521a8e02fefe5e3e46c54889,",
+      "body.md": "S:0408515490b9529f932bde65ba6c14de7615a06e,",
+      "body.md-semibold": "S:3572e4ebd2a7e8ab6b5e67e89010b0a3ca4b4c07,",
+      "body.lg": "S:ea3f249869f5c22839b7040d40752cafc4338c26,",
+      "body.lg-semibold": "S:7750c75eadf6fdaa0a59c6eb85cec8340ebb561e,"
     },
     "selectedTokenSets": {
       "typography/default": "enabled"
