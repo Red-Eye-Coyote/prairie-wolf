@@ -3,48 +3,6 @@
     "primary": {
       "100": {
         "$type": "color",
-        "$value": "{color.illuminating.100}"
-      },
-      "200": {
-        "$type": "color",
-        "$value": "{color.illuminating.200}"
-      },
-      "300": {
-        "$type": "color",
-        "$value": "{color.illuminating.300}"
-      },
-      "400": {
-        "$type": "color",
-        "$value": "{color.illuminating.400}"
-      },
-      "500": {
-        "$type": "color",
-        "$value": "{color.illuminating.500}"
-      },
-      "600": {
-        "$type": "color",
-        "$value": "{color.illuminating.600}"
-      },
-      "700": {
-        "$type": "color",
-        "$value": "{color.illuminating.700}"
-      },
-      "800": {
-        "$type": "color",
-        "$value": "{color.illuminating.800}"
-      },
-      "900": {
-        "$type": "color",
-        "$value": "{color.illuminating.900}"
-      },
-      "default": {
-        "$type": "color",
-        "$value": "{color.illuminating.400}"
-      }
-    },
-    "secondary": {
-      "100": {
-        "$type": "color",
         "$value": "{color.ultimateGrey.100}"
       },
       "200": {
@@ -84,7 +42,53 @@
         "$value": "{color.ultimateGrey.500}"
       }
     },
+    "secondary": {
+      "100": {
+        "$type": "color",
+        "$value": "{color.seagreen.100}"
+      },
+      "200": {
+        "$type": "color",
+        "$value": "{color.seagreen.200}"
+      },
+      "300": {
+        "$type": "color",
+        "$value": "{color.seagreen.300}"
+      },
+      "400": {
+        "$type": "color",
+        "$value": "{color.seagreen.400}"
+      },
+      "500": {
+        "$type": "color",
+        "$value": "{color.seagreen.500}"
+      },
+      "600": {
+        "$type": "color",
+        "$value": "{color.seagreen.600}"
+      },
+      "700": {
+        "$type": "color",
+        "$value": "{color.seagreen.700}"
+      },
+      "800": {
+        "$type": "color",
+        "$value": "{color.seagreen.800}"
+      },
+      "900": {
+        "$type": "color",
+        "$value": "{color.seagreen.900}"
+      },
+      "default": {
+        "$type": "color",
+        "$value": "{color.seagreen.500}"
+      }
+    },
     "neutral": {
+      "50": {
+        "$type": "color",
+        "$value": "{color.ultimateGrey.50}"
+      },
       "100": {
         "$type": "color",
         "$value": "{color.ultimateGrey.100}"
