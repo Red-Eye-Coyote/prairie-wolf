@@ -3,121 +3,121 @@
     "text": {
       "headings": {
         "$type": "color",
-        "$value": "{color.neutral.900}"
+        "$value": "{color.neutral.100}"
       },
       "body": {
         "$type": "color",
-        "$value": "{color.neutral.800}"
+        "$value": "{color.neutral.200}"
       },
       "action": {
         "$type": "color",
-        "$value": "{color.secondary.default}"
+        "$value": "{color.secondary.500}"
       },
       "action-hover": {
         "$type": "color",
-        "$value": "{color.secondary.700}"
+        "$value": "{color.secondary.400}"
       },
       "on-action": {
         "$type": "color",
-        "$value": "{color.neutral.white}"
+        "$value": "{color.secondary.100}"
       },
       "disabled": {
         "$type": "color",
-        "$value": "{color.neutral.600}"
+        "$value": "{color.neutral.500}"
       },
       "success": {
         "$type": "color",
-        "$value": "{color.success.default}"
+        "$value": "{color.success.600}"
       },
       "on-success": {
         "$type": "color",
-        "$value": "{color.neutral.white}"
+        "$value": "{color.success.200}"
       },
       "warning": {
         "$type": "color",
-        "$value": "{color.warning.default}"
+        "$value": "{color.warning.700}"
       },
       "on-warning": {
         "$type": "color",
-        "$value": "{color.warning.900}"
+        "$value": "{color.warning.100}"
       },
       "error": {
         "$type": "color",
-        "$value": "{color.error.default}"
+        "$value": "{color.error.600}"
       },
       "on-error": {
         "$type": "color",
-        "$value": "{color.neutral.white}"
+        "$value": "{color.error.200}"
       },
       "information": {
         "$type": "color",
-        "$value": "{color.information.default}"
+        "$value": "{color.information.500}"
       },
       "on-information": {
         "$type": "color",
-        "$value": "{color.neutral.white}"
+        "$value": "{color.information.200}"
       },
       "on-disabled": {
         "$type": "color",
-        "$value": "{color.neutral.700}"
+        "$value": "{color.neutral.400}"
       }
     },
     "icon": {
       "default": {
         "$type": "color",
-        "$value": "{color.neutral.default}"
+        "$value": "{color.neutral.600}"
       },
       "action": {
         "$type": "color",
-        "$value": "{color.secondary.default}"
+        "$value": "{color.secondary.500}"
       },
       "action-hover": {
         "$type": "color",
-        "$value": "{color.secondary.700}"
+        "$value": "{color.secondary.400}"
       },
       "on-action": {
         "$type": "color",
-        "$value": "{color.neutral.white}"
+        "$value": "{color.secondary.100}"
       },
       "disabled": {
         "$type": "color",
-        "$value": "{color.neutral.600}"
+        "$value": "{color.neutral.500}"
       },
       "success": {
         "$type": "color",
-        "$value": "{color.success.default}"
+        "$value": "{color.success.600}"
       },
       "on-success": {
         "$type": "color",
-        "$value": "{color.neutral.white}"
+        "$value": "{color.success.200}"
       },
       "warning": {
         "$type": "color",
-        "$value": "{color.warning.default}"
+        "$value": "{color.warning.700}"
       },
       "on-warning": {
         "$type": "color",
-        "$value": "{color.warning.900}"
+        "$value": "{color.warning.100}"
       },
       "error": {
         "$type": "color",
-        "$value": "{color.error.default}"
+        "$value": "{color.error.600}"
       },
       "on-error": {
         "$type": "color",
-        "$value": "{color.neutral.white}"
+        "$value": "{color.error.200}"
       },
       "information": {
         "$type": "color",
-        "$value": "{color.information.default}"
+        "$value": "{color.information.500}"
       },
       "on-information": {
         "$type": "color",
-        "$value": "{color.neutral.white}"
+        "$value": "{color.information.200}"
       },
       "on-disabled": {
         "$type": "color",
-        "$value": "{color.neutral.700}"
+        "$value": "{color.neutral.400}"
       }
     },
     "background": {
@@ -129,11 +129,11 @@
     "surface": {
       "default": {
         "$type": "color",
-        "$value": "{color.neutral.100}"
+        "$value": "{color.neutral.900}"
       },
       "action": {
         "$type": "color",
-        "$value": "{color.secondary.default}"
+        "$value": "{color.secondary.800}"
       },
       "action-hover": {
         "$type": "color",
@@ -141,31 +141,31 @@
       },
       "action-hover-2": {
         "$type": "color",
-        "$value": "{color.secondary.100}"
+        "$value": "{color.secondary.900}"
       },
       "disabled": {
         "$type": "color",
-        "$value": "{color.neutral.400}"
+        "$value": "{color.neutral.700}"
       },
       "disabled-selected": {
         "$type": "color",
-        "$value": "{color.neutral.500}"
+        "$value": "{color.neutral.600}"
       },
       "success": {
         "$type": "color",
-        "$value": "{color.success.100}"
+        "$value": "{color.success.900}"
       },
       "warning": {
         "$type": "color",
-        "$value": "{color.warning.100}"
+        "$value": "{color.warning.900}"
       },
       "error": {
         "$type": "color",
-        "$value": "{color.error.100}"
+        "$value": "{color.error.900}"
       },
       "information": {
         "$type": "color",
-        "$value": "{color.information.100}"
+        "$value": "{color.information.900}"
       },
       "bright": {
         "$type": "color",
@@ -175,39 +175,39 @@
     "border": {
       "default": {
         "$type": "color",
-        "$value": "{color.neutral.400}"
+        "$value": "{color.neutral.700}"
       },
       "action": {
         "$type": "color",
-        "$value": "{color.secondary.default}"
+        "$value": "{color.secondary.500}"
       },
       "action-hover": {
         "$type": "color",
-        "$value": "{color.secondary.700}"
+        "$value": "{color.secondary.400}"
       },
       "focus": {
         "$type": "color",
-        "$value": "{color.secondary.800}"
+        "$value": "{color.secondary.200}"
       },
       "disabled": {
         "$type": "color",
-        "$value": "{color.neutral.600}"
+        "$value": "{color.neutral.500}"
       },
       "success": {
         "$type": "color",
-        "$value": "{color.success.default}"
+        "$value": "{color.success.600}"
       },
       "warning": {
         "$type": "color",
-        "$value": "{color.warning.default}"
+        "$value": "{color.warning.700}"
       },
       "error": {
         "$type": "color",
-        "$value": "{color.error.default}"
+        "$value": "{color.error.600}"
       },
       "information": {
         "$type": "color",
-        "$value": "{color.information.default}"
+        "$value": "{color.information.500}"
       }
     },
     "shadow": {
