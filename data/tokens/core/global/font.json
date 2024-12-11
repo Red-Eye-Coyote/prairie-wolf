@@ -7,10 +7,6 @@
     "redHatText": {
       "$type": "other",
       "$value": "1.02"
-    },
-    "fjallaOne": {
-      "$type": "other",
-      "$value": "1"
     }
   },
   "fontWeight": {
@@ -89,44 +85,6 @@
         "$type": "fontWeights",
         "$value": "Bold"
       }
-    },
-    "fjallaOne": {
-      "thin": {
-        "$type": "fontWeights",
-        "$value": "Regular"
-      },
-      "extralight": {
-        "$type": "fontWeights",
-        "$value": "Regular"
-      },
-      "light": {
-        "$type": "fontWeights",
-        "$value": "Regular"
-      },
-      "regular": {
-        "$type": "fontWeights",
-        "$value": "Regular"
-      },
-      "medium": {
-        "$type": "fontWeights",
-        "$value": "Regular"
-      },
-      "semibold": {
-        "$type": "fontWeights",
-        "$value": "Regular"
-      },
-      "bold": {
-        "$type": "fontWeights",
-        "$value": "Regular"
-      },
-      "extrabold": {
-        "$type": "fontWeights",
-        "$value": "Regular"
-      },
-      "black": {
-        "$type": "fontWeights",
-        "$value": "Regular"
-      }
     }
   },
   "fontFamily": {
@@ -137,10 +95,6 @@
     "redHatDisplay": {
       "$type": "fontFamilies",
       "$value": "Red Hat Display"
-    },
-    "fjallaOne": {
-      "$type": "fontFamilies",
-      "$value": "Fjalla One"
     }
   }
 }

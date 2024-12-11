@@ -1,0 +1,86 @@
+{
+  "fontSize": {
+    "seeds": {
+      "mobile": {
+        "$type": "fontSizes",
+        "$value": "16"
+      },
+      "tablet": {
+        "$type": "fontSizes",
+        "$value": "17"
+      },
+      "desktop": {
+        "$type": "fontSizes",
+        "$value": "19"
+      },
+      "typescale": {
+        "$type": "fontSizes",
+        "$value": "1.25"
+      }
+    }
+  },
+  "lineHeight": {
+    "seeds": {
+      "multiplier-body": {
+        "$type": "lineHeights",
+        "$value": "1.6"
+      },
+      "multiplier-heading": {
+        "$type": "lineHeights",
+        "$value": "1.2"
+      }
+    }
+  },
+  "fontFamily": {
+    "fjallaOne": {
+      "$type": "fontFamilies",
+      "$value": "Fjalla One"
+    }
+  },
+  "fontWeight": {
+    "fjallaOne": {
+      "thin": {
+        "$type": "fontWeights",
+        "$value": "Regular"
+      },
+      "extralight": {
+        "$type": "fontWeights",
+        "$value": "Regular"
+      },
+      "light": {
+        "$type": "fontWeights",
+        "$value": "Regular"
+      },
+      "regular": {
+        "$type": "fontWeights",
+        "$value": "Regular"
+      },
+      "medium": {
+        "$type": "fontWeights",
+        "$value": "Regular"
+      },
+      "semibold": {
+        "$type": "fontWeights",
+        "$value": "Regular"
+      },
+      "bold": {
+        "$type": "fontWeights",
+        "$value": "Regular"
+      },
+      "extrabold": {
+        "$type": "fontWeights",
+        "$value": "Regular"
+      },
+      "black": {
+        "$type": "fontWeights",
+        "$value": "Regular"
+      }
+    }
+  },
+  "nRatio": {
+    "fjallaOne": {
+      "$type": "other",
+      "$value": "1"
+    }
+  }
+}
