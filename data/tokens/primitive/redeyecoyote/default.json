@@ -78,10 +78,6 @@
       "900": {
         "$type": "color",
         "$value": "{color.firebrick.900}"
-      },
-      "default": {
-        "$type": "color",
-        "$value": "{color.firebrick.600}"
       }
     },
     "neutral": {

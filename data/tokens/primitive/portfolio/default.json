@@ -78,10 +78,6 @@
       "900": {
         "$type": "color",
         "$value": "{color.seagreen.900}"
-      },
-      "default": {
-        "$type": "color",
-        "$value": "{color.seagreen.500}"
       }
     },
     "neutral": {

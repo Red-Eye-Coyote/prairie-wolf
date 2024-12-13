@@ -11,7 +11,7 @@
       },
       "action": {
         "$type": "color",
-        "$value": "{color.secondary.default}"
+        "$value": "{color.secondary.500}"
       },
       "action-hover": {
         "$type": "color",
@@ -69,7 +69,7 @@
       },
       "action": {
         "$type": "color",
-        "$value": "{color.secondary.default}"
+        "$value": "{color.secondary.500}"
       },
       "action-hover": {
         "$type": "color",
@@ -133,7 +133,7 @@
       },
       "action": {
         "$type": "color",
-        "$value": "{color.secondary.default}"
+        "$value": "{color.secondary.500}"
       },
       "action-hover": {
         "$type": "color",
@@ -179,7 +179,7 @@
       },
       "action": {
         "$type": "color",
-        "$value": "{color.secondary.default}"
+        "$value": "{color.secondary.500}"
       },
       "action-hover": {
         "$type": "color",
