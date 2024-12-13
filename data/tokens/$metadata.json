@@ -8,6 +8,7 @@
     "core/portfolio/font",
     "core/redeyecoyote/color",
     "core/redeyecoyote/font",
+    "primitive/default",
     "primitive/portfolio",
     "primitive/redeyecoyote",
     "themes/light",
