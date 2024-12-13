@@ -288,6 +288,7 @@
       "color.secondary.400": "177a2c850b40b7695c5fcd0292ff98b07fb82ffe",
       "color.secondary.500": "8adb3cc6f49a5da6db9b616f790927453ce7bce5",
       "color.secondary.600": "2b6bf9393d92fc1686e149e1b8ad08e68044fc00",
+      "color.secondary.default": "6789b5b7250f3b438a2f4cc5259c5196a355474b",
       "color.secondary.700": "8583b2021f06cecd0ac4f0341aaa170e86ba5ae3",
       "color.secondary.800": "d8639a46a6c46785dde1317bc1a0f26542171547",
       "color.secondary.900": "d771ae4f5d00b05ab1cdbbcb0a217bba8c0dba82",
@@ -357,8 +358,7 @@
       "borderRadius.sm": "80354605821239c75a85df67621738187d89fecf",
       "borderRadius.md": "b5247d47afe32d77f874ff71c631f70db3c304ac",
       "borderRadius.lg": "edb5f9a174594b4e2b19a8e79036261329936df0",
-      "borderRadius.round": "1cdd054b9fab17bcf72b68cb0e8bba8d23419ce1",
-      "color.secondary.default": "6789b5b7250f3b438a2f4cc5259c5196a355474b"
+      "borderRadius.round": "1cdd054b9fab17bcf72b68cb0e8bba8d23419ce1"
     },
     "group": "Portfolio"
   },

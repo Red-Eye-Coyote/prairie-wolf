@@ -61,13 +61,11 @@
       },
       "500": {
         "$type": "color",
-        "$value": "{color.firebrick.500}",
-        "$description": "Dark Mode default"
+        "$value": "{color.firebrick.500}"
       },
       "600": {
         "$type": "color",
-        "$value": "{color.firebrick.600}",
-        "$description": "Light Mode default"
+        "$value": "{color.firebrick.600}"
       },
       "700": {
         "$type": "color",
@@ -80,6 +78,10 @@
       "900": {
         "$type": "color",
         "$value": "{color.firebrick.900}"
+      },
+      "default": {
+        "$type": "color",
+        "$value": "{color.firebrick.600}"
       }
     },
     "neutral": {

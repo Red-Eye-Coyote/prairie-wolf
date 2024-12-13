@@ -11,11 +11,11 @@
       },
       "action": {
         "$type": "color",
-        "$value": "{color.secondary.600}"
+        "$value": "{color.secondary.default}"
       },
       "action-hover": {
         "$type": "color",
-        "$value": "{color.secondary.700}"
+        "$value": "{color.secondary.600}"
       },
       "on-action": {
         "$type": "color",
@@ -69,11 +69,11 @@
       },
       "action": {
         "$type": "color",
-        "$value": "{color.secondary.600}"
+        "$value": "{color.secondary.default}"
       },
       "action-hover": {
         "$type": "color",
-        "$value": "{color.secondary.700}"
+        "$value": "{color.secondary.600}"
       },
       "on-action": {
         "$type": "color",
@@ -133,11 +133,11 @@
       },
       "action": {
         "$type": "color",
-        "$value": "{color.secondary.600}"
+        "$value": "{color.secondary.default}"
       },
       "action-hover": {
         "$type": "color",
-        "$value": "{color.secondary.700}"
+        "$value": "{color.secondary.600}"
       },
       "action-hover-2": {
         "$type": "color",
@@ -179,15 +179,15 @@
       },
       "action": {
         "$type": "color",
-        "$value": "{color.secondary.600}"
+        "$value": "{color.secondary.default}"
       },
       "action-hover": {
         "$type": "color",
-        "$value": "{color.secondary.700}"
+        "$value": "{color.secondary.600}"
       },
       "focus": {
         "$type": "color",
-        "$value": "{color.secondary.800}"
+        "$value": "{color.secondary.700}"
       },
       "disabled": {
         "$type": "color",
