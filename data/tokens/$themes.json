@@ -11,9 +11,7 @@
       "core/portfolio/color": "enabled",
       "core/portfolio/font": "enabled",
       "core/redeyecoyote/color": "enabled",
-      "core/redeyecoyote/font": "enabled",
-      "typography/rec/default": "disabled",
-      "typography/portfolio/default": "disabled"
+      "core/redeyecoyote/font": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:185:3271",
     "$figmaModeId": "185:0",
@@ -164,9 +162,7 @@
       "core/global/font": "source",
       "core/redeyecoyote/color": "source",
       "core/redeyecoyote/font": "source",
-      "primitive/redeyecoyote/default": "enabled",
-      "typography/rec/default": "disabled",
-      "typography/portfolio/default": "disabled"
+      "primitive/redeyecoyote/default": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:185:3272",
     "$figmaModeId": "185:1",
@@ -271,9 +267,7 @@
       "core/global/scale": "source",
       "core/global/opacity": "source",
       "core/global/color": "source",
-      "primitive/portfolio/default": "enabled",
-      "typography/rec/default": "disabled",
-      "typography/portfolio/default": "disabled"
+      "primitive/portfolio/default": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:2001:3420",
     "$figmaModeId": "2001:2",
@@ -373,9 +367,7 @@
     "name": "Light",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "themes/redeyecoyote/light": "enabled",
-      "typography/rec/default": "disabled",
-      "typography/portfolio/default": "disabled"
+      "themes/redeyecoyote/light": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:185:3273",
     "$figmaModeId": "185:3",
@@ -439,9 +431,7 @@
     "name": "Dark",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "themes/redeyecoyote/dark": "enabled",
-      "typography/rec/default": "disabled",
-      "typography/portfolio/default": "disabled"
+      "themes/redeyecoyote/dark": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:185:3273",
     "$figmaModeId": "185:4",
@@ -505,9 +495,7 @@
     "name": "Light",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "themes/portfolio/light": "enabled",
-      "typography/rec/default": "disabled",
-      "typography/portfolio/default": "disabled"
+      "themes/portfolio/light": "enabled"
     },
     "group": "Portfolio Themes",
     "$figmaCollectionId": "VariableCollectionId:2001:1036",
@@ -571,9 +559,7 @@
     "name": "Dark",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "themes/portfolio/dark": "enabled",
-      "typography/rec/default": "disabled",
-      "typography/portfolio/default": "disabled"
+      "themes/portfolio/dark": "enabled"
     },
     "group": "Portfolio Themes",
     "$figmaCollectionId": "VariableCollectionId:2001:1036",
@@ -637,9 +623,7 @@
     "name": "Mobile",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "responsive/mobile": "enabled",
-      "typography/rec/default": "disabled",
-      "typography/portfolio/default": "disabled"
+      "responsive/mobile": "enabled"
     },
     "$figmaVariableReferences": {
       "fontSize.root": "48397efa6e06f46b89eaabde49c00be4d31bd150",
@@ -681,9 +665,7 @@
     "name": "Tablet",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "responsive/tablet": "enabled",
-      "typography/rec/default": "disabled",
-      "typography/portfolio/default": "disabled"
+      "responsive/tablet": "enabled"
     },
     "$figmaVariableReferences": {
       "fontSize.root": "48397efa6e06f46b89eaabde49c00be4d31bd150",
@@ -725,9 +707,7 @@
     "name": "Desktop",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "responsive/desktop": "enabled",
-      "typography/rec/default": "disabled",
-      "typography/portfolio/default": "disabled"
+      "responsive/desktop": "enabled"
     },
     "$figmaVariableReferences": {
       "fontSize.root": "48397efa6e06f46b89eaabde49c00be4d31bd150",
@@ -767,10 +747,22 @@
   {
     "id": "f3becb6e6a15da29219f812d5543de19d0e96610",
     "name": "Default",
-    "$figmaStyleReferences": {},
+    "$figmaStyleReferences": {
+      "heading.h6": "S:30ab03168e92652726d0cad4ac7022928010a49a,",
+      "heading.h5": "S:bfef67bb86eb77cefdba3b5ca845fdc542eb5000,",
+      "heading.h4": "S:140b68beeb72798b739cb26d2cbd2c153275fc8f,",
+      "heading.h3": "S:2c216509135926deed3543e170c6e9e29b62feef,",
+      "heading.h2": "S:c105806a9f334948096147d18c7b0ab5ee5accfb,",
+      "heading.h1": "S:457dddfb69347a22c5b4cf8d07ba833456562665,",
+      "body.sm": "S:7c93de92551ad72ba9896f86c50f0c81e2eae143,",
+      "body.sm-semibold": "S:83df6439bb0a2d1d750ea778b7434294a70db879,",
+      "body.md": "S:ce48384f87598066ff92652d80ef0b3930778474,",
+      "body.md-semibold": "S:168da67698f462fceda6770084d9151cb648f37e,",
+      "body.lg": "S:7ef5095179f0f8f4ac4d811575bf0298a9cb9d73,",
+      "body.lg-semibold": "S:707d65ea784d446a30bfd694d6088fda85028778,"
+    },
     "selectedTokenSets": {
-      "typography/rec/default": "enabled",
-      "primitive/redeyecoyote/default": "source"
+      "typography/rec/default": "enabled"
     },
     "group": "REC Typography"
   },
