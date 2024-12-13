@@ -17,6 +17,7 @@
     "responsive/mobile",
     "responsive/tablet",
     "responsive/desktop",
-    "typography/default"
+    "typography/rec/default",
+    "typography/portfolio/default"
   ]
 }
