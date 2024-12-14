@@ -35,6 +35,10 @@
     "fjallaOne": {
       "$type": "fontFamilies",
       "$value": "Fjalla One"
+    },
+    "inter": {
+      "$type": "fontFamilies",
+      "$value": "Inter"
     }
   },
   "fontWeight": {
@@ -75,10 +79,52 @@
         "$type": "fontWeights",
         "$value": "Regular"
       }
+    },
+    "inter": {
+      "thin": {
+        "$type": "fontWeights",
+        "$value": "Thin"
+      },
+      "extralight": {
+        "$type": "fontWeights",
+        "$value": "Extra Light"
+      },
+      "light": {
+        "$type": "fontWeights",
+        "$value": "Light"
+      },
+      "regular": {
+        "$type": "fontWeights",
+        "$value": "Regular"
+      },
+      "medium": {
+        "$type": "fontWeights",
+        "$value": "Regular"
+      },
+      "semibold": {
+        "$type": "fontWeights",
+        "$value": "Semi Bold"
+      },
+      "bold": {
+        "$type": "fontWeights",
+        "$value": "Bold"
+      },
+      "extrabold": {
+        "$type": "fontWeights",
+        "$value": "Extra Bold"
+      },
+      "black": {
+        "$type": "fontWeights",
+        "$value": "Black"
+      }
     }
   },
   "nRatio": {
     "fjallaOne": {
+      "$type": "other",
+      "$value": "1"
+    },
+    "inter": {
       "$type": "other",
       "$value": "1"
     }

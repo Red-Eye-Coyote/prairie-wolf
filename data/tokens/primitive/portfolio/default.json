@@ -310,7 +310,7 @@
     },
     "body": {
       "$type": "fontFamilies",
-      "$value": "{fontFamily.redHatText}"
+      "$value": "{fontFamily.inter}"
     }
   },
   "fontWeight": {
@@ -320,11 +320,11 @@
     },
     "body": {
       "$type": "fontWeights",
-      "$value": "{fontWeight.redHatText.regular}"
+      "$value": "{fontWeight.inter.regular}"
     },
     "body-semibold": {
       "$type": "fontWeights",
-      "$value": "{fontWeight.redHatText.semibold}"
+      "$value": "{fontWeight.inter.semibold}"
     }
   },
   "nRatio": {
@@ -334,7 +334,7 @@
     },
     "body": {
       "$type": "other",
-      "$value": "{nRatio.redHatText}"
+      "$value": "{nRatio.inter}"
     }
   },
   "borderWidth": {
