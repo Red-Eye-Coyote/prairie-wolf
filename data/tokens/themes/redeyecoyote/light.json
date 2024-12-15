@@ -27,7 +27,7 @@
       },
       "success": {
         "$type": "color",
-        "$value": "{color.success.default}"
+        "$value": "{color.success.500}"
       },
       "on-success": {
         "$type": "color",
@@ -35,7 +35,7 @@
       },
       "warning": {
         "$type": "color",
-        "$value": "{color.warning.default}"
+        "$value": "{color.warning.400}"
       },
       "on-warning": {
         "$type": "color",
@@ -43,7 +43,7 @@
       },
       "error": {
         "$type": "color",
-        "$value": "{color.error.default}"
+        "$value": "{color.error.500}"
       },
       "on-error": {
         "$type": "color",
@@ -51,7 +51,7 @@
       },
       "information": {
         "$type": "color",
-        "$value": "{color.information.default}"
+        "$value": "{color.information.600}"
       },
       "on-information": {
         "$type": "color",
@@ -85,7 +85,7 @@
       },
       "success": {
         "$type": "color",
-        "$value": "{color.success.default}"
+        "$value": "{color.success.500}"
       },
       "on-success": {
         "$type": "color",
@@ -93,7 +93,7 @@
       },
       "warning": {
         "$type": "color",
-        "$value": "{color.warning.default}"
+        "$value": "{color.warning.400}"
       },
       "on-warning": {
         "$type": "color",
@@ -101,7 +101,7 @@
       },
       "error": {
         "$type": "color",
-        "$value": "{color.error.default}"
+        "$value": "{color.error.500}"
       },
       "on-error": {
         "$type": "color",
@@ -109,7 +109,7 @@
       },
       "information": {
         "$type": "color",
-        "$value": "{color.information.default}"
+        "$value": "{color.information.600}"
       },
       "on-information": {
         "$type": "color",
@@ -195,19 +195,19 @@
       },
       "success": {
         "$type": "color",
-        "$value": "{color.success.default}"
+        "$value": "{color.success.500}"
       },
       "warning": {
         "$type": "color",
-        "$value": "{color.warning.default}"
+        "$value": "{color.warning.400}"
       },
       "error": {
         "$type": "color",
-        "$value": "{color.error.default}"
+        "$value": "{color.error.500}"
       },
       "information": {
         "$type": "color",
-        "$value": "{color.information.default}"
+        "$value": "{color.information.600}"
       }
     },
     "shadow": {

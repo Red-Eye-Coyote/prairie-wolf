@@ -36,10 +36,6 @@
       "900": {
         "$type": "color",
         "$value": "{color.ultimateGrey.900}"
-      },
-      "default": {
-        "$type": "color",
-        "$value": "{color.ultimateGrey.500}"
       }
     },
     "secondary": {
@@ -121,10 +117,6 @@
         "$type": "color",
         "$value": "{color.ultimateGrey.900}"
       },
-      "default": {
-        "$type": "color",
-        "$value": "{color.ultimateGrey.500}"
-      },
       "white": {
         "$type": "color",
         "$value": "{color.white}"
@@ -170,10 +162,6 @@
       "900": {
         "$type": "color",
         "$value": "{color.seagreen.900}"
-      },
-      "default": {
-        "$type": "color",
-        "$value": "{color.seagreen.500}"
       }
     },
     "warning": {
@@ -212,10 +200,6 @@
       "900": {
         "$type": "color",
         "$value": "{color.gold.900}"
-      },
-      "default": {
-        "$type": "color",
-        "$value": "{color.gold.400}"
       }
     },
     "error": {
@@ -254,10 +238,6 @@
       "900": {
         "$type": "color",
         "$value": "{color.red.900}"
-      },
-      "default": {
-        "$type": "color",
-        "$value": "{color.red.500}"
       }
     },
     "information": {
@@ -296,10 +276,6 @@
       "900": {
         "$type": "color",
         "$value": "{color.blue.900}"
-      },
-      "default": {
-        "$type": "color",
-        "$value": "{color.blue.600}"
       }
     }
   },
