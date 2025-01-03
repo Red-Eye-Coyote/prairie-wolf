@@ -1,0 +1,202 @@
+{
+  "nRatio": {
+    "redHatDisplay": {
+      "$type": "other",
+      "$value": "1.02"
+    },
+    "redHatText": {
+      "$type": "other",
+      "$value": "1.02"
+    },
+    "fjallaOne": {
+      "$type": "other",
+      "$value": "1"
+    },
+    "inter": {
+      "$type": "other",
+      "$value": "1"
+    }
+  },
+  "fontWeight": {
+    "redHatDisplay": {
+      "thin": {
+        "$type": "fontWeights",
+        "$value": "Light"
+      },
+      "extralight": {
+        "$type": "fontWeights",
+        "$value": "Light"
+      },
+      "light": {
+        "$type": "fontWeights",
+        "$value": "Light"
+      },
+      "regular": {
+        "$type": "fontWeights",
+        "$value": "Regular"
+      },
+      "medium": {
+        "$type": "fontWeights",
+        "$value": "Medium"
+      },
+      "semibold": {
+        "$type": "fontWeights",
+        "$value": "SemiBold"
+      },
+      "bold": {
+        "$type": "fontWeights",
+        "$value": "Bold"
+      },
+      "extrabold": {
+        "$type": "fontWeights",
+        "$value": "ExtraBold"
+      },
+      "black": {
+        "$type": "fontWeights",
+        "$value": "Black"
+      }
+    },
+    "redHatText": {
+      "thin": {
+        "$type": "fontWeights",
+        "$value": "Light"
+      },
+      "extralight": {
+        "$type": "fontWeights",
+        "$value": "Light"
+      },
+      "light": {
+        "$type": "fontWeights",
+        "$value": "Light"
+      },
+      "regular": {
+        "$type": "fontWeights",
+        "$value": "Regular"
+      },
+      "medium": {
+        "$type": "fontWeights",
+        "$value": "Medium"
+      },
+      "semibold": {
+        "$type": "fontWeights",
+        "$value": "SemiBold"
+      },
+      "bold": {
+        "$type": "fontWeights",
+        "$value": "Bold"
+      },
+      "extrabold": {
+        "$type": "fontWeights",
+        "$value": "Bold"
+      },
+      "black": {
+        "$type": "fontWeights",
+        "$value": "Bold"
+      }
+    },
+    "fjallaOne": {
+      "thin": {
+        "$type": "fontWeights",
+        "$value": "Regular"
+      },
+      "extralight": {
+        "$type": "fontWeights",
+        "$value": "Regular"
+      },
+      "light": {
+        "$type": "fontWeights",
+        "$value": "Regular"
+      },
+      "regular": {
+        "$type": "fontWeights",
+        "$value": "Regular"
+      },
+      "medium": {
+        "$type": "fontWeights",
+        "$value": "Regular"
+      },
+      "semibold": {
+        "$type": "fontWeights",
+        "$value": "Regular"
+      },
+      "bold": {
+        "$type": "fontWeights",
+        "$value": "Regular"
+      },
+      "extrabold": {
+        "$type": "fontWeights",
+        "$value": "Regular"
+      },
+      "black": {
+        "$type": "fontWeights",
+        "$value": "Regular"
+      }
+    },
+    "inter": {
+      "thin": {
+        "$type": "fontWeights",
+        "$value": "Thin"
+      },
+      "extralight": {
+        "$type": "fontWeights",
+        "$value": "Extra Light"
+      },
+      "light": {
+        "$type": "fontWeights",
+        "$value": "Light"
+      },
+      "regular": {
+        "$type": "fontWeights",
+        "$value": "Regular"
+      },
+      "medium": {
+        "$type": "fontWeights",
+        "$value": "Regular"
+      },
+      "semibold": {
+        "$type": "fontWeights",
+        "$value": "Semi Bold"
+      },
+      "bold": {
+        "$type": "fontWeights",
+        "$value": "Bold"
+      },
+      "extrabold": {
+        "$type": "fontWeights",
+        "$value": "Extra Bold"
+      },
+      "black": {
+        "$type": "fontWeights",
+        "$value": "Black"
+      }
+    }
+  },
+  "fontFamily": {
+    "redHatText": {
+      "$type": "fontFamilies",
+      "$value": "Red Hat Text"
+    },
+    "redHatDisplay": {
+      "$type": "fontFamilies",
+      "$value": "Red Hat Display"
+    },
+    "fjallaOne": {
+      "$type": "fontFamilies",
+      "$value": "Fjalla One"
+    },
+    "inter": {
+      "$type": "fontFamilies",
+      "$value": "Inter"
+    }
+  },
+  "typescale": {
+    "minorThird": {
+      "$type": "other",
+      "$value": "1.2"
+    },
+    "majorThird": {
+      "$type": "other",
+      "$value": "1.25"
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "fontSize": {
+    "root": {
+      "$type": "fontSizes",
+      "$value": "17"
+    }
+  }
+}

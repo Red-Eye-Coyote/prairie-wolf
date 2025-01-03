@@ -1,23 +1,22 @@
 {
   "tokenSetOrder": [
-    "core/global/color",
-    "core/global/opacity",
-    "core/global/scale",
-    "core/global/font",
-    "core/portfolio/color",
-    "core/portfolio/font",
-    "core/redeyecoyote/color",
-    "core/redeyecoyote/font",
+    "global/color",
+    "global/opacity",
+    "global/scale",
+    "global/font",
     "primitive/portfolio/default",
-    "primitive/redeyecoyote/default",
-    "themes/redeyecoyote/light",
-    "themes/redeyecoyote/dark",
+    "primitive/rec/default",
     "themes/portfolio/light",
     "themes/portfolio/dark",
-    "responsive/mobile",
-    "responsive/tablet",
-    "responsive/desktop",
-    "typography/rec/default",
-    "typography/portfolio/default"
+    "themes/rec/light",
+    "themes/rec/dark",
+    "responsive/portfolio/mobile",
+    "responsive/portfolio/tablet",
+    "responsive/portfolio/desktop",
+    "responsive/rec/mobile",
+    "responsive/rec/tablet",
+    "responsive/rec/desktop",
+    "typography/portfolio/default",
+    "typography/rec/default"
   ]
 }

@@ -352,5 +352,15 @@
       "$type": "borderRadius",
       "$value": "{scale.1300}"
     }
+  },
+  "multipliers": {
+    "lineHeight-body": {
+      "$type": "other",
+      "$value": "1.6"
+    },
+    "lineHeight-heading": {
+      "$type": "other",
+      "$value": "1.2"
+    }
   }
 }

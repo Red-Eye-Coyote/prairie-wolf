@@ -2,16 +2,12 @@
   "fontSize": {
     "root": {
       "$type": "fontSizes",
-      "$value": "{fontSize.seeds.mobile}"
-    },
-    "scale": {
-      "$type": "fontSizes",
-      "$value": "{fontSize.seeds.typescale}"
+      "$value": "16"
     },
     "body": {
       "sm": {
         "$type": "fontSizes",
-        "$value": "round( {fontSize.root} * pow({fontSize.seeds.typescale} , -1) / 4) * 4"
+        "$value": "round( {fontSize.root} * pow({typescale.default} , -1) / 4) * 4"
       },
       "md": {
         "$type": "fontSizes",
@@ -19,33 +15,33 @@
       },
       "lg": {
         "$type": "fontSizes",
-        "$value": "round( {fontSize.root} * pow({fontSize.seeds.typescale} , 1) / 4) * 4"
+        "$value": "round( {fontSize.root} * pow({typescale.default} , 1) / 4) * 4"
       }
     },
     "heading": {
       "h6": {
         "$type": "fontSizes",
-        "$value": "round( {fontSize.root} * pow({fontSize.seeds.typescale} , 1) / 4) * 4"
+        "$value": "round( {fontSize.root} * pow({typescale.default} , 1) / 4) * 4"
       },
       "h5": {
         "$type": "fontSizes",
-        "$value": "round( {fontSize.root} * pow({fontSize.seeds.typescale} , 2) / 4) * 4"
+        "$value": "round( {fontSize.root} * pow({typescale.default} , 2) / 4) * 4"
       },
       "h4": {
         "$type": "fontSizes",
-        "$value": "round( {fontSize.root} * pow({fontSize.seeds.typescale} , 3) / 4) * 4"
+        "$value": "round( {fontSize.root} * pow({typescale.default} , 3) / 4) * 4"
       },
       "h3": {
         "$type": "fontSizes",
-        "$value": "round( {fontSize.root} * pow({fontSize.seeds.typescale} , 4) / 4) * 4"
+        "$value": "round( {fontSize.root} * pow({typescale.default} , 4) / 4) * 4"
       },
       "h2": {
         "$type": "fontSizes",
-        "$value": "round( {fontSize.root} * pow({fontSize.seeds.typescale} , 5) / 4) * 4"
+        "$value": "round( {fontSize.root} * pow({typescale.default} , 5) / 4) * 4"
       },
       "h1": {
         "$type": "fontSizes",
-        "$value": "round( {fontSize.root} * pow({fontSize.seeds.typescale} , 6) / 4) * 4"
+        "$value": "round( {fontSize.root} * pow({typescale.default} , 6) / 4) * 4"
       }
     }
   },
@@ -53,41 +49,41 @@
     "body": {
       "sm": {
         "$type": "lineHeights",
-        "$value": "round({fontSize.body.sm} * {lineHeight.seeds.multiplier-body} / 4) * 4"
+        "$value": "round({fontSize.body.sm} * {multipliers.lineHeight-body} / 4) * 4"
       },
       "md": {
         "$type": "lineHeights",
-        "$value": "round({fontSize.body.md} * {lineHeight.seeds.multiplier-body} / 4) * 4"
+        "$value": "round({fontSize.body.md} * {multipliers.lineHeight-body} / 4) * 4"
       },
       "lg": {
         "$type": "lineHeights",
-        "$value": "round({fontSize.body.lg} * {lineHeight.seeds.multiplier-body} / 4) * 4"
+        "$value": "round({fontSize.body.lg} * {multipliers.lineHeight-body} / 4) * 4"
       }
     },
     "heading": {
       "h6": {
         "$type": "lineHeights",
-        "$value": "round({fontSize.heading.h6} * {lineHeight.seeds.multiplier-heading} / 4) * 4"
+        "$value": "round({fontSize.heading.h6} * {multipliers.lineHeight-heading} / 4) * 4"
       },
       "h5": {
         "$type": "lineHeights",
-        "$value": "round({fontSize.heading.h5} * {lineHeight.seeds.multiplier-heading} / 4) * 4"
+        "$value": "round({fontSize.heading.h5} * {multipliers.lineHeight-heading} / 4) * 4"
       },
       "h4": {
         "$type": "lineHeights",
-        "$value": "round({fontSize.heading.h4} * {lineHeight.seeds.multiplier-heading} / 4) * 4"
+        "$value": "round({fontSize.heading.h4} * {multipliers.lineHeight-heading} / 4) * 4"
       },
       "h3": {
         "$type": "lineHeights",
-        "$value": "round({fontSize.heading.h3} * {lineHeight.seeds.multiplier-heading} / 4) * 4"
+        "$value": "round({fontSize.heading.h3} * {multipliers.lineHeight-heading} / 4) * 4"
       },
       "h2": {
         "$type": "lineHeights",
-        "$value": "round({fontSize.heading.h2} * {lineHeight.seeds.multiplier-heading} / 4) * 4"
+        "$value": "round({fontSize.heading.h2} * {multipliers.lineHeight-heading} / 4) * 4"
       },
       "h1": {
         "$type": "lineHeights",
-        "$value": "round({fontSize.heading.h1} * {lineHeight.seeds.multiplier-heading} / 4) * 4"
+        "$value": "round({fontSize.heading.h1} * {multipliers.lineHeight-heading} / 4) * 4"
       }
     }
   },
@@ -131,6 +127,12 @@
         "$type": "paragraphSpacing",
         "$value": "{lineHeight.heading.h1}"
       }
+    }
+  },
+  "typescale": {
+    "default": {
+      "$type": "other",
+      "$value": "{typescale.majorThird}"
     }
   }
 }

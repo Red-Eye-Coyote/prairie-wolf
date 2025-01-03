@@ -1,43 +1,13 @@
 {
   "heading": {
-    "h6": {
+    "h1": {
       "$type": "typography",
       "$value": {
-        "fontFamily": "{fontFamily.body}",
-        "fontWeight": "{fontWeight.inter.semibold}",
-        "lineHeight": "{lineHeight.heading.h6}",
-        "fontSize": "{fontSize.heading.h6}",
-        "paragraphSpacing": "{paragraphSpacing.heading.h6}"
-      }
-    },
-    "h5": {
-      "$type": "typography",
-      "$value": {
-        "fontFamily": "{fontFamily.body}",
-        "fontWeight": "{fontWeight.inter.semibold}",
-        "lineHeight": "{lineHeight.heading.h5}",
-        "fontSize": "{fontSize.heading.h5}",
-        "paragraphSpacing": "{paragraphSpacing.heading.h5}"
-      }
-    },
-    "h4": {
-      "$type": "typography",
-      "$value": {
-        "fontFamily": "{fontFamily.body}",
-        "fontWeight": "{fontWeight.inter.semibold}",
-        "lineHeight": "{lineHeight.heading.h4}",
-        "fontSize": "{fontSize.heading.h4}",
-        "paragraphSpacing": "{paragraphSpacing.heading.h4}"
-      }
-    },
-    "h3": {
-      "$type": "typography",
-      "$value": {
-        "fontFamily": "{fontFamily.body}",
-        "fontWeight": "{fontWeight.inter.semibold}",
-        "lineHeight": "{lineHeight.heading.h3}",
-        "fontSize": "{fontSize.heading.h3}",
-        "paragraphSpacing": "{paragraphSpacing.heading.h3}"
+        "fontFamily": "{fontFamily.heading}",
+        "fontWeight": "{fontWeight.heading}",
+        "lineHeight": "{lineHeight.heading.h1}",
+        "fontSize": "{fontSize.heading.h1}",
+        "paragraphSpacing": "{paragraphSpacing.heading.h1}"
       }
     },
     "h2": {
@@ -50,14 +20,44 @@
         "paragraphSpacing": "{paragraphSpacing.heading.h2}"
       }
     },
-    "h1": {
+    "h3": {
       "$type": "typography",
       "$value": {
-        "fontFamily": "{fontFamily.heading}",
-        "fontWeight": "{fontWeight.heading}",
-        "lineHeight": "{lineHeight.heading.h1}",
-        "fontSize": "{fontSize.heading.h1}",
-        "paragraphSpacing": "{paragraphSpacing.heading.h1}"
+        "fontFamily": "{fontFamily.body}",
+        "fontWeight": "{fontWeight.inter.semibold}",
+        "lineHeight": "{lineHeight.heading.h3}",
+        "fontSize": "{fontSize.heading.h3}",
+        "paragraphSpacing": "{paragraphSpacing.heading.h3}"
+      }
+    },
+    "h4": {
+      "$type": "typography",
+      "$value": {
+        "fontFamily": "{fontFamily.body}",
+        "fontWeight": "{fontWeight.inter.semibold}",
+        "lineHeight": "{lineHeight.heading.h4}",
+        "fontSize": "{fontSize.heading.h4}",
+        "paragraphSpacing": "{paragraphSpacing.heading.h4}"
+      }
+    },
+    "h5": {
+      "$type": "typography",
+      "$value": {
+        "fontFamily": "{fontFamily.body}",
+        "fontWeight": "{fontWeight.inter.semibold}",
+        "lineHeight": "{lineHeight.heading.h5}",
+        "fontSize": "{fontSize.heading.h5}",
+        "paragraphSpacing": "{paragraphSpacing.heading.h5}"
+      }
+    },
+    "h6": {
+      "$type": "typography",
+      "$value": {
+        "fontFamily": "{fontFamily.body}",
+        "fontWeight": "{fontWeight.inter.semibold}",
+        "lineHeight": "{lineHeight.heading.h6}",
+        "fontSize": "{fontSize.heading.h6}",
+        "paragraphSpacing": "{paragraphSpacing.heading.h6}"
       }
     }
   },
